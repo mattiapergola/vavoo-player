@@ -665,6 +665,33 @@ class EPGManager:
 
         return True
 
+    def get_aggregated_xml(self) -> Optional[bytes]:
+        """Genera XML EPG aggregato per tutti i paesi."""
+        if not self.channels:
+            return None
+
+        root = ET.Element("tv")
+        for ch_id, info in self.channels.items():
+            ch_elem = ET.SubElement(root, "channel", id=ch_id)
+            dn = ET.SubElement(ch_elem, "display-name")
+            dn.text = info.display_name
+            if info.icon:
+                ET.SubElement(ch_elem, "icon", src=info.icon)
+
+        for ch_id, progs in self.programs.items():
+            for prog in progs:
+                p = ET.SubElement(root, "programme",
+                                   start=prog.start.strftime("%Y%m%d%H%M%S %z"),
+                                   stop=prog.stop.strftime("%Y%m%d%H%M%S %z"),
+                                   channel=ch_id)
+                t = ET.SubElement(p, "title")
+                t.text = prog.title
+                if prog.desc:
+                    d = ET.SubElement(p, "desc")
+                    d.text = prog.desc
+
+        return ET.tostring(root, encoding='utf-8', xml_declaration=True)
+
     def _build_name_index(self):
         """Build index for name-based lookups."""
         self.name_to_id = {}
@@ -716,6 +743,9 @@ class EPGManager:
     def clear_cache(self):
         """Clear all cached EPG data."""
         self.cache.clear()
+
+
+DEFAULT_SOURCES = EPGManager.DEFAULT_SOURCES
 
 
 # Convenience function for backward compatibility
