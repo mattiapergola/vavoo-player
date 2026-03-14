@@ -35,7 +35,7 @@ class EPGSource:
     backup_url: Optional[str] = None
     enabled: bool = True
     priority: int = 0
-
+    country_code: str = ""
 
 @dataclass
 class ChannelInfo:
