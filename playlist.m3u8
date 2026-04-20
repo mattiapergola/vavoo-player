@@ -597,9 +597,6 @@ https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 17" tvg-name="SKY PRIMAFILA 17" tvg-logo="" channel="SKY PRIMAFILA 17" group-title="Primafila / PPV",SKY PRIMAFILA 17
 https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SKY PRIMAFILA 2" tvg-name="SKY PRIMAFILA 2" tvg-logo="https://logo.huhu.to/logo?c=877200714.png" channel="SKY PRIMAFILA 2" group-title="Primafila / PPV",SKY PRIMAFILA 2
-https://vavoo.to/vavoo-iptv/play/8772007144e30fd3ca161
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 2" tvg-name="SKY PRIMAFILA 2" tvg-logo="" channel="SKY PRIMAFILA 2" group-title="Primafila / PPV",SKY PRIMAFILA 2
 https://vavoo.to/vavoo-iptv/play/525374356eb78c097e6a2
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -644,6 +641,9 @@ https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 9" tvg-name="SKY PRIMAFILA 9" tvg-logo="" channel="SKY PRIMAFILA 9" group-title="Primafila / PPV",SKY PRIMAFILA 9
 https://vavoo.to/vavoo-iptv/play/17532606771304e2497369
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://logo.huhu.to/logo?c=2775802255.png" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
+https://vavoo.to/vavoo-iptv/play/277580225585f503fbfc87
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
 https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736
@@ -1289,9 +1289,6 @@ https://vavoo.to/vavoo-iptv/play/3639213638a7c6a2cc326e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="EUROSPORT 4 TIMVISION" tvg-name="EUROSPORT 4 TIMVISION" tvg-logo="" channel="EUROSPORT 4 TIMVISION" group-title="Sport",EUROSPORT 4 TIMVISION
 https://vavoo.to/vavoo-iptv/play/1668185301194a1978c0b2
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EUROSPORT 5 TIMVISION" tvg-name="EUROSPORT 5 TIMVISION" tvg-logo="" channel="EUROSPORT 5 TIMVISION" group-title="Sport",EUROSPORT 5 TIMVISION
-https://vavoo.to/vavoo-iptv/play/3667240765238d57794d79
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="EUROSPORT 6 TIMVISION" tvg-name="EUROSPORT 6 TIMVISION" tvg-logo="" channel="EUROSPORT 6 TIMVISION" group-title="Sport",EUROSPORT 6 TIMVISION
 https://vavoo.to/vavoo-iptv/play/3421031748051d1097ba07
