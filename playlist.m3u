@@ -450,6 +450,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F23176844530f9ee58ada3e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT 2 TIMVISION" tvg-name="EUROSPORT 2 TIMVISION" tvg-logo="" channel="EUROSPORT 2 TIMVISION" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11002614150ec811c243eb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://logo.huhu.to/logo?c=1665920101.png" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1665920101d5db640ce7e6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
