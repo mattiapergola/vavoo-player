@@ -450,6 +450,9 @@ https://vavoo.to/vavoo-iptv/play/2283887097a4248311ff27
 #EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
 https://vavoo.to/vavoo-iptv/play/23176844530f9ee58ada3e
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="EUROSPORT 2 TIMVISION" tvg-name="EUROSPORT 2 TIMVISION" tvg-logo="" channel="EUROSPORT 2 TIMVISION" group-title="Sport",EUROSPORT 2 TIMVISION
+https://vavoo.to/vavoo-iptv/play/11002614150ec811c243eb
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://logo.huhu.to/logo?c=1665920101.png" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
 https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
