@@ -1,4 +1,8 @@
 #EXTM3U
-# Generato il 2026-06-12 04:15 UTC
-#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Ucrania 🆚 Cuba",Ucrania 🆚 Cuba
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/NA4Gcq7H/live.isml/.m3u8
+# Generato il 2026-06-12 10:19 UTC
+#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Ucraina vs Cuba",Ucraina vs Cuba
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Zm6Ml8yw/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Giappone vs Polonia",Giappone vs Polonia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/QDmrOfSG/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Georgia  v Suiza | European Golden League Women🇱",Georgia  v Suiza | European Golden League Women🇱
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Zm6Ml8yw/live.isml/.m3u8
