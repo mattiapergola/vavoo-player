@@ -1,4 +1,6 @@
 #EXTM3U
-# Generato il 2026-06-12 22:58 UTC
+# Generato il 2026-06-13 00:23 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Argentina 🆚 Iran",Argentina 🆚 Iran
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/EIrfSGwQ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Turquia 🆚 Francia",Turquia 🆚 Francia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/gBjESH6X/live.isml/.m3u8
