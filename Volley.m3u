@@ -1,6 +1,10 @@
 #EXTM3U
-# Generato il 2026-06-13 04:02 UTC
-#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Argentina 🆚 Iran",Argentina 🆚 Iran
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/EIrfSGwQ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Turquia 🆚 Francia",Turquia 🆚 Francia
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/gBjESH6X/live.isml/.m3u8
+# Generato il 2026-06-13 09:20 UTC
+#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="China 🆚 Japon",China 🆚 Japon
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kLKf9VLO/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Cuba 🆚 Eslovenia",Cuba 🆚 Eslovenia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kpPn4ttb/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Brasil 🆚 Serbia",Brasil 🆚 Serbia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/sZYe48qv/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Bulgaria 🆚 Argentina",Bulgaria 🆚 Argentina
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/hZqsMQ1A/live.isml/.m3u8
