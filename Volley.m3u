@@ -1,4 +1,18 @@
 #EXTM3U
-# Generato il 2026-06-17 04:22 UTC
-#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="SOLUCIONADO - República Dominicana vs Estados Unidos",SOLUCIONADO - República Dominicana vs Estados Unidos
+# Generato il 2026-06-17 11:02 UTC
+#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="República Dominicana vs Estados Unidos",República Dominicana vs Estados Unidos
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/lKLUM1d7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Canada vs Holanda",Canada vs Holanda
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/3HjAtHGp/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Republica Checa vs Italia",Republica Checa vs Italia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/YCZ1BpRi/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Alemania vs China",Alemania vs China
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/eAo0igCT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Bulgaria vs Polonia",Bulgaria vs Polonia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/XIR0FeRi/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Japon vs Serbia",Japon vs Serbia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/fyPzBuhl/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Francia vs Brasil",Francia vs Brasil
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/3XgMk3eN/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Tailandia vs Ucrania",Tailandia vs Ucrania
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/D9wA2YIG/live.isml/.m3u8
