@@ -1,9 +1,9 @@
 #EXTM3U
-# Generato il 2026-06-19 16:58 UTC
+# Generato il 2026-06-19 20:52 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Bulgaria vs Canadá",Bulgaria vs Canadá
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1prqdV5n/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Ucrania vs Holanda",Ucrania vs Holanda
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/iZkP5QPu/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Belgica vs Alemania",Belgica vs Alemania
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/FOx2hzQg/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley3" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Japon vs Republica Checa",Japon vs Republica Checa
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/17JlnIzj/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley4" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Francia vs China",Francia vs China
