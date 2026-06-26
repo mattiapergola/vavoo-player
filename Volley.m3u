@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-06-26 15:11 UTC
+# Generato il 2026-06-26 17:16 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="China v Argentina",China v Argentina
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Shx1NG3X/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Ucrania v Canada",Ucrania v Canada
@@ -8,3 +8,7 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/ASAdntH0/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/mUMcUuHS/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley4" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Brasil v Italia",Brasil v Italia
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/EwTemoL0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Belgica v Alemania",Belgica v Alemania
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/HYK7asB0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Serbia v Cuba",Serbia v Cuba
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/97MI1gSH/live.isml/.m3u8
