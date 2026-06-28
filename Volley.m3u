@@ -1,14 +1,20 @@
 #EXTM3U
-# Generato il 2026-06-28 04:05 UTC
-#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Eslovenia vs Brasil",Eslovenia vs Brasil
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/9PAN24ws/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Francia vs Serbia",Francia vs Serbia
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/xbiuyNQL/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Turquía vs Argentina",Turquía vs Argentina
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/gmRYHlKa/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Bulgaria vs Canadá",Bulgaria vs Canadá
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/fjUGxsMl/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Polonia vs Alemania",Polonia vs Alemania
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/9a8g06pX/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Estados Unidos vs Japón",Estados Unidos vs Japón
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/voNySALj/live.isml/.m3u8
+# Generato il 2026-06-28 08:56 UTC
+#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Bulgaria vs Ucrania",Bulgaria vs Ucrania
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/VTqwEUR0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="China vs Alemania",China vs Alemania
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jlplp0uu/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Iran vs Cuba",Iran vs Cuba
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/iFKxDLdX/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Belgica vs Turquia",Belgica vs Turquia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/aMfWp6yu/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Canada vs Brasil",Canada vs Brasil
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/lQskLj8Y/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Francia vs Japón",Francia vs Japón
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/UYZBWFmU/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Polonia vs Argentina",Polonia vs Argentina
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/oStNATqe/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Eslovenia vs Italia",Eslovenia vs Italia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nh6MoHmv/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley9" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Serbia vs Estados Unidos",Serbia vs Estados Unidos
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/W1jc4QHb/live.isml/.m3u8
