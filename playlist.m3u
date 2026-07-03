@@ -421,9 +421,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22903950460d6b257bf610
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3590183307ca309aa6be37
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3475299702c52e31a7073f
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="https://logo.huhu.to/logo?c=1376440573.png" channel="DAZN1.it" group-title="Sport",DAZN 1
@@ -682,6 +679,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1264775727d4145aa36927
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6087746837741766a74b3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F80896559d4a6e09d36f1
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Blaze.it" tvg-name="BLAZE" tvg-logo="https://logo.huhu.to/logo?c=2532635659.png" channel="Blaze.it" group-title="Documentary",BLAZE
@@ -714,9 +714,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" tvg-logo="https://logo.huhu.to/logo?c=714472867.png" channel="PESCA" group-title="Documentary",PESCA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F714472867a9a9547f329c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" tvg-logo="" channel="PescaCaccia.it" group-title="Documentary",PESCA E CACCIA
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F312451299385241b4e7078
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Blaze.it" tvg-name="BLAZE" tvg-logo="https://logo.huhu.to/logo?c=2532635659.png" channel="Blaze.it" group-title="Intrattenimento",BLAZE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F25326356590c9338734e4b
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -746,6 +743,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" tvg-logo="https://logo.huhu.to/logo?c=380958472.png" channel="NICK JR" group-title="Kids",NICK JR
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F38095847274e645e8a065
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON" tvg-logo="https://logo.huhu.to/logo?c=3039389215.png" channel="Nickelodeon.it" group-title="Kids",NICKELODEON
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F30393892159798f5cebb7c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CANALE 21 CAMPANIA" tvg-name="CANALE 21 CAMPANIA" tvg-logo="https://logo.huhu.to/logo?c=3906007886.png" channel="CANALE 21 CAMPANIA" group-title="Locali",CANALE 21 CAMPANIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F390600788675c13850cd70
@@ -986,9 +986,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="FANO TV" tvg-name="FANO TV" tvg-logo="" channel="FANO TV" group-title="Other",FANO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F1798700028a88b50c2df9d
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://logo.huhu.to/logo?c=3255207570.png" channel="FASHIONTV" group-title="Other",FASHIONTV
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F3255207570b230d786fb10
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="FM ITALIA" tvg-name="FM ITALIA" tvg-logo="" channel="FM ITALIA" group-title="Other",FM ITALIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6513881342f0388082aa1
@@ -1341,9 +1338,6 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" tvg-logo="https://logo.huhu.to/logo?c=714472867.png" channel="PESCA" group-title="Sport",PESCA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F714472867a9a9547f329c
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" tvg-logo="" channel="PescaCaccia.it" group-title="Sport",PESCA E CACCIA
-https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F312451299385241b4e7078
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SPORT ITALIA SOLO CALCIO" tvg-name="SPORT ITALIA SOLO CALCIO" tvg-logo="" channel="SPORT ITALIA SOLO CALCIO" group-title="Sport",SPORT ITALIA SOLO CALCIO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F83094948658201829f87a
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1409,6 +1403,9 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-ip
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SENATO TV" tvg-name="SENATO TV" tvg-logo="" channel="SENATO TV" group-title="TV Sat",SENATO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F28955495519a6e882c3db3
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F6087746837741766a74b3
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F80896559d4a6e09d36f1
