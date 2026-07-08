@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-08 11:07 UTC
+# Generato il 2026-07-08 13:06 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
@@ -24,3 +24,5 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/V1JWq9X3/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/T7P994Ia/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/LR6kSwZs/poster.jpg?width=320" tvg-name="Belgium v Canada | Week 3 | Women's VNL 2026",Belgium v Canada | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/LR6kSwZs/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="REPLAY - Turquia vs Polonia",REPLAY - Turquia vs Polonia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8pChFEyS/live.isml/.m3u8
