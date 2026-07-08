@@ -1,26 +1,26 @@
 #EXTM3U
-# Generato il 2026-07-08 02:54 UTC
-#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Turquia vs Polonia",Turquia vs Polonia
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8pChFEyS/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Belgica vs Republica Dominicana",Belgica vs Republica Dominicana
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/RfBpOZzw/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/cHiB211S/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/JQmOQWkO/poster.jpg?width=320" tvg-name="Thailand v USA | Week 3 | Women's VNL 2026",Thailand v USA | Week 3 | Women's VNL 2026
+# Generato il 2026-07-08 08:33 UTC
+#EXTINF:-1 tvg-id="voley1" tvg-logo="https://f.rpp-noticias.io/2025/09/18/475747_1793292.jpg" tvg-name="Tailandia vs Estados Unidos",Tailandia vs Estados Unidos
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JQmOQWkO/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/CsWTEZ6Z/poster.jpg?width=320" tvg-name="Ukraine v Italy | Week 3 | Women's VNL 2026",Ukraine v Italy | Week 3 | Women's VNL 2026
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/cHiB211S/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/RfBpOZzw/poster.jpg?width=320" tvg-name="Belgium v Dominican Republic | Week 3 | Women's VNL 2026",Belgium v Dominican Republic | Week 3 | Women's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/RfBpOZzw/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/CsWTEZ6Z/poster.jpg?width=320" tvg-name="Ukraine v Italy | Week 3 | Women's VNL 2026",Ukraine v Italy | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/CsWTEZ6Z/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/oOO7I9fa/poster.jpg?width=320" tvg-name="Japan v Brazil | Week 3 | Women's VNL 2026",Japan v Brazil | Week 3 | Women's VNL 2026
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/oOO7I9fa/poster.jpg?width=320" tvg-name="Japan v Brazil | Week 3 | Women's VNL 2026",Japan v Brazil | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/oOO7I9fa/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/907bwyiP/poster.jpg?width=320" tvg-name="France v Netherlands | Week 3 | Women's VNL 2026",France v Netherlands | Week 3 | Women's VNL 2026
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/907bwyiP/poster.jpg?width=320" tvg-name="France v Netherlands | Week 3 | Women's VNL 2026",France v Netherlands | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/907bwyiP/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/X5vyjXoN/poster.jpg?width=320" tvg-name="China v Canada | Week 3 | Women's VNL 2026",China v Canada | Week 3 | Women's VNL 2026
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/X5vyjXoN/poster.jpg?width=320" tvg-name="China v Canada | Week 3 | Women's VNL 2026",China v Canada | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/X5vyjXoN/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/N3eqELxk/poster.jpg?width=320" tvg-name="Czechia v Germany | Week 3 | Women's VNL 2026",Czechia v Germany | Week 3 | Women's VNL 2026
+#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/N3eqELxk/poster.jpg?width=320" tvg-name="Czechia v Germany | Week 3 | Women's VNL 2026",Czechia v Germany | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/N3eqELxk/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/V1JWq9X3/poster.jpg?width=320" tvg-name="Serbia v Bulgaria | Week 3 | Women's VNL 2026",Serbia v Bulgaria | Week 3 | Women's VNL 2026
+#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/V1JWq9X3/poster.jpg?width=320" tvg-name="Serbia v Bulgaria | Week 3 | Women's VNL 2026",Serbia v Bulgaria | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/V1JWq9X3/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/T7P994Ia/poster.jpg?width=320" tvg-name="USA v Poland | Week 3 | Women's VNL 2026",USA v Poland | Week 3 | Women's VNL 2026
+#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/T7P994Ia/poster.jpg?width=320" tvg-name="USA v Poland | Week 3 | Women's VNL 2026",USA v Poland | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/T7P994Ia/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/LR6kSwZs/poster.jpg?width=320" tvg-name="Belgium v Canada | Week 3 | Women's VNL 2026",Belgium v Canada | Week 3 | Women's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/LR6kSwZs/live.isml/.m3u8
