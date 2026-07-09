@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-09 00:13 UTC
+# Generato il 2026-07-09 03:37 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
@@ -24,7 +24,3 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/V1JWq9X3/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/T7P994Ia/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/LR6kSwZs/poster.jpg?width=320" tvg-name="Belgium v Canada | Week 3 | Women's VNL 2026",Belgium v Canada | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/LR6kSwZs/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://i.imgur.com/10PEYRN.jpeg" tvg-name="Finlandia vs Netherlands | FINAL CEV Volleyball European League 2026",Finlandia vs Netherlands | FINAL CEV Volleyball European League 2026
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/S8hdHY6xk6J7/2026/7/8/14_30_7/index.m3u8
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.imgur.com/0sIdMbD.jpeg" tvg-name="Suecia vs Eslovenia | FINAL CEV Volleyball European League 2026 Women",Suecia vs Eslovenia | FINAL CEV Volleyball European League 2026 Women
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/2SYjcUqWR5lK/2026/7/8/15_15_37/index.m3u8
