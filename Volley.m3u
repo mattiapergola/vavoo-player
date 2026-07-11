@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-11 17:00 UTC
+# Generato il 2026-07-11 18:26 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
@@ -25,4 +25,6 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PDSbcBWZ/live.is
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/Wd7ToLgW/poster.jpg?width=320" tvg-name="Thailand v Türkiye | Week 3 | Women's VNL 2026",Thailand v Türkiye | Week 3 | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Wd7ToLgW/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley13" tvg-logo="https://i.ytimg.com/vi/OZvtcIqtc-Q/maxresdefault.jpg" tvg-name="The Netherlands vs. Finland | CEV Volleyball European League 2026 | Men",The Netherlands vs. Finland | CEV Volleyball European League 2026 | Men
-insertar.m3u8
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/KUyj7PuW4244/2026/7/11/16_46_44/index.m3u8
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.ytimg.com/vi/msmLAhJ97mc/maxresdefault.jpg" tvg-name="Slovenia vs. Sweden | CEV Volleyball European League 2026 | Women",Slovenia vs. Sweden | CEV Volleyball European League 2026 | Women
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/UnDzLL4v60Yg/2026/7/11/17_46_10/index.m3u8
