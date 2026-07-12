@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-12 08:21 UTC
+# Generato il 2026-07-12 10:07 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
@@ -24,7 +24,3 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/NpgGIM9z/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/bOuP7W62/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/tMhOPI4S/poster.jpg?width=320" tvg-name="Japan v Italy | Week 3 | Men's VNL 2026",Japan v Italy | Week 3 | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/tMhOPI4S/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="Belgica vs Ucrania",Belgica vs Ucrania
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/osbb0okk/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="Estados Unidos vs Brasil",Estados Unidos vs Brasil
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PDSbcBWZ/live.isml/.m3u8
