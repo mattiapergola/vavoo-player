@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-15 14:20 UTC
+# Generato il 2026-07-15 16:03 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
@@ -24,5 +24,3 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jnxWoOmP/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Jx1LDZ65/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/ey8bygFl/poster.jpg?width=320" tvg-name="Japan v Canada | Week 3 | Men's VNL 2026",Japan v Canada | Week 3 | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/ey8bygFl/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="REPLAY - Argentina vs Canada",REPLAY - Argentina vs Canada
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/NpgGIM9z/live.isml/.m3u8
