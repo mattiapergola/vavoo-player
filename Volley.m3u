@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-16 12:03 UTC
+# Generato il 2026-07-16 14:33 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
@@ -24,5 +24,3 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/bHKb3pPo/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/tMiWEsHp/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/Qk901knG/poster.jpg?width=320" tvg-name="Iran v Slovenia | Week 3 | Men's VNL 2026",Iran v Slovenia | Week 3 | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Qk901knG/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="REPLAY - Estados Unidos vs China",REPLAY - Estados Unidos vs China
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jnxWoOmP/live.isml/.m3u8
