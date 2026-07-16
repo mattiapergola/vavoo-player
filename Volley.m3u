@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-16 01:02 UTC
+# Generato il 2026-07-16 02:46 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
@@ -24,3 +24,13 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jnxWoOmP/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Jx1LDZ65/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/ey8bygFl/poster.jpg?width=320" tvg-name="Japan v Canada | Week 3 | Men's VNL 2026",Japan v Canada | Week 3 | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/ey8bygFl/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="Iran vs Alemania",Iran vs Alemania
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/a5v7U27Q/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="Serbia vs Ucrania",Serbia vs Ucrania
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8BUZyEIQ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley15" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="China vs Francia",China vs Francia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/fIlHDDOa/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley16" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="Estados Unidos vs Brasil",Estados Unidos vs Brasil
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/QihcHDEe/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley17" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="Cuba vs Argentina",Cuba vs Argentina
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/F2QEJY6l/live.isml/.m3u8
