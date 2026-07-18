@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-18 02:41 UTC
+# Generato il 2026-07-18 07:55 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=320" tvg-name="Hughes/Batenhorst (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)",Hughes/Batenhorst (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
@@ -24,23 +24,27 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/C1xbk7p0/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/swcaPIg5/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/cHiB211S/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/F2QEJY6l/poster.jpg?width=320" tvg-name="Cuba v Argentina | Week 3 | Men's VNL 2026",Cuba v Argentina | Week 3 | Men's VNL 2026
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/F2QEJY6l/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://cdn.jwplayer.com/v2/media/bHKb3pPo/poster.jpg?width=320" tvg-name="Japan v Belgium | Week 3 | Men's VNL 2026",Japan v Belgium | Week 3 | Men's VNL 2026
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/bHKb3pPo/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley15" tvg-logo="https://cdn.jwplayer.com/v2/media/tMiWEsHp/poster.jpg?width=320" tvg-name="Türkiye v Ukraine | Week 3 | Men's VNL 2026",Türkiye v Ukraine | Week 3 | Men's VNL 2026
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/tMiWEsHp/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley16" tvg-logo="https://cdn.jwplayer.com/v2/media/Qk901knG/poster.jpg?width=320" tvg-name="Iran v Slovenia | Week 3 | Men's VNL 2026",Iran v Slovenia | Week 3 | Men's VNL 2026
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Qk901knG/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley17" tvg-logo="https://cdn.jwplayer.com/v2/media/3YxcUzUR/poster.jpg?width=320" tvg-name="China v Bulgaria | Week 3 | Men's VNL 2026",China v Bulgaria | Week 3 | Men's VNL 2026
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/3YxcUzUR/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley18" tvg-logo="https://cdn.jwplayer.com/v2/media/ItMWGqKC/poster.jpg?width=320" tvg-name="Brazil v Poland | Week 3 | Men's VNL 2026",Brazil v Poland | Week 3 | Men's VNL 2026
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/ItMWGqKC/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley19" tvg-logo="https://cdn.jwplayer.com/v2/media/nDOlhwxd/poster.jpg?width=320" tvg-name="Canada v Cuba | Week 3 | Men's VNL 2026",Canada v Cuba | Week 3 | Men's VNL 2026
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nDOlhwxd/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley20" tvg-logo="https://cdn.jwplayer.com/v2/media/KUXTRghP/poster.jpg?width=320" tvg-name="Argentina v Italy | Week 3 | Men's VNL 2026",Argentina v Italy | Week 3 | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/KUXTRghP/poster.jpg?width=320" tvg-name="Argentina v Italy | Week 3 | Men's VNL 2026",Argentina v Italy | Week 3 | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/KUXTRghP/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley21" tvg-logo="https://cdn.jwplayer.com/v2/media/PLfyppTa/poster.jpg?width=320" tvg-name="Türkiye v Slovenia | Week 3 | Men's VNL 2026",Türkiye v Slovenia | Week 3 | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://cdn.jwplayer.com/v2/media/PLfyppTa/poster.jpg?width=320" tvg-name="Türkiye v Slovenia | Week 3 | Men's VNL 2026",Türkiye v Slovenia | Week 3 | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PLfyppTa/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/vyA4crZd/poster.jpg?width=320" tvg-name="Serbia v Germany | Week 3 | Men's VNL 2026",Serbia v Germany | Week 3 | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley15" tvg-logo="https://cdn.jwplayer.com/v2/media/vyA4crZd/poster.jpg?width=320" tvg-name="Serbia v Germany | Week 3 | Men's VNL 2026",Serbia v Germany | Week 3 | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vyA4crZd/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley16" tvg-logo="https://cdn.jwplayer.com/v2/media/cNwWxDtD/poster.jpg?width=320" tvg-name="France v Poland | Week 3 | Men's VNL 2026",France v Poland | Week 3 | Men's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/cNwWxDtD/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley17" tvg-logo="https://cdn.jwplayer.com/v2/media/6xnUTgmv/poster.jpg?width=320" tvg-name="USA v Bulgaria | Week 3 | Men's VNL 2026",USA v Bulgaria | Week 3 | Men's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/6xnUTgmv/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley18" tvg-logo="https://cdn.jwplayer.com/v2/media/aywa4Bco/poster.jpg?width=320" tvg-name="Belgium v Canada | Week 3 | Men's VNL 2026",Belgium v Canada | Week 3 | Men's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/aywa4Bco/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley19" tvg-logo="https://cdn.jwplayer.com/v2/media/kLXWC5x3/poster.jpg?width=320" tvg-name="Cuba v Italy | Week 3 | Men's VNL 2026",Cuba v Italy | Week 3 | Men's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kLXWC5x3/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley20" tvg-logo="https://cdn.jwplayer.com/v2/media/4lJiLkgF/poster.jpg?width=320" tvg-name="Japan v Argentina | Week 3 | Men's VNL 2026",Japan v Argentina | Week 3 | Men's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/4lJiLkgF/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley21" tvg-logo="https://cdn.jwplayer.com/v2/media/AOOSGkaG/poster.jpg?width=320" tvg-name="Türkiye v Iran | Week 3 | Men's VNL 2026",Türkiye v Iran | Week 3 | Men's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/AOOSGkaG/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/bru2hYOi/poster.jpg?width=320" tvg-name="Ukraine v Germany | Week 3 | Men's VNL 2026",Ukraine v Germany | Week 3 | Men's VNL 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/bru2hYOi/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley23" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="REPLAY - Brasil vs Polonia",REPLAY - Brasil vs Polonia
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/ItMWGqKC/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley24" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="REPLAY - Canadá vs Cuba",REPLAY - Canadá vs Cuba
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nDOlhwxd/live.isml/.m3u8
