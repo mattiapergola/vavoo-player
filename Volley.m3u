@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-19 13:22 UTC
+# Generato il 2026-07-19 14:38 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=320" tvg-name="Hughes/Batenhorst (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)",Hughes/Batenhorst (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
@@ -44,7 +44,3 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nywPLpRM/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/pie9kthL/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/Ks3aLtxI/poster.jpg?width=320" tvg-name="QF: Brazil v Japan | Final Phase | Women's VNL 2026",QF: Brazil v Japan | Final Phase | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Ks3aLtxI/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley23" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="REPLAY - Estados Unidos vs Bulgaria",REPLAY - Estados Unidos vs Bulgaria
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/6xnUTgmv/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley24" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="REPLAY - Belgica vs Canada",REPLAY - Belgica vs Canada
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/aywa4Bco/live.isml/.m3u8
