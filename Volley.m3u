@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-20 12:01 UTC
+# Generato il 2026-07-20 14:39 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=320" tvg-name="Hughes/Batenhorst (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)",Hughes/Batenhorst (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
@@ -44,7 +44,5 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Wrzj4WWp/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/pNQ7MbHn/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/ZQdI5j99/poster.jpg?width=320" tvg-name="QF: TBC v TBC | Final Phase | Men's VNL 2026",QF: TBC v TBC | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/ZQdI5j99/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley23" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="REPLAY - Bulgaria vs Francia",REPLAY - Bulgaria vs Francia
+#EXTINF:-1 tvg-id="voley23" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="Próximo Partido",Próximo Partido
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/G1DkasQK/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley24" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="REPLAY - Polonia vs Estados Unidos",REPLAY - Polonia vs Estados Unidos
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nywPLpRM/live.isml/.m3u8
