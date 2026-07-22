@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-22 02:49 UTC
+# Generato il 2026-07-22 08:32 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=320" tvg-name="Hughes/Batenhorst (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)",Hughes/Batenhorst (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
@@ -40,9 +40,7 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8TBQDKh6/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/PA9u74As/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley20" tvg-logo="https://cdn.jwplayer.com/v2/media/Wrzj4WWp/poster.jpg?width=320" tvg-name="Final: TBC v TBC | Final Phase | Women's VNL 2026",Final: TBC v TBC | Final Phase | Women's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Wrzj4WWp/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley21" tvg-logo="https://cdn.jwplayer.com/v2/media/pNQ7MbHn/poster.jpg?width=320" tvg-name="QF: TBC v TBC | Final Phase | Men's VNL 2026",QF: TBC v TBC | Final Phase | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley21" tvg-logo="https://cdn.jwplayer.com/v2/media/pNQ7MbHn/poster.jpg?width=320" tvg-name="QF: Slovenia v Türkiye | Final Phase | Men's VNL 2026",QF: Slovenia v Türkiye | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/pNQ7MbHn/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/ZQdI5j99/poster.jpg?width=320" tvg-name="QF: TBC v TBC | Final Phase | Men's VNL 2026",QF: TBC v TBC | Final Phase | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/ZQdI5j99/poster.jpg?width=320" tvg-name="QF: Japan v China | Final Phase | Men's VNL 2026",QF: Japan v China | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/ZQdI5j99/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley23" tvg-logo="https://f.rpp-noticias.io/2025/07/09/150415_1768295.jpg" tvg-name="Próximo Partido",Próximo Partido
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/G1DkasQK/live.isml/.m3u8
