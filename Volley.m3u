@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-25 02:49 UTC
+# Generato il 2026-07-25 08:09 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/yNopSa7P/poster.jpg?width=320" tvg-name="Shaw/Phillips (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)",Shaw/Phillips (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
@@ -20,8 +20,8 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/TDhjtsRA/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/C1xbk7p0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/pAgueLMD/poster.jpg?width=320" tvg-name="Stam/Schoon (NED) vs [tbc], Women Pool C on C3 | Rio de Janeiro (BRA)",Stam/Schoon (NED) vs [tbc], Women Pool C on C3 | Rio de Janeiro (BRA)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/pAgueLMD/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/6Q5X7Nyw/poster.jpg?width=320" tvg-name="Izuzquiza/Tania (ESP) vs Ferch/Van Gunst (USA), Women Pool A on C3 | Rio de Janeiro (BRA)",Izuzquiza/Tania (ESP) vs Ferch/Van Gunst (USA), Women Pool A on C3 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/6Q5X7Nyw/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/swcaPIg5/poster.jpg?width=320" tvg-name="Kraft/Cheng (USA) vs [tbc], Women Pool F on C2 | Rio de Janeiro (BRA)",Kraft/Cheng (USA) vs [tbc], Women Pool F on C2 | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/swcaPIg5/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/cHiB211S/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/PEbI6ecX/poster.jpg?width=320" tvg-name="SF: Brazil v Italy | Final Phase | Women's VNL 2026",SF: Brazil v Italy | Final Phase | Women's VNL 2026
@@ -44,5 +44,3 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/WVbFXZtF/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8ILhgLHy/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/F5EsjEui/poster.jpg?width=320" tvg-name="SF: TBC v TBC | Final Phase | Men's VNL 2026",SF: TBC v TBC | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/F5EsjEui/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley23" tvg-logo="https://f.rpp-noticias.io/2026/06/05/305530_1875224.jpg" tvg-name="PROXIMO PARTIDO",PROXIMO PARTIDO
-https://player.kick.com/tvperu
