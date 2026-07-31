@@ -1,38 +1,36 @@
 #EXTM3U
-# Generato il 2026-07-31 03:15 UTC
+# Generato il 2026-07-31 08:52 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/E6fiaSfy/poster.jpg?width=320" tvg-name="Thamela/Victoria (BRA) vs Vieira/Chamereau (FRA), Women Pool E on C2 | Rio de Janeiro (BRA)",Thamela/Victoria (BRA) vs Vieira/Chamereau (FRA), Women Pool E on C2 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/E6fiaSfy/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/erXcf15a/poster.jpg?width=320" tvg-name="Hughes/Batenhorst (USA) vs DeBerg/Flint (USA), Women Pool E on C4 | Rio de Janeiro (BRA)",Hughes/Batenhorst (USA) vs DeBerg/Flint (USA), Women Pool E on C4 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/erXcf15a/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/SGWp0Ku0/poster.jpg?width=320" tvg-name="Izuzquiza/Tania (ESP) vs Ferch/Van Gunst (USA), Women Pool A on C3 | Rio de Janeiro (BRA)",Izuzquiza/Tania (ESP) vs Ferch/Van Gunst (USA), Women Pool A on C3 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/SGWp0Ku0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/kYmndmas/poster.jpg?width=320" tvg-name="Carol /Rebecca (BRA) vs Harward/Hodel (USA), Women Pool A on CC | Rio de Janeiro (BRA)",Carol /Rebecca (BRA) vs Harward/Hodel (USA), Women Pool A on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kYmndmas/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/QEfZ9sbB/poster.jpg?width=320" tvg-name="Shaw/Partain (USA) vs Hammarberg/Berger T. (AUT), Men Pool A on C5 | Rio de Janeiro (BRA)",Shaw/Partain (USA) vs Hammarberg/Berger T. (AUT), Men Pool A on C5 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/QEfZ9sbB/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/egf06q8r/poster.jpg?width=320" tvg-name="Plavins/Fokerots (LAT) vs Lucas Sampaio/João Pedro (BRA), Men Pool B on C3 | Rio de Janeiro (BRA)",Plavins/Fokerots (LAT) vs Lucas Sampaio/João Pedro (BRA), Men Pool B on C3 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/egf06q8r/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/rB10SPcr/poster.jpg?width=320" tvg-name="Hodges/Hood (AUS) vs Cottafava/Dal Corso (ITA), Men Pool B on C4 | Rio de Janeiro (BRA)",Hodges/Hood (AUS) vs Cottafava/Dal Corso (ITA), Men Pool B on C4 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/rB10SPcr/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/BGpK2c7v/poster.jpg?width=320" tvg-name="Luini/Immers (NED) vs Grimalt E./Grimalt M. (CHI), Men Pool D on C2 | Rio de Janeiro (BRA)",Luini/Immers (NED) vs Grimalt E./Grimalt M. (CHI), Men Pool D on C2 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BGpK2c7v/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/IzAcsUWh/poster.jpg?width=320" tvg-name="Daubas/Aye C. (FRA) vs Cory/Bradford (USA), Men Pool C on C5 | Rio de Janeiro (BRA)",Daubas/Aye C. (FRA) vs Cory/Bradford (USA), Men Pool C on C5 | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/IzAcsUWh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/Eg1jhJkW/poster.jpg?width=320" tvg-name="Mol H./Berntsen (NOR) vs Vinicius/Heitor (BRA), Men Pool D on CC | Rio de Janeiro (BRA)",Mol H./Berntsen (NOR) vs Vinicius/Heitor (BRA), Men Pool D on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Eg1jhJkW/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/5OwM0xyp/poster.jpg?width=320" tvg-name="Stam/Schoon (NED) vs Shaw/Phillips (USA), Women Pool C on C2 | Rio de Janeiro (BRA)",Stam/Schoon (NED) vs Shaw/Phillips (USA), Women Pool C on C2 | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/5OwM0xyp/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/J2n0vwG8/poster.jpg?width=320" tvg-name="DeBerg/Flint (USA) vs Vieira/Chamereau (FRA), Women Pool E on C3 | Rio de Janeiro (BRA)",DeBerg/Flint (USA) vs Vieira/Chamereau (FRA), Women Pool E on C3 | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/J2n0vwG8/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/A6Ezgl0z/poster.jpg?width=320" tvg-name="Kraft/Cheng (USA) vs Verena/Thainara (BRA), Women Pool F on CC | Rio de Janeiro (BRA)",Kraft/Cheng (USA) vs Verena/Thainara (BRA), Women Pool F on CC | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/A6Ezgl0z/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/qyfdfXxi/poster.jpg?width=320" tvg-name="McBain/Sorra (CAN) vs Anouk/Zoé (SUI), Women Pool F on C3 | Rio de Janeiro (BRA)",McBain/Sorra (CAN) vs Anouk/Zoé (SUI), Women Pool F on C3 | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/qyfdfXxi/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/xxmPNdTY/poster.jpg?width=320" tvg-name="Thamela/Victoria (BRA) vs Hughes/Batenhorst (USA), Women Pool E on CC | Rio de Janeiro (BRA)",Thamela/Victoria (BRA) vs Hughes/Batenhorst (USA), Women Pool E on CC | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/xxmPNdTY/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/hXyU2C6T/poster.jpg?width=320" tvg-name="Shiba/Reika (JPN) vs Grüne/Uhl (GER), Women Pool C on C2 | Rio de Janeiro (BRA)",Shiba/Reika (JPN) vs Grüne/Uhl (GER), Women Pool C on C2 | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/hXyU2C6T/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/jw9K2L0D/poster.jpg?width=320" tvg-name="Carol /Rebecca (BRA) vs Izuzquiza/Tania (ESP), Women Pool A on CC | Rio de Janeiro (BRA)",Carol /Rebecca (BRA) vs Izuzquiza/Tania (ESP), Women Pool A on CC | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jw9K2L0D/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/DbnQrNYE/poster.jpg?width=320" tvg-name="Quiggle/Loreen (USA) vs Klinger D./Klinger R. (AUT), Women Pool D on C3 | Rio de Janeiro (BRA)",Quiggle/Loreen (USA) vs Klinger D./Klinger R. (AUT), Women Pool D on C3 | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/DbnQrNYE/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/Mlrl5VVz/poster.jpg?width=320" tvg-name="Ferch/Van Gunst (USA) vs Harward/Hodel (USA), Women Pool A on C2 | Rio de Janeiro (BRA)",Ferch/Van Gunst (USA) vs Harward/Hodel (USA), Women Pool A on C2 | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Mlrl5VVz/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/VwnLMKLp/poster.jpg?width=320" tvg-name="Donlin/Denaburg (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)",Donlin/Denaburg (USA) vs Kyce/Simonetti (BRA), Women Pool B on C2 | Rio de Janeiro (BRA)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/VwnLMKLp/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/cHiB211S/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/8ILhgLHy/poster.jpg?width=320" tvg-name="SF: TBC v TBC | Final Phase | Men's VNL 2026",SF: TBC v TBC | Final Phase | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/8ILhgLHy/poster.jpg?width=320" tvg-name="SF: Slovenia v Poland | Final Phase | Men's VNL 2026",SF: Slovenia v Poland | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8ILhgLHy/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://cdn.jwplayer.com/v2/media/F5EsjEui/poster.jpg?width=320" tvg-name="SF: TBC v TBC | Final Phase | Men's VNL 2026",SF: TBC v TBC | Final Phase | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://cdn.jwplayer.com/v2/media/F5EsjEui/poster.jpg?width=320" tvg-name="SF: Japan v USA | Final Phase | Men's VNL 2026",SF: Japan v USA | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/F5EsjEui/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley15" tvg-logo="https://cdn.jwplayer.com/v2/media/JAwSjHbw/poster.jpg?width=320" tvg-name="Ranking 3-4: TBC v TBC | Final Phase | Men's VNL 2026",Ranking 3-4: TBC v TBC | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JAwSjHbw/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley16" tvg-logo="https://cdn.jwplayer.com/v2/media/JH2rwA9T/poster.jpg?width=320" tvg-name="Final: TBC v TBC | Final Phase | Men's VNL 2026",Final: TBC v TBC | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JH2rwA9T/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley17" tvg-logo="https://cdn.jwplayer.com/v2/media/gT7In44v/poster.jpg?width=320" tvg-name="ITALY - USA  |  Nations League - Play Offs - Quarter-finals",ITALY - USA  |  Nations League - Play Offs - Quarter-finals
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/gT7In44v/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley18" tvg-logo="https://cdn.jwplayer.com/v2/media/WVbFXZtF/poster.jpg?width=320" tvg-name="POLAND - UKRAINE  |  Nations League - Play Offs - Quarter-finals",POLAND - UKRAINE  |  Nations League - Play Offs - Quarter-finals
+#EXTINF:-1 tvg-id="voley17" tvg-logo="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pfgdt8vmwslqwekavhlo" tvg-name="REPLAY - POLONIA 🆚 UCRANIA - 4TO DE FINAL",REPLAY - POLONIA 🆚 UCRANIA - 4TO DE FINAL
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/WVbFXZtF/live.isml/.m3u8
