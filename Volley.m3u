@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-07-31 11:30 UTC
+# Generato il 2026-07-31 13:16 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/5OwM0xyp/poster.jpg?width=320" tvg-name="Stam/Schoon (NED) vs Shaw/Phillips (USA), Women Pool C on C2 | Rio de Janeiro (BRA)",Stam/Schoon (NED) vs Shaw/Phillips (USA), Women Pool C on C2 | Rio de Janeiro (BRA)
@@ -32,5 +32,5 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/F5EsjEui/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JAwSjHbw/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley16" tvg-logo="https://cdn.jwplayer.com/v2/media/JH2rwA9T/poster.jpg?width=320" tvg-name="Final: TBC v TBC | Final Phase | Men's VNL 2026",Final: TBC v TBC | Final Phase | Men's VNL 2026
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JH2rwA9T/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley17" tvg-logo="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pfgdt8vmwslqwekavhlo" tvg-name="REPLAY - POLONIA 🆚 UCRANIA - 4TO DE FINAL",REPLAY - POLONIA 🆚 UCRANIA - 4TO DE FINAL
+#EXTINF:-1 tvg-id="voley17" tvg-logo="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pfgdt8vmwslqwekavhlo" tvg-name="PROXIMO PARTIDO",PROXIMO PARTIDO
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/WVbFXZtF/live.isml/.m3u8
