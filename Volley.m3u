@@ -1,30 +1,30 @@
 #EXTM3U
-# Generato il 2026-08-03 03:15 UTC
+# Generato il 2026-08-03 09:50 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/iT6wk7ot/poster.jpg?width=320" tvg-name="Stam/Schoon (NED) vs Vieira/Chamereau (FRA), Women Semifinals on CC | Rio de Janeiro (BRA)",Stam/Schoon (NED) vs Vieira/Chamereau (FRA), Women Semifinals on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/iT6wk7ot/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/rSGnbsv8/poster.jpg?width=320" tvg-name="Carol /Rebecca (BRA) vs Kraft/Cheng (USA), Women Semifinals on CC | Rio de Janeiro (BRA)",Carol /Rebecca (BRA) vs Kraft/Cheng (USA), Women Semifinals on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/rSGnbsv8/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/nZfwR23l/poster.jpg?width=320" tvg-name="Hammarberg/Berger T. (AUT) vs Plavins/Fokerots (LAT), Men Semifinals on CC | Rio de Janeiro (BRA)",Hammarberg/Berger T. (AUT) vs Plavins/Fokerots (LAT), Men Semifinals on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nZfwR23l/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/swXpl7Fx/poster.jpg?width=320" tvg-name="Daubas/Aye C. (FRA) vs Rotar/Gauthier-Rat (FRA), Men Semifinals on CC | Rio de Janeiro (BRA)",Daubas/Aye C. (FRA) vs Rotar/Gauthier-Rat (FRA), Men Semifinals on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/swXpl7Fx/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/kgFm5omw/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 3rd Place on CC | Rio de Janeiro (BRA)",[tbc] vs [tbc], Women Final 3rd Place on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kgFm5omw/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/YX9g9Svx/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 3rd Place on CC | Rio de Janeiro (BRA)",[tbc] vs [tbc], Men Final 3rd Place on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/YX9g9Svx/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/rQXi5pbs/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 1st Place on CC | Rio de Janeiro (BRA)",[tbc] vs [tbc], Men Final 1st Place on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/rQXi5pbs/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/rNjpqqqP/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 1st Place on CC | Rio de Janeiro (BRA)",[tbc] vs [tbc], Women Final 1st Place on CC | Rio de Janeiro (BRA)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/rNjpqqqP/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/VMDegApG/poster.jpg?width=320" tvg-name="Carol /Rebecca (BRA) vs [tbc], Women Pool C on CC | Hamburg (GER)",Carol /Rebecca (BRA) vs [tbc], Women Pool C on CC | Hamburg (GER)
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/VMDegApG/poster.jpg?width=320" tvg-name="Carol /Rebecca (BRA) vs [tbc], Women Pool C on CC | Hamburg (GER)",Carol /Rebecca (BRA) vs [tbc], Women Pool C on CC | Hamburg (GER)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/VMDegApG/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/1CH0LwdO/poster.jpg?width=320" tvg-name="Gottardi/Orsi Toth R. (ITA) vs Thamela/Victoria (BRA), Women Pool C on C2 | Hamburg (GER)",Gottardi/Orsi Toth R. (ITA) vs Thamela/Victoria (BRA), Women Pool C on C2 | Hamburg (GER)
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/1CH0LwdO/poster.jpg?width=320" tvg-name="Gottardi/Orsi Toth R. (ITA) vs Thamela/Victoria (BRA), Women Pool C on C2 | Hamburg (GER)",Gottardi/Orsi Toth R. (ITA) vs Thamela/Victoria (BRA), Women Pool C on C2 | Hamburg (GER)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1CH0LwdO/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/Dij2D99s/poster.jpg?width=320" tvg-name="Tina/Anastasija (LAT) vs Müller/Tillmann (GER), Women Pool D on CC | Hamburg (GER)",Tina/Anastasija (LAT) vs Müller/Tillmann (GER), Women Pool D on CC | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Dij2D99s/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/rbL31RgF/poster.jpg?width=320" tvg-name="Stam/Schoon (NED) vs [tbc], Women Pool D on C2 | Hamburg (GER)",Stam/Schoon (NED) vs [tbc], Women Pool D on C2 | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/rbL31RgF/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/iJuwGWRf/poster.jpg?width=320" tvg-name="Evandro/Arthur Lanci (BRA) vs Capogrosso N./Capogrosso T. (ARG), Men Pool C on C2 | Hamburg (GER)",Evandro/Arthur Lanci (BRA) vs Capogrosso N./Capogrosso T. (ARG), Men Pool C on C2 | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/iJuwGWRf/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/72cboJeT/poster.jpg?width=320" tvg-name="Mol A./Sørum C. (NOR) vs [tbc], Men Pool C on CC | Hamburg (GER)",Mol A./Sørum C. (NOR) vs [tbc], Men Pool C on CC | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/72cboJeT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/NfvSRl7C/poster.jpg?width=320" tvg-name="Chouikh/Genevieve-Gardoque  (FRA) vs Henning/Pfretzschner L. (GER), Men Pool D on CC | Hamburg (GER)",Chouikh/Genevieve-Gardoque  (FRA) vs Henning/Pfretzschner L. (GER), Men Pool D on CC | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/NfvSRl7C/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/vUrSociM/poster.jpg?width=320" tvg-name="Plavins/Fokerots (LAT) vs [tbc], Men Pool D on C2 | Hamburg (GER)",Plavins/Fokerots (LAT) vs [tbc], Men Pool D on C2 | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vUrSociM/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/dHZbEhds/poster.jpg?width=320" tvg-name="Melissa/Brandie (CAN) vs [tbc], Women Pool A on CC | Hamburg (GER)",Melissa/Brandie (CAN) vs [tbc], Women Pool A on CC | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/dHZbEhds/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/bI9RNM5j/poster.jpg?width=320" tvg-name="Ana Patrícia/Duda (BRA) vs Taiana Lima/Talita (BRA), Women Pool A on C2 | Hamburg (GER)",Ana Patrícia/Duda (BRA) vs Taiana Lima/Talita (BRA), Women Pool A on C2 | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/bI9RNM5j/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/cHiB211S/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/JAwSjHbw/poster.jpg?width=320" tvg-name="Ranking 3-4: Japan v Slovenia | Final Phase | Men's VNL 2026",Ranking 3-4: Japan v Slovenia | Final Phase | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pfgdt8vmwslqwekavhlo" tvg-name="JAPON 🆚 ESLOVENIA - DEFINICIÓN 3ER PUESTO",JAPON 🆚 ESLOVENIA - DEFINICIÓN 3ER PUESTO
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JAwSjHbw/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://cdn.jwplayer.com/v2/media/JH2rwA9T/poster.jpg?width=320" tvg-name="Final: USA v Poland | Final Phase | Men's VNL 2026",Final: USA v Poland | Final Phase | Men's VNL 2026
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/primary/pfgdt8vmwslqwekavhlo" tvg-name="ESTADOS UNIDOS 🆚 POLONIA - FINAL",ESTADOS UNIDOS 🆚 POLONIA - FINAL
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JH2rwA9T/live.isml/.m3u8
