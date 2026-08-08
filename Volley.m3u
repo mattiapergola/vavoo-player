@@ -1,15 +1,15 @@
 #EXTM3U
-# Generato il 2026-08-08 01:46 UTC
+# Generato il 2026-08-08 06:56 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/hadCodfJ/poster.jpg?width=320" tvg-name="Fejes/Clancy (AUS) vs Grüne/Uhl (GER), Women Round of 12 on CC | Hamburg (GER)",Fejes/Clancy (AUS) vs Grüne/Uhl (GER), Women Round of 12 on CC | Hamburg (GER)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/hadCodfJ/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/g1bPU0uO/poster.jpg?width=320" tvg-name="Hughes/Batenhorst (USA) vs Thamela/Victoria (BRA), Women Round of 12 on C2 | Hamburg (GER)",Hughes/Batenhorst (USA) vs Thamela/Victoria (BRA), Women Round of 12 on C2 | Hamburg (GER)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/g1bPU0uO/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/8AJwiFG5/poster.jpg?width=320" tvg-name="Sandra/Kim (GER) vs Brunner/Hüberli (SUI), Women Round of 12 on CC | Hamburg (GER)",Sandra/Kim (GER) vs Brunner/Hüberli (SUI), Women Round of 12 on CC | Hamburg (GER)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8AJwiFG5/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/1zrxPszv/poster.jpg?width=320" tvg-name="Mäder/Kernen (SUI) vs Müller/Tillmann (GER), Women Round of 12 on C2 | Hamburg (GER)",Mäder/Kernen (SUI) vs Müller/Tillmann (GER), Women Round of 12 on C2 | Hamburg (GER)
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/1zrxPszv/poster.jpg?width=320" tvg-name="Mäder/Kernen (SUI) vs Müller/Tillmann (GER), Women Round of 12 on C2 | Hamburg (GER)",Mäder/Kernen (SUI) vs Müller/Tillmann (GER), Women Round of 12 on C2 | Hamburg (GER)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1zrxPszv/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/8AJwiFG5/poster.jpg?width=320" tvg-name="Sandra/Kim (GER) vs Brunner/Hüberli (SUI), Women Round of 12 on CC | Hamburg (GER)",Sandra/Kim (GER) vs Brunner/Hüberli (SUI), Women Round of 12 on CC | Hamburg (GER)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8AJwiFG5/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/pPeDaRvP/poster.jpg?width=320" tvg-name="Henning/Pfretzschner L. (GER) vs Chouikh/Genevieve-Gardoque  (FRA), Men Round of 12 on CC | Hamburg (GER)",Henning/Pfretzschner L. (GER) vs Chouikh/Genevieve-Gardoque  (FRA), Men Round of 12 on CC | Hamburg (GER)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/pPeDaRvP/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/HgtCNAvI/poster.jpg?width=320" tvg-name="Boermans/Brouwer (NED) vs Bedritis/Rinkevics (LAT), Men Round of 12 on C2 | Hamburg (GER)",Boermans/Brouwer (NED) vs Bedritis/Rinkevics (LAT), Men Round of 12 on C2 | Hamburg (GER)
@@ -54,5 +54,5 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/mfmi3YhC/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jAYMzbDA/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley27" tvg-logo="https://cdn.jwplayer.com/v2/media/Bk4Pol64/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 1st Place on CC | Hamburg (GER)",[tbc] vs [tbc], Men Final 1st Place on CC | Hamburg (GER)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Bk4Pol64/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley28" tvg-logo="https://cdn.jwplayer.com/v2/media/nIkjeyz0/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)",[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nIkjeyz0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley28" tvg-logo="https://cdn.jwplayer.com/v2/media/qFk7FHDh/poster.jpg?width=320" tvg-name="Łosiak/Bryl (POL) vs Mol H./Berntsen (NOR), Men Pool C on C2 | Montréal (CAN)",Łosiak/Bryl (POL) vs Mol H./Berntsen (NOR), Men Pool C on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/qFk7FHDh/live.isml/.m3u8
