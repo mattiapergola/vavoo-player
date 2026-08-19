@@ -1,2 +1,78 @@
 #EXTM3U
-# Nessuna partita live al momento
+# Generato il 2026-08-19 13:45 UTC
+#EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/7Ax3X4Wx/poster.jpg?width=320" tvg-name="Sagstetter J./Sagstetter B. (GER) vs van der Loo/Sengers (NED), Men Qualifications R1 on C2 | Montréal (CAN)",Sagstetter J./Sagstetter B. (GER) vs van der Loo/Sengers (NED), Men Qualifications R1 on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/7Ax3X4Wx/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/x7JehS3v/poster.jpg?width=320" tvg-name="Andre/Renato (BRA) vs Charbonneau/Heider (CAN), Men Qualifications R1 on CC | Montréal (CAN)",Andre/Renato (BRA) vs Charbonneau/Heider (CAN), Men Qualifications R1 on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/x7JehS3v/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/dQVeTAzI/poster.jpg?width=320" tvg-name="Caldwell/La Bouliere (USA) vs Rahnavard/Kemp (CAN), Men Qualifications R1 on C2 | Montréal (CAN)",Caldwell/La Bouliere (USA) vs Rahnavard/Kemp (CAN), Men Qualifications R1 on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/dQVeTAzI/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/997ei5YC/poster.jpg?width=320" tvg-name="de Greeff/Gannett (CAN) vs Ringøen/Aas (NOR), Men Qualifications R1 on CC | Montréal (CAN)",de Greeff/Gannett (CAN) vs Ringøen/Aas (NOR), Men Qualifications R1 on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/997ei5YC/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/gmlzcPtr/poster.jpg?width=320" tvg-name="Brewster/Webber (USA) vs Ranghieri/Alfieri (ITA), Men Qualifications R1 on C2 | Montréal (CAN)",Brewster/Webber (USA) vs Ranghieri/Alfieri (ITA), Men Qualifications R1 on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/gmlzcPtr/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/kpQURcOI/poster.jpg?width=320" tvg-name="Pascariuc P./Horst (AUT) vs Rivest/Licht (CAN), Men Qualifications R1 on CC | Montréal (CAN)",Pascariuc P./Horst (AUT) vs Rivest/Licht (CAN), Men Qualifications R1 on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/kpQURcOI/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/7Oswa9j5/poster.jpg?width=320" tvg-name="Cory/Bradford (USA) vs Semerad/Stocek (CZE), Men Qualifications R1 on C2 | Montréal (CAN)",Cory/Bradford (USA) vs Semerad/Stocek (CZE), Men Qualifications R1 on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/7Oswa9j5/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/Dt25FgiU/poster.jpg?width=320" tvg-name="Abrams/Chadwick (CAN) vs Friedli/Jordan (SUI), Men Qualifications R1 on CC | Montréal (CAN)",Abrams/Chadwick (CAN) vs Friedli/Jordan (SUI), Men Qualifications R1 on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Dt25FgiU/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/minem1IT/poster.jpg?width=320" tvg-name="Sours/Shields (USA) vs Ana Patrícia/Carol Horta (BRA), Women Qualifications R1 on C2 | Montréal (CAN)",Sours/Shields (USA) vs Ana Patrícia/Carol Horta (BRA), Women Qualifications R1 on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/minem1IT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/D8xnVIRu/poster.jpg?width=320" tvg-name="Durish/Koenig (USA) vs Cudmore/Odigie (CAN), Women Qualifications R1 on CC | Montréal (CAN)",Durish/Koenig (USA) vs Cudmore/Odigie (CAN), Women Qualifications R1 on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/D8xnVIRu/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/cHiB211S/poster.jpg?width=320" tvg-name="Live and Upcoming - Indoor (Copy)",Live and Upcoming - Indoor (Copy)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/cHiB211S/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/jFoMGVFp/poster.jpg?width=320" tvg-name="Chinese Taipei v Iran | Pool Phase | AVC Women's Continentals 2026",Chinese Taipei v Iran | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jFoMGVFp/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://cdn.jwplayer.com/v2/media/rADlEHNu/poster.jpg?width=320" tvg-name="Thailand v Australia | Pool Phase | AVC Women's Continentals 2026",Thailand v Australia | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/rADlEHNu/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley15" tvg-logo="https://cdn.jwplayer.com/v2/media/q4O5aD9s/poster.jpg?width=320" tvg-name="Japan v Hong Kong | Pool Phase | AVC Women's Continentals 2026",Japan v Hong Kong | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/q4O5aD9s/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley16" tvg-logo="https://cdn.jwplayer.com/v2/media/ABqsEF2V/poster.jpg?width=320" tvg-name="Vietnam v Korea | Pool Phase | AVC Women's Continentals 2026",Vietnam v Korea | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/ABqsEF2V/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley17" tvg-logo="https://cdn.jwplayer.com/v2/media/jinWMne4/poster.jpg?width=320" tvg-name="Kazakhstan v Indonesia | Pool Phase | AVC Women's Continentals 2026",Kazakhstan v Indonesia | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jinWMne4/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley18" tvg-logo="https://cdn.jwplayer.com/v2/media/FPr3FPuo/poster.jpg?width=320" tvg-name="China v Iraq | Pool Phase | AVC Women's Continentals 2026",China v Iraq | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/FPr3FPuo/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley19" tvg-logo="https://cdn.jwplayer.com/v2/media/7yEFcOnG/poster.jpg?width=320" tvg-name="Kazakhstan v Australia | Pool Phase | AVC Women's Continentals 2026",Kazakhstan v Australia | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/7yEFcOnG/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley20" tvg-logo="https://cdn.jwplayer.com/v2/media/1lr0UoiM/poster.jpg?width=320" tvg-name="Chinese Taipei v Iraq | Pool Phase | AVC Women's Continentals 2026",Chinese Taipei v Iraq | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1lr0UoiM/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley21" tvg-logo="https://cdn.jwplayer.com/v2/media/XDhgLGI7/poster.jpg?width=320" tvg-name="Japan v Korea | Pool Phase | AVC Women's Continentals 2026",Japan v Korea | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/XDhgLGI7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/KA2XdNEH/poster.jpg?width=320" tvg-name="Vietnam v Hong Kong | Pool Phase | AVC Women's Continentals 2026",Vietnam v Hong Kong | Pool Phase | AVC Women's Continentals 2026
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/KA2XdNEH/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley23" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley24" tvg-logo="https://cdn.jwplayer.com/v2/media/DdxS5u58/poster.jpg?width=320" tvg-name="Pavlova/Sunniva (NOR) vs Navas/Gonzalez (PUR), Women Qualifications R1 on C2 | Montréal (CAN)",Pavlova/Sunniva (NOR) vs Navas/Gonzalez (PUR), Women Qualifications R1 on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/DdxS5u58/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley25" tvg-logo="https://cdn.jwplayer.com/v2/media/vtdjm8Sn/poster.jpg?width=320" tvg-name="Quiggle/Loreen (USA) vs Dunn/McKay (CAN), Women Qualifications R1 on CC | Montréal (CAN)",Quiggle/Loreen (USA) vs Dunn/McKay (CAN), Women Qualifications R1 on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/vtdjm8Sn/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley26" tvg-logo="https://cdn.jwplayer.com/v2/media/8xXuMTvE/poster.jpg?width=320" tvg-name="Harward/DeBerg (USA) vs Christ/Neuß (GER), Women Qualifications R1 on C2 | Montréal (CAN)",Harward/DeBerg (USA) vs Christ/Neuß (GER), Women Qualifications R1 on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8xXuMTvE/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley27" tvg-logo="https://cdn.jwplayer.com/v2/media/hWVW5KDa/poster.jpg?width=320" tvg-name="Bisgaard/Høg (DEN) vs McBain/Sorra (CAN), Women Qualifications R1 on CC | Montréal (CAN)",Bisgaard/Høg (DEN) vs McBain/Sorra (CAN), Women Qualifications R1 on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/hWVW5KDa/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley28" tvg-logo="https://cdn.jwplayer.com/v2/media/5iFyJ1h2/poster.jpg?width=320" tvg-name="Grüne/Uhl (GER) vs Paul/Lippmann (GER), Women Qualifications R1 on C2 | Montréal (CAN)",Grüne/Uhl (GER) vs Paul/Lippmann (GER), Women Qualifications R1 on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/5iFyJ1h2/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley29" tvg-logo="https://cdn.jwplayer.com/v2/media/VqDTRRzb/poster.jpg?width=320" tvg-name="Thorup/Glagau (CAN) vs Shaw/Phillips (USA), Women Qualifications R1 on CC | Montréal (CAN)",Thorup/Glagau (CAN) vs Shaw/Phillips (USA), Women Qualifications R1 on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/VqDTRRzb/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley30" tvg-logo="https://cdn.jwplayer.com/v2/media/qFk7FHDh/poster.jpg?width=320" tvg-name="Crabb Tr./Budinger (USA) vs Evans/Shaw (USA), Men Pool C on C2 | Montréal (CAN)",Crabb Tr./Budinger (USA) vs Evans/Shaw (USA), Men Pool C on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/qFk7FHDh/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley31" tvg-logo="https://cdn.jwplayer.com/v2/media/TpWqlX7k/poster.jpg?width=320" tvg-name="Hölting Nilsson/Andersson E (SWE) vs [tbc], Men Pool A on CC | Montréal (CAN)",Hölting Nilsson/Andersson E (SWE) vs [tbc], Men Pool A on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/TpWqlX7k/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley32" tvg-logo="https://cdn.jwplayer.com/v2/media/8LLDPEF0/poster.jpg?width=320" tvg-name="Waller/Pristauz (AUT) vs Crabb/Benesh (USA), Men Pool A on C2 | Montréal (CAN)",Waller/Pristauz (AUT) vs Crabb/Benesh (USA), Men Pool A on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8LLDPEF0/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley33" tvg-logo="https://cdn.jwplayer.com/v2/media/qRNhu3DN/poster.jpg?width=320" tvg-name="Mol A./Sørum C. (NOR) vs [tbc], Men Pool C on CC | Montréal (CAN)",Mol A./Sørum C. (NOR) vs [tbc], Men Pool C on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/qRNhu3DN/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley34" tvg-logo="https://cdn.jwplayer.com/v2/media/khL4Dy2O/poster.jpg?width=320" tvg-name="Savvy/Newberry (USA) vs Müller/Tillmann (GER), Women Pool B on C2 | Montréal (CAN)",Savvy/Newberry (USA) vs Müller/Tillmann (GER), Women Pool B on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/khL4Dy2O/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley35" tvg-logo="https://cdn.jwplayer.com/v2/media/BJHcffKU/poster.jpg?width=320" tvg-name="Cruz/Brasher (USA) vs [tbc], Women Pool B on CC | Montréal (CAN)",Cruz/Brasher (USA) vs [tbc], Women Pool B on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BJHcffKU/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley36" tvg-logo="https://cdn.jwplayer.com/v2/media/JeBN8N5p/poster.jpg?width=320" tvg-name="Kraft/Cheng (USA) vs Verena/Thainara (BRA), Women Pool C on C2 | Montréal (CAN)",Kraft/Cheng (USA) vs Verena/Thainara (BRA), Women Pool C on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JeBN8N5p/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley37" tvg-logo="https://cdn.jwplayer.com/v2/media/q8MuToFT/poster.jpg?width=320" tvg-name="Carol /Rebecca (BRA) vs [tbc], Women Pool C on CC | Montréal (CAN)",Carol /Rebecca (BRA) vs [tbc], Women Pool C on CC | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/q8MuToFT/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley38" tvg-logo="https://cdn.jwplayer.com/v2/media/4UFyrhhc/poster.jpg?width=320" tvg-name="Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Montréal (CAN)",Plavins/Fokerots (LAT) vs [tbc], Men Pool B on C2 | Montréal (CAN)
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/4UFyrhhc/live.isml/.m3u8
