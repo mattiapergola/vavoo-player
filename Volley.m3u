@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-08-20 17:31 UTC
+# Generato il 2026-08-20 18:41 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/qFk7FHDh/poster.jpg?width=320" tvg-name="Crabb Tr./Budinger (USA) vs Evans/Shaw (USA), Men Pool C on C2 | Montréal (CAN)",Crabb Tr./Budinger (USA) vs Evans/Shaw (USA), Men Pool C on C2 | Montréal (CAN)
@@ -76,3 +76,5 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/FIRQBCnL/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/F8RBucY0/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley38" tvg-logo="https://cdn.jwplayer.com/v2/media/dPO4iyjJ/poster.jpg?width=320" tvg-name="Capogrosso N./Capogrosso T. (ARG) vs Ringøen/Aas (NOR), Men Pool B on C2 | Montréal (CAN)",Capogrosso N./Capogrosso T. (ARG) vs Ringøen/Aas (NOR), Men Pool B on C2 | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/dPO4iyjJ/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley39" tvg-logo="https://i.imgur.com/o2sNE7P.jpeg" tvg-name="FRANCIA vs ESLOVAQUIA - Campeoneto Europeo de Voley",FRANCIA vs ESLOVAQUIA - Campeoneto Europeo de Voley
+insertar.m3u8
