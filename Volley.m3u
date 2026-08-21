@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-08-21 09:38 UTC
+# Generato il 2026-08-21 10:32 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/dPO4iyjJ/poster.jpg?width=320" tvg-name="Capogrosso N./Capogrosso T. (ARG) vs Ringøen/Aas (NOR), Men Pool B on C2 | Montréal (CAN)",Capogrosso N./Capogrosso T. (ARG) vs Ringøen/Aas (NOR), Men Pool B on C2 | Montréal (CAN)
@@ -54,9 +54,7 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/qMYiWJ7E/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/6Y0gpfqM/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley27" tvg-logo="https://cdn.jwplayer.com/v2/media/DGjkEeNU/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Round of 12 | Montréal (CAN)",[tbc] vs [tbc], Men Round of 12 | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/DGjkEeNU/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley28" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="TAILANDIA vs AUSTRALIA - Campeonato Asiatico de Voley",TAILANDIA vs AUSTRALIA - Campeonato Asiatico de Voley
+#EXTINF:-1 tvg-id="voley28" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="JAPON vs HONG KONG - Campeonato Asiatico de Voley",JAPON vs HONG KONG - Campeonato Asiatico de Voley
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8
-#EXTINF:-1 tvg-id="voley29" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="JAPON vs HONG KONG - Campeonato Asiatico de Voley",JAPON vs HONG KONG - Campeonato Asiatico de Voley
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/q4O5aD9s/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley30" tvg-logo="https://i.imgur.com/o2sNE7P.jpeg" tvg-name="FRANCIA vs ESLOVAQUIA - Campeoneto Europeo de Voley",FRANCIA vs ESLOVAQUIA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley29" tvg-logo="https://i.imgur.com/o2sNE7P.jpeg" tvg-name="FRANCIA vs ESLOVAQUIA - Campeoneto Europeo de Voley",FRANCIA vs ESLOVAQUIA - Campeoneto Europeo de Voley
 insertar.m3u8
