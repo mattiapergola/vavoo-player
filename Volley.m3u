@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-08-21 15:35 UTC
+# Generato il 2026-08-21 16:36 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/dPO4iyjJ/poster.jpg?width=320" tvg-name="Capogrosso N./Capogrosso T. (ARG) vs Ringøen/Aas (NOR), Men Pool B on C2 | Montréal (CAN)",Capogrosso N./Capogrosso T. (ARG) vs Ringøen/Aas (NOR), Men Pool B on C2 | Montréal (CAN)
@@ -61,4 +61,6 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 #EXTINF:-1 tvg-id="voley30" tvg-logo="https://i.imgur.com/W2lNxAt.jpeg" tvg-name="AZERBAIYAN vs PORTUGAL - Campeoneto Europeo de Voley",AZERBAIYAN vs PORTUGAL - Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/DdBPJVM6yQpc/2026/8/21/14_17_44/index.m3u8
 #EXTINF:-1 tvg-id="voley31" tvg-logo="https://i.imgur.com/wzslDEj.jpeg" tvg-name="TURQUIA vs LETONIA - Campeoneto Europeo de Voley",TURQUIA vs LETONIA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/Gox1rqdqqTLg/2026/8/21/15_15_59/index.m3u8
+#EXTINF:-1 tvg-id="voley32" tvg-logo="https://i.imgur.com/eTXZfgN.jpeg" tvg-name="SUECIA vs MONTENEGRO - Campeoneto Europeo de Voley",SUECIA vs MONTENEGRO - Campeoneto Europeo de Voley
 insertar.m3u8
