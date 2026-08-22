@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-08-22 16:51 UTC
+# Generato il 2026-08-22 17:22 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/DGjkEeNU/poster.jpg?width=320" tvg-name="Plavins/Fokerots (LAT) vs Waller/Pristauz (AUT), Men Round of 12 on C2 | Montréal (CAN)",Plavins/Fokerots (LAT) vs Waller/Pristauz (AUT), Men Round of 12 on C2 | Montréal (CAN)
@@ -69,4 +69,6 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 #EXTINF:-1 tvg-id="voley34" tvg-logo="https://i.ytimg.com/vi/oZT0T7H2fDQ/maxresdefault.jpg" tvg-name="ESLOVAQUIA vs SUECIA - Campeoneto Europeo de Voley",ESLOVAQUIA vs SUECIA - Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/JGNVhTmG9OIJ/2026/8/22/15_15_12/index.m3u8
 #EXTINF:-1 tvg-id="voley35" tvg-logo="https://i.ytimg.com/vi/jDlo2xWF8vA/maxresdefault.jpg" tvg-name="AUSTRIA vs REPUBLICA CHECA - Campeoneto Europeo de Voley",AUSTRIA vs REPUBLICA CHECA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/Xw92l0CWzEVG/2026/8/22/16_3_30/index.m3u8
+#EXTINF:-1 tvg-id="voley36" tvg-logo="https://i.imgur.com/2QmWINr.jpeg" tvg-name="PUERTO RICO vs COSTA RICA - Campeoneto Norte y Centroamericano de Voley",PUERTO RICO vs COSTA RICA - Campeoneto Norte y Centroamericano de Voley
 insertar.m3u8
