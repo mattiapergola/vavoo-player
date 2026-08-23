@@ -1,56 +1,30 @@
 #EXTM3U
-# Generato il 2026-08-23 01:27 UTC
+# Generato il 2026-08-23 06:43 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/DGjkEeNU/poster.jpg?width=320" tvg-name="Plavins/Fokerots (LAT) vs Waller/Pristauz (AUT), Men Round of 12 on C2 | Montréal (CAN)",Plavins/Fokerots (LAT) vs Waller/Pristauz (AUT), Men Round of 12 on C2 | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/DGjkEeNU/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/9fDSusp7/poster.jpg?width=320" tvg-name="Evandro/Arthur Lanci (BRA) vs Crabb Tr./Budinger (USA), Men Round of 12 on CC | Montréal (CAN)",Evandro/Arthur Lanci (BRA) vs Crabb Tr./Budinger (USA), Men Round of 12 on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/9fDSusp7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/NPpq12F0/poster.jpg?width=320" tvg-name="Crabb/Benesh (USA) vs Ringøen/Aas (NOR), Men Round of 12 on C2 | Montréal (CAN)",Crabb/Benesh (USA) vs Ringøen/Aas (NOR), Men Round of 12 on C2 | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/NPpq12F0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/skCso3L8/poster.jpg?width=320" tvg-name="Pascariuc P./Horst (AUT) vs Schachter/Pickett (CAN), Men Round of 12 on CC | Montréal (CAN)",Pascariuc P./Horst (AUT) vs Schachter/Pickett (CAN), Men Round of 12 on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/skCso3L8/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/jPsopEtX/poster.jpg?width=320" tvg-name="Kraft/Cheng (USA) vs Shaw/Phillips (USA), Women Round of 12 on C2 | Montréal (CAN)",Kraft/Cheng (USA) vs Shaw/Phillips (USA), Women Round of 12 on C2 | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/jPsopEtX/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/Il0Qx8sp/poster.jpg?width=320" tvg-name="Thamela/Victoria (BRA) vs Harward/DeBerg (USA), Women Round of 12 on CC | Montréal (CAN)",Thamela/Victoria (BRA) vs Harward/DeBerg (USA), Women Round of 12 on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Il0Qx8sp/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/8K9cDxv1/poster.jpg?width=320" tvg-name="Müller/Tillmann (GER) vs Paulikiene/Raupelyte (LTU), Women Round of 12 on C2 | Montréal (CAN)",Müller/Tillmann (GER) vs Paulikiene/Raupelyte (LTU), Women Round of 12 on C2 | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8K9cDxv1/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/w3VClK60/poster.jpg?width=320" tvg-name="Tina/Anastasija (LAT) vs Quiggle/Loreen (USA), Women Round of 12 on CC | Montréal (CAN)",Tina/Anastasija (LAT) vs Quiggle/Loreen (USA), Women Round of 12 on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/w3VClK60/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/HHmjSHM4/poster.jpg?width=320" tvg-name="[tbc] vs Mol H./Berntsen (NOR), Men Quarterfinals on C2 | Montréal (CAN)",[tbc] vs Mol H./Berntsen (NOR), Men Quarterfinals on C2 | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/HHmjSHM4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/APODUxUY/poster.jpg?width=320" tvg-name="Mol A./Sørum C. (NOR) vs [tbc], Men Quarterfinals on CC | Montréal (CAN)",Mol A./Sørum C. (NOR) vs [tbc], Men Quarterfinals on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/APODUxUY/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/1GAa0sFU/poster.jpg?width=320" tvg-name="[tbc] vs Andre/Renato (BRA), Men Quarterfinals on C2 | Montréal (CAN)",[tbc] vs Andre/Renato (BRA), Men Quarterfinals on C2 | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1GAa0sFU/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://cdn.jwplayer.com/v2/media/hHpjMERj/poster.jpg?width=320" tvg-name="Hölting Nilsson/Andersson E (SWE) vs [tbc], Men Quarterfinals on CC | Montréal (CAN)",Hölting Nilsson/Andersson E (SWE) vs [tbc], Men Quarterfinals on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/hHpjMERj/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley15" tvg-logo="https://cdn.jwplayer.com/v2/media/KCfVuZhU/poster.jpg?width=320" tvg-name="[tbc] vs Cruz/Brasher (USA), Women Quarterfinals on C2 | Montréal (CAN)",[tbc] vs Cruz/Brasher (USA), Women Quarterfinals on C2 | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/KCfVuZhU/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley16" tvg-logo="https://cdn.jwplayer.com/v2/media/srj2XFbJ/poster.jpg?width=320" tvg-name="[tbc] vs Donlin/Denaburg (USA), Women Quarterfinals on CC | Montréal (CAN)",[tbc] vs Donlin/Denaburg (USA), Women Quarterfinals on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/srj2XFbJ/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley17" tvg-logo="https://cdn.jwplayer.com/v2/media/GRGgAFXo/poster.jpg?width=320" tvg-name="Carol /Rebecca (BRA) vs [tbc], Women Quarterfinals on C2 | Montréal (CAN)",Carol /Rebecca (BRA) vs [tbc], Women Quarterfinals on C2 | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/GRGgAFXo/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley18" tvg-logo="https://cdn.jwplayer.com/v2/media/JjdfLa7E/poster.jpg?width=320" tvg-name="Melissa/Brandie (CAN) vs [tbc], Women Quarterfinals on CC | Montréal (CAN)",Melissa/Brandie (CAN) vs [tbc], Women Quarterfinals on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/JjdfLa7E/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley19" tvg-logo="https://cdn.jwplayer.com/v2/media/Szqsb5M7/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Semifinals | Montréal (CAN)",[tbc] vs [tbc], Men Semifinals | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/Szqsb5M7/poster.jpg?width=320" tvg-name="Mol A./Sørum C. (NOR) vs Mol H./Berntsen (NOR), Men Semifinals on CC | Montréal (CAN)",Mol A./Sørum C. (NOR) vs Mol H./Berntsen (NOR), Men Semifinals on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Szqsb5M7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley20" tvg-logo="https://cdn.jwplayer.com/v2/media/5nlmBAbz/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Semifinals | Montréal (CAN)",[tbc] vs [tbc], Men Semifinals | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/5nlmBAbz/poster.jpg?width=320" tvg-name="Schachter/Pickett (CAN) vs Andre/Renato (BRA), Men Semifinals on CC | Montréal (CAN)",Schachter/Pickett (CAN) vs Andre/Renato (BRA), Men Semifinals on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/5nlmBAbz/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley21" tvg-logo="https://cdn.jwplayer.com/v2/media/rt1Zysth/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Semifinals | Montréal (CAN)",[tbc] vs [tbc], Women Semifinals | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/rt1Zysth/poster.jpg?width=320" tvg-name="Müller/Tillmann (GER) vs Cruz/Brasher (USA), Women Semifinals on CC | Montréal (CAN)",Müller/Tillmann (GER) vs Cruz/Brasher (USA), Women Semifinals on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/rt1Zysth/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/1pgvRZX4/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Semifinals | Montréal (CAN)",[tbc] vs [tbc], Women Semifinals | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/1pgvRZX4/poster.jpg?width=320" tvg-name="Melissa/Brandie (CAN) vs Thamela/Victoria (BRA), Women Semifinals on CC | Montréal (CAN)",Melissa/Brandie (CAN) vs Thamela/Victoria (BRA), Women Semifinals on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1pgvRZX4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley23" tvg-logo="https://cdn.jwplayer.com/v2/media/nIkjeyz0/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)",[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/nIkjeyz0/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)",[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nIkjeyz0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley24" tvg-logo="https://cdn.jwplayer.com/v2/media/IHTOYq9P/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)",[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/IHTOYq9P/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 3rd Place on CC | Montréal (CAN)",[tbc] vs [tbc], Women Final 3rd Place on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/IHTOYq9P/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley25" tvg-logo="https://cdn.jwplayer.com/v2/media/fky9u9IR/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 3rd Place on CC | Montréal (CAN)",[tbc] vs [tbc], Women Final 3rd Place on CC | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/fky9u9IR/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 1st Place on CC | Montréal (CAN)",[tbc] vs [tbc], Men Final 1st Place on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/fky9u9IR/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley26" tvg-logo="https://cdn.jwplayer.com/v2/media/XHWJHwt7/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 1st Place on CC | Montréal (CAN)",[tbc] vs [tbc], Men Final 1st Place on CC | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/XHWJHwt7/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)",[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/XHWJHwt7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley27" tvg-logo="https://cdn.jwplayer.com/v2/media/8DoNG2hr/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)",[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)
+#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/8DoNG2hr/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)",[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8DoNG2hr/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
+https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley12" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="CHINA TAIPEI vs IRAK - Campeonato Asiatico de Voley",CHINA TAIPEI vs IRAK - Campeonato Asiatico de Voley
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="JAPON vs COREA DEL SUR - Campeonato Asiatico de Voley",JAPON vs COREA DEL SUR - Campeonato Asiatico de Voley
+Eyf0Aihb4Oo
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.ytimg.com/vi/z0H6u_3Qx2k/maxresdefault.jpg" tvg-name="PORTUGAL vs BELGICA - Campeoneto Europeo de Voley",PORTUGAL vs BELGICA - Campeoneto Europeo de Voley
+insertar.m3u8
