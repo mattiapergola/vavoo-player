@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-08-23 12:43 UTC
+# Generato il 2026-08-23 13:33 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/Szqsb5M7/poster.jpg?width=320" tvg-name="Mol A./Sørum C. (NOR) vs Mol H./Berntsen (NOR), Men Semifinals on CC | Montréal (CAN)",Mol A./Sørum C. (NOR) vs Mol H./Berntsen (NOR), Men Semifinals on CC | Montréal (CAN)
@@ -22,9 +22,11 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/XHWJHwt7/live.is
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8DoNG2hr/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley12" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="JAPON vs COREA DEL SUR - Campeonato Asiatico de Voley",JAPON vs COREA DEL SUR - Campeonato Asiatico de Voley
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://i.ytimg.com/vi/z0H6u_3Qx2k/maxresdefault.jpg" tvg-name="PORTUGAL vs BELGICA - Campeoneto Europeo de Voley",PORTUGAL vs BELGICA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley12" tvg-logo="https://i.ytimg.com/vi/z0H6u_3Qx2k/maxresdefault.jpg" tvg-name="PORTUGAL vs BELGICA - Campeoneto Europeo de Voley",PORTUGAL vs BELGICA - Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/DFB3PiJ5jjC6/2026/8/23/10_45_28/index.m3u8
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.ytimg.com/vi/B2igJY9o_cA/maxresdefault.jpg" tvg-name="LETONIA vs ALEMANIA - Campeoneto Europeo de Voley",LETONIA vs ALEMANIA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://i.ytimg.com/vi/B2igJY9o_cA/maxresdefault.jpg" tvg-name="LETONIA vs ALEMANIA - Campeoneto Europeo de Voley",LETONIA vs ALEMANIA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/bmPuQAFOqioZ/2026/8/23/12_2_20/index.m3u8
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.ytimg.com/vi/5oc8E960O8w/maxresdefault.jpg" tvg-name="FRANCIA vs GROACIA - Campeoneto Europeo de Voley",FRANCIA vs GROACIA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/N51acEMOyJtd/2026/8/23/12_2_22/index.m3u8
+#EXTINF:-1 tvg-id="voley15" tvg-logo="https://i.ytimg.com/vi/3bvfXmuGXoo/maxresdefault.jpg" tvg-name="GRECIA vs BULGARIA - Campeoneto Europeo de Voley",GRECIA vs BULGARIA - Campeoneto Europeo de Voley
 insertar.m3u8
