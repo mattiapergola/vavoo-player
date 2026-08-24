@@ -1,24 +1,10 @@
 #EXTM3U
-# Generato il 2026-08-24 01:24 UTC
+# Generato il 2026-08-24 07:02 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/Szqsb5M7/poster.jpg?width=320" tvg-name="Mol A./Sørum C. (NOR) vs Mol H./Berntsen (NOR), Men Semifinals on CC | Montréal (CAN)",Mol A./Sørum C. (NOR) vs Mol H./Berntsen (NOR), Men Semifinals on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/Szqsb5M7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://cdn.jwplayer.com/v2/media/5nlmBAbz/poster.jpg?width=320" tvg-name="Schachter/Pickett (CAN) vs Andre/Renato (BRA), Men Semifinals on CC | Montréal (CAN)",Schachter/Pickett (CAN) vs Andre/Renato (BRA), Men Semifinals on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/5nlmBAbz/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://cdn.jwplayer.com/v2/media/rt1Zysth/poster.jpg?width=320" tvg-name="Müller/Tillmann (GER) vs Cruz/Brasher (USA), Women Semifinals on CC | Montréal (CAN)",Müller/Tillmann (GER) vs Cruz/Brasher (USA), Women Semifinals on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/rt1Zysth/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://cdn.jwplayer.com/v2/media/1pgvRZX4/poster.jpg?width=320" tvg-name="Melissa/Brandie (CAN) vs Thamela/Victoria (BRA), Women Semifinals on CC | Montréal (CAN)",Melissa/Brandie (CAN) vs Thamela/Victoria (BRA), Women Semifinals on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/1pgvRZX4/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://cdn.jwplayer.com/v2/media/nIkjeyz0/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)",[tbc] vs [tbc], Men Final 3rd Place on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/nIkjeyz0/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://cdn.jwplayer.com/v2/media/IHTOYq9P/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 3rd Place on CC | Montréal (CAN)",[tbc] vs [tbc], Women Final 3rd Place on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/IHTOYq9P/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://cdn.jwplayer.com/v2/media/fky9u9IR/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Men Final 1st Place on CC | Montréal (CAN)",[tbc] vs [tbc], Men Final 1st Place on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/fky9u9IR/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley9" tvg-logo="https://cdn.jwplayer.com/v2/media/XHWJHwt7/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)",[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/XHWJHwt7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley10" tvg-logo="https://cdn.jwplayer.com/v2/media/8DoNG2hr/poster.jpg?width=320" tvg-name="[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)",[tbc] vs [tbc], Women Final 1st Place on CC | Montréal (CAN)
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/8DoNG2hr/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley11" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="TAILANDIA vs INDONESIA - Campeonato Asiatico de Voley",TAILANDIA vs INDONESIA - Campeonato Asiatico de Voley
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="CHINA vs IRAN - Campeonato Asiatico de Voley",CHINA vs IRAN - Campeonato Asiatico de Voley
+insertar.m3u8
