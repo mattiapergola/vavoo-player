@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-08-24 13:53 UTC
+# Generato il 2026-08-24 14:44 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -13,4 +13,6 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 #EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/Lc15VAmifOY/maxresdefault.jpg" tvg-name="CROACIA vs ESLOVAQUIA - Campeoneto Europeo de Voley",CROACIA vs ESLOVAQUIA - Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/h1H0hD2sfOsX/2026/8/24/13_6_19/index.m3u8
 #EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/UVdBZwlC8Fs/maxresdefault.jpg" tvg-name="AZERBAIYAN vs RUMANIA - Campeoneto Europeo de Voley",AZERBAIYAN vs RUMANIA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/gTrnVJ7ruzU0/2026/8/24/13_33_58/index.m3u8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://i.ytimg.com/vi/m53Mm2Ie_6U/maxresdefault.jpg" tvg-name="TURQUIA vs HUNGRIA - Campeoneto Europeo de Voley",TURQUIA vs HUNGRIA - Campeoneto Europeo de Voley
 insertar.m3u8
