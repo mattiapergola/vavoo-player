@@ -1,18 +1,18 @@
 #EXTM3U
-# Generato il 2026-08-24 14:44 UTC
+# Generato il 2026-08-24 15:41 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/DNPppQOYuzE/maxresdefault.jpg" tvg-name="HOLANDA vs PORTUGAL - Campeoneto Europeo de Voley",HOLANDA vs PORTUGAL - Campeoneto Europeo de Voley
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/keeMhmAB8QXD/2026/8/24/10_37_8/index.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/OTmuUX4o8T8/maxresdefault.jpg" tvg-name="POLONIA vs LETONIA - Campeoneto Europeo de Voley",POLONIA vs LETONIA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/OTmuUX4o8T8/maxresdefault.jpg" tvg-name="POLONIA vs LETONIA - Campeoneto Europeo de Voley",POLONIA vs LETONIA - Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/2pvyK2FsW97A/2026/8/24/12_5_21/index.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/PtnarR7psKE/maxresdefault.jpg" tvg-name="UCRANIA vs AUSTRIA - Campeoneto Europeo de Voley",UCRANIA vs AUSTRIA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/PtnarR7psKE/maxresdefault.jpg" tvg-name="UCRANIA vs AUSTRIA - Campeoneto Europeo de Voley",UCRANIA vs AUSTRIA - Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/tZYmzx0ebbEo/2026/8/24/13_6_21/index.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/Lc15VAmifOY/maxresdefault.jpg" tvg-name="CROACIA vs ESLOVAQUIA - Campeoneto Europeo de Voley",CROACIA vs ESLOVAQUIA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/Lc15VAmifOY/maxresdefault.jpg" tvg-name="CROACIA vs ESLOVAQUIA - Campeoneto Europeo de Voley",CROACIA vs ESLOVAQUIA - Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/h1H0hD2sfOsX/2026/8/24/13_6_19/index.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/UVdBZwlC8Fs/maxresdefault.jpg" tvg-name="AZERBAIYAN vs RUMANIA - Campeoneto Europeo de Voley",AZERBAIYAN vs RUMANIA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/UVdBZwlC8Fs/maxresdefault.jpg" tvg-name="AZERBAIYAN vs RUMANIA - Campeoneto Europeo de Voley",AZERBAIYAN vs RUMANIA - Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/gTrnVJ7ruzU0/2026/8/24/13_33_58/index.m3u8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://i.ytimg.com/vi/m53Mm2Ie_6U/maxresdefault.jpg" tvg-name="TURQUIA vs HUNGRIA - Campeoneto Europeo de Voley",TURQUIA vs HUNGRIA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/m53Mm2Ie_6U/maxresdefault.jpg" tvg-name="TURQUIA vs HUNGRIA - Campeoneto Europeo de Voley",TURQUIA vs HUNGRIA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/daCRPV5et3aX/2026/8/24/15_5_0/index.m3u8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://i.ytimg.com/vi/d1S6JMQdKYk/maxresdefault.jpg" tvg-name="SERBIA vs BULGARIA - Campeoneto Europeo de Voley",SERBIA vs BULGARIA - Campeoneto Europeo de Voley
 insertar.m3u8
