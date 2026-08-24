@@ -1,10 +1,12 @@
 #EXTM3U
-# Generato il 2026-08-24 11:02 UTC
+# Generato il 2026-08-24 11:55 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="TAILANDIA vs INDONESIA - Campeonato Asiatico de Voley",TAILANDIA vs INDONESIA - Campeonato Asiatico de Voley
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="CHINA vs IRAN - Campeonato Asiatico de Voley",CHINA vs IRAN - Campeonato Asiatico de Voley
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="CHINA vs IRAN - Campeonato Asiatico de Voley",CHINA vs IRAN - Campeonato Asiatico de Voley
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/DNPppQOYuzE/maxresdefault.jpg" tvg-name="HOLANDA vs PORTUGAL - Campeoneto Europeo de Voley",HOLANDA vs PORTUGAL - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/keeMhmAB8QXD/2026/8/24/10_37_8/index.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/OTmuUX4o8T8/maxresdefault.jpg" tvg-name="POLONIA vs LETONIA - Campeoneto Europeo de Voley",POLONIA vs LETONIA - Campeoneto Europeo de Voley
 insertar.m3u8
