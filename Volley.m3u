@@ -1,10 +1,12 @@
 #EXTM3U
-# Generato il 2026-08-25 11:57 UTC
+# Generato il 2026-08-25 13:02 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="JAPON vs VIETNAM - Campeonato Asiatico de Voley",JAPON vs VIETNAM - Campeonato Asiatico de Voley
-https://rumble.com/live-hls-dvr/m9centYBm_E/playlist.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/d6lBkUs6Ank/maxresdefault.jpg" tvg-name="RUMANIA vs BELGICA - Campeoneto Europeo de Voley",RUMANIA vs BELGICA - Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/d6lBkUs6Ank/maxresdefault.jpg" tvg-name="RUMANIA vs BELGICA - Campeoneto Europeo de Voley",RUMANIA vs BELGICA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/FPNeNSMAWxp6/2026/8/25/10_46_34/index.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/OUqm_iiHwlM/maxresdefault.jpg" tvg-name="HUNGRIA vs ALEMANIA - Campeoneto Europeo de Voley",HUNGRIA vs ALEMANIA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/jSQxqWosdQ7f/2026/8/25/12_1_22/index.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/b6NirDT6a_o/maxresdefault.jpg" tvg-name="GRECIA vs AUSTRIA - Campeoneto Europeo de Voley",GRECIA vs AUSTRIA - Campeoneto Europeo de Voley
 insertar.m3u8
