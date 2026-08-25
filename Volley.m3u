@@ -1,8 +1,10 @@
 #EXTM3U
-# Generato il 2026-08-25 09:37 UTC
+# Generato il 2026-08-25 10:34 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="JAPON vs VIETNAM - Campeonato Asiatico de Voley",JAPON vs VIETNAM - Campeonato Asiatico de Voley
+https://rumble.com/live-hls-dvr/m9centYBm_E/playlist.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/d6lBkUs6Ank/maxresdefault.jpg" tvg-name="RUMANIA vs BELGICA - Campeoneto Europeo de Voley",RUMANIA vs BELGICA - Campeoneto Europeo de Voley
 insertar.m3u8
