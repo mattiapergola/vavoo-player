@@ -1,8 +1,14 @@
 #EXTM3U
-# Generato il 2026-08-26 11:31 UTC
+# Generato il 2026-08-26 12:56 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="CHINA vs CHINA TAIPEI - Campeonato Asiatico de Voley",CHINA vs CHINA TAIPEI - Campeonato Asiatico de Voley
+https://rumble.com/live-hls-dvr/NFcEPqWw-78/playlist.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/KJ2FkDTE3II/hq720.jpg" tvg-name="ESPAÑA vs PORTUGAL - Campeoneto Europeo de Voley",ESPAÑA vs PORTUGAL - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/Drrj4cTBRkl8/2026/8/26/10_38_8/index.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/P4SSW-gH_uA/hq720.jpg" tvg-name="ESLOVENIA vs LETONIA - Campeoneto Europeo de Voley",ESLOVENIA vs LETONIA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/nrl71Hk3no28/2026/8/26/12_0_48/index.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/SXOSN1BYoeM/hq720.jpg" tvg-name="AUSTRALIA vs BULGARIA - Campeoneto Europeo de Voley",AUSTRALIA vs BULGARIA - Campeoneto Europeo de Voley
 insertar.m3u8
