@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-08-26 12:56 UTC
+# Generato il 2026-08-26 13:57 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -12,3 +12,5 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/nrl71Hk3no28/2026/8/26/12_0_48/index.m3u8
 #EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/SXOSN1BYoeM/hq720.jpg" tvg-name="AUSTRALIA vs BULGARIA - Campeoneto Europeo de Voley",AUSTRALIA vs BULGARIA - Campeoneto Europeo de Voley
 insertar.m3u8
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/jwgZ6h8jvBY/hq720.jpg" tvg-name="FRANCIA vs ITALIA - Campeoneto Europeo de Voley",FRANCIA vs ITALIA - Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/mYMoy2FRygYI/2026/8/26/13_0_36/index.m3u8
