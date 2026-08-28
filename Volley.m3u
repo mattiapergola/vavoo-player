@@ -1,6 +1,8 @@
 #EXTM3U
-# Generato il 2026-08-28 01:36 UTC
+# Generato il 2026-08-28 10:13 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="CHINA vs VIETNAM - Campeonato Asiatico de Voley",CHINA vs VIETNAM - Campeonato Asiatico de Voley
+insertar.m3u8
