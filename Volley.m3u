@@ -1,8 +1,12 @@
 #EXTM3U
-# Generato il 2026-08-30 04:21 UTC
+# Generato il 2026-08-30 11:29 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="IRAN vs JAPON - Medalla de Bronce Campeonato Asiatico de Voley",IRAN vs JAPON - Medalla de Bronce Campeonato Asiatico de Voley
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="CHINA vs TAILANDIA - Final Campeonato Asiatico de Voley",CHINA vs TAILANDIA - Final Campeonato Asiatico de Voley
+https://rumble.com/live-hls-dvr/qUctTlrMVmY/playlist.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.imgur.com/qIHGU3W.jpeg" tvg-name="OPS 2 CHINA vs TAILANDIA - Final Campeonato Asiatico de Voley",OPS 2 CHINA vs TAILANDIA - Final Campeonato Asiatico de Voley
+https://ok.ru/videoembed/16307304078971
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/5jSx_m9NQDU/hq720.jpg" tvg-name="FRANCIA vs GRECIA - 8avos de Final Campeoneto Europeo de Voley",FRANCIA vs GRECIA - 8avos de Final Campeoneto Europeo de Voley
 insertar.m3u8
