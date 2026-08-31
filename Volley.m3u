@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-08-31 13:02 UTC
+# Generato il 2026-08-31 19:34 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -7,4 +7,8 @@ https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.is
 #EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/jA1MRuni5Xk/hq720.jpg" tvg-name="HOLANDA vs ESLOVENIA - 8avos de Final Campeoneto Europeo de Voley",HOLANDA vs ESLOVENIA - 8avos de Final Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/OkDSVXqnFX0S/2026/8/31/11_53_43/index.m3u8
 #EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/KYauZhoDkMU/hq720.jpg" tvg-name="ITALIA vs BULGARIA - 8avos de Final Campeoneto Europeo de Voley",ITALIA vs BULGARIA - 8avos de Final Campeoneto Europeo de Voley
-insertar.m3u8
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/zNzqVPsJ0o5R/2026/8/31/12_53_50/index.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/cyeiBOYZOqU/hq720.jpg" tvg-name="POLONIA vs PORTUGAL - 8avos de Final Campeoneto Europeo de Voley",POLONIA vs PORTUGAL - 8avos de Final Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/iJHyc6Nz65lt/2026/8/31/15_7_50/index.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/64fsEdtgQpE/hq720.jpg" tvg-name="REPUBLICA CHECA vs SUECIA - 8avos de Final Campeoneto Europeo de Voley",REPUBLICA CHECA vs SUECIA - 8avos de Final Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/II9F18NHeO5t/2026/8/31/15_55_52/index.m3u8
