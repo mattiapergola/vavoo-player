@@ -1,10 +1,8 @@
 #EXTM3U
-# Generato il 2026-09-02 03:32 UTC
+# Generato il 2026-09-02 10:52 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/3oadt8Hdwb0/hq720.jpg" tvg-name="REPLAY - BELGICA vs ALEMANIA - 8avos de Final Campeoneto Europeo de Voley",REPLAY - BELGICA vs ALEMANIA - 8avos de Final Campeoneto Europeo de Voley
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/8XTn4NwIUp2q/2026/9/1/11_49_12/index.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/xSCdadZApEk/hq720.jpg" tvg-name="TURQUIA vs AZERBAYAN - 8avos de Final Campeoneto Europeo de Voley",TURQUIA vs AZERBAYAN - 8avos de Final Campeoneto Europeo de Voley
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/AyGUJSFqnUMC/2026/9/1/15_1_43/index.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/uQg9s98iSi0/hq720.jpg" tvg-name="SERBIA vs GRECIA - 4to de Final Campeoneto Europeo de Voley",SERBIA vs GRECIA - 4to de Final Campeoneto Europeo de Voley
+insertar.m3u8
