@@ -1,8 +1,10 @@
 #EXTM3U
-# Generato il 2026-09-04 03:31 UTC
+# Generato il 2026-09-04 10:51 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://e-ad.americatv.com.pe/polideportivo-tokio-2020-brasil-vencio-argentina-renido-partido-voleibol-masculino-n419837-696x418-980631.jpg" tvg-name="IRAN vs NUEVA ZELANDA - Campeonato Asiatico de Voley Masculino",IRAN vs NUEVA ZELANDA - Campeonato Asiatico de Voley Masculino
-https://rumble.com/live-hls-dvr/s45AWGUMnsQ/playlist.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/mEZFIEq.jpeg" tvg-name="JAPON vs OMAN - Campeonato Asiatico de Voley Masculino",JAPON vs OMAN - Campeonato Asiatico de Voley Masculino
+https://rumble.com/live-hls-dvr/C2W7Bu26fUI/playlist.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.imgur.com/vyJ1trT.jpeg" tvg-name="BRASIL vs FRANCIA - Amistoso Internacional",BRASIL vs FRANCIA - Amistoso Internacional
+insertar.m3u8
