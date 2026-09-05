@@ -1,8 +1,8 @@
 #EXTM3U
-# Generato il 2026-09-05 03:32 UTC
+# Generato il 2026-09-05 10:10 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/vyJ1trT.jpeg" tvg-name="CHINA vs INDIA - Campeonato Asiático de Voley Masculino",CHINA vs INDIA - Campeonato Asiático de Voley Masculino
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/RysNTbqaPcU/hq720.jpg" tvg-name="TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley",TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley
 insertar.m3u8
