@@ -1,10 +1,12 @@
 #EXTM3U
-# Generato il 2026-09-05 13:30 UTC
+# Generato il 2026-09-05 16:12 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/RysNTbqaPcU/hq720.jpg" tvg-name="TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley",TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/RysNTbqaPcU/hq720.jpg" tvg-name="REPLAY - TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley",REPLAY - TURQUIA vs SERBIA - Semifinal Campeoneto Europeo de Voley
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/cOXUcUzYCUlt/2026/9/5/12_8_15/index.m3u8
 #EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/WCDNQxBZRTg/hq720.jpg" tvg-name="POLONIA vs ITALIA - Semifinal Campeoneto Europeo de Voley",POLONIA vs ITALIA - Semifinal Campeoneto Europeo de Voley
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/IZkjesfc2SrM/2026/9/5/15_3_49/index.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.imgur.com/vyJ1trT.jpeg" tvg-name="MARTIN LUTHER/MARECHAL VÔLEI vs CASTRO VÔLEI/ACV - Campeonato Paranaense de Voley",MARTIN LUTHER/MARECHAL VÔLEI vs CASTRO VÔLEI/ACV - Campeonato Paranaense de Voley
 insertar.m3u8
