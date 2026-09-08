@@ -1,8 +1,10 @@
 #EXTM3U
-# Generato il 2026-09-08 03:38 UTC
+# Generato il 2026-09-08 10:50 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/vyJ1trT.jpeg" tvg-name="QATAR vs COREA DEL SUR - Campeonato Asiático de Voley Masculino",QATAR vs COREA DEL SUR - Campeonato Asiático de Voley Masculino
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/vyJ1trT.jpeg" tvg-name="JAPON vs AUSTRALIA - Campeonato Asiático de Voley Masculino",JAPON vs AUSTRALIA - Campeonato Asiático de Voley Masculino
+https://rumble.com/live-hls-dvr/cC370boJlZg/playlist.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.imgur.com/66VeWzD.jpeg" tvg-name="ARGENTINA vs PERU - Campeonato Sudamericano de Voley",ARGENTINA vs PERU - Campeonato Sudamericano de Voley
 insertar.m3u8
