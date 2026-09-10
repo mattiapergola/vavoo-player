@@ -1,20 +1,12 @@
 #EXTM3U
-# Generato il 2026-09-10 18:11 UTC
-#EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/xx3qZRMhsFE/hq720.jpg" tvg-name="ISRAEL vs UCRANIA - Campeonato Europeo de Voley Masculino",ISRAEL vs UCRANIA - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/xK6mijixiWvc/2026/9/10/15_4_49/index.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/SvyDNfBpFEY/hq720.jpg" tvg-name="FINLANDIA vs DINAMARCA - Campeonato Europeo de Voley Masculino",FINLANDIA vs DINAMARCA - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/KwbRm8zzYAs9/2026/9/10/16_9_6/index.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/peoXrYglkww/hq720.jpg" tvg-name="TURQUIA vs ALEMANIA - Campeonato Europeo de Voley Masculino",TURQUIA vs ALEMANIA - Campeonato Europeo de Voley Masculino
+# Generato il 2026-09-10 21:05 UTC
+#EXTINF:-1 tvg-id="voley1" tvg-logo="https://i.ytimg.com/vi/peoXrYglkww/hq720.jpg" tvg-name="TURQUIA vs ALEMANIA - Campeonato Europeo de Voley Masculino",TURQUIA vs ALEMANIA - Campeonato Europeo de Voley Masculino
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/5y24in147Mfj/2026/9/10/16_18_31/index.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.imgur.com/66VeWzD.jpeg" tvg-name="Spagna",Spagna
-https://rumble.com/live-hls-dvr/fkBdYBpgE40/playlist.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/uyKNbfPF4-8/hq720.jpg" tvg-name="ITALIA vs SUECIA - Campeonato Europeo de Voley Masculino",ITALIA vs SUECIA - Campeonato Europeo de Voley Masculino
-insertar.m3u8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://i.imgur.com/66VeWzD.jpeg" tvg-name="Spagna",Spagna
-https://rumble.com/live-hls-dvr/X5NYWVE2qu0/playlistt.m3u8
-#EXTINF:-1 tvg-id="voley9" tvg-logo="https://i.imgur.com/66VeWzD.jpeg" tvg-name="Spagna",Spagna
+#EXTINF:-1 tvg-id="voley2" tvg-logo="https://i.ytimg.com/vi/uyKNbfPF4-8/hq720.jpg" tvg-name="ITALIA vs SUECIA - Campeonato Europeo de Voley Masculino",ITALIA vs SUECIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/U5aR01sHiFJz/2026/9/10/18_5_16/index.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/66VeWzD.jpeg" tvg-name="Spagna",Spagna
+https://rumble.com/live-hls-dvr/X5NYWVE2qu0/playlist.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.imgur.com/66VeWzD.jpeg" tvg-name="Spagna",Spagna
 h-0CIuJVFrg
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.imgur.com/U8DLkA4.jpeg" tvg-name="ARGENTINA U19 vs COLOMBIA U19 - Campeonato Sudamericano de Voley Masculino Sub 19",ARGENTINA U19 vs COLOMBIA U19 - Campeonato Sudamericano de Voley Masculino Sub 19
+insertar.m3u8
