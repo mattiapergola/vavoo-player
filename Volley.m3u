@@ -1,6 +1,12 @@
 #EXTM3U
-# Generato il 2026-09-10 03:41 UTC
+# Generato il 2026-09-10 10:53 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://a.espncdn.com/photo/2021/0726/r885715_1296x729_16-9.jpg" tvg-name="COREA DEL SUR vs CHINA - 4to de Final Campeonato Asiatico de Voley Masculino",COREA DEL SUR vs CHINA - 4to de Final Campeonato Asiatico de Voley Masculino
+https://rumble.com/live-hls-dvr/Lai1LWPuJF0/playlist.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/FZhNZccU4T8/hq720.jpg" tvg-name="POLONIA vs PORTUGAL - Campeonato Europeo de Voley Masculino",POLONIA vs PORTUGAL - Campeonato Europeo de Voley Masculino
+insertar.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.imgur.com/66VeWzD.jpeg" tvg-name="Spagna",Spagna
+h-0CIuJVFrg
