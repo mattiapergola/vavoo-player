@@ -1,6 +1,14 @@
 #EXTM3U
-# Generato il 2026-09-11 14:53 UTC
+# Generato il 2026-09-11 18:14 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/xMyo6OiOGa0/hq720.jpg" tvg-name="PORTUGAL vs BULGARIA - Campeonato Europeo de Voley Masculino",PORTUGAL vs BULGARIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/7wFZn8fKZ27j/2026/9/11/15_6_28/index.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/5py2xsozduU/hq720.jpg" tvg-name="SERBIA vs ESTONIA - Campeonato Europeo de Voley Masculino",SERBIA vs ESTONIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/BzCqwJKL3RGm/2026/9/11/15_53_48/index.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/q5X8H4l87Mo/hq720.jpg" tvg-name="SUIZA vs RUMANIA - Campeonato Europeo de Voley Masculino",SUIZA vs RUMANIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/cGUosLLRfe3G/2026/9/11/15_53_17/index.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/b65AQusbic4/hq720.jpg" tvg-name="ESLOVAQUIA vs ESLOVENIA - Campeonato Europeo de Voley Masculino",ESLOVAQUIA vs ESLOVENIA - Campeonato Europeo de Voley Masculino
+insertar.m3u8
