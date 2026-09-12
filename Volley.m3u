@@ -1,6 +1,12 @@
 #EXTM3U
-# Generato il 2026-09-12 03:43 UTC
+# Generato il 2026-09-12 10:18 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://a.espncdn.com/photo/2021/0726/r885715_1296x729_16-9.jpg" tvg-name="JAPON vs COREA DEL SUR - Semifinal Campeonato Asiatico de Voley Masculino",JAPON vs COREA DEL SUR - Semifinal Campeonato Asiatico de Voley Masculino
+https://rumble.com/live-hls-dvr/B5ID9RDJqJw/playlistt.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/jak8FC6U0sI/hq720.jpg" tvg-name="DINAMARCA vs HOLANDA - Campeonato Europeo de Voley Masculino",DINAMARCA vs HOLANDA - Campeonato Europeo de Voley Masculino
+insertar.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.imgur.com/66VeWzD.jpeg" tvg-name="Spagna",Spagna
+h-0CIuJVFrg
