@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-09-15 15:38 UTC
+# Generato il 2026-09-15 19:33 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -12,5 +12,13 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/f7KbaqenLVo9/2026/9/15/13_2_25/index.m3u8
 #EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/VJvr40t-NDE/hq720.jpg" tvg-name="LETONIA vs SUIZA - Campeonato Europeo de Voley Masculino",LETONIA vs SUIZA - Campeonato Europeo de Voley Masculino
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/xPFJs539g77b/2026/9/15/13_2_18/index.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.imgur.com/lPjhYbT.png" tvg-name="GUATEMALA vs PUERTO RICO - 5to a 8avo puesto Campeonato Norte y Centro Americano de Voley Masculino",GUATEMALA vs PUERTO RICO - 5to a 8avo puesto Campeonato Norte y Centro Americano de Voley Masculino
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/9jPu9lBDj18/hq720.jpg" tvg-name="POLONIA vs UCRANIA - Campeonato Europeo de Voley Masculino",POLONIA vs UCRANIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/9pBmGo4215PW/2026/9/15/15_1_40/index.m3u8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://i.ytimg.com/vi/qCROqpwoEG8/hq720.jpg" tvg-name="HOLANDA vs FINLANDIA - Campeonato Europeo de Voley Masculino",HOLANDA vs FINLANDIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/AnLi7u33KloU/2026/9/15/16_27_34/index.m3u8
+#EXTINF:-1 tvg-id="voley9" tvg-logo="https://i.ytimg.com/vi/Zoa--4wZ8FI/hq720.jpg" tvg-name="FRANCIA vs ALEMANIA - Campeonato Europeo de Voley Masculino",FRANCIA vs ALEMANIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/48cQKbtEZDz7/2026/9/15/16_17_8/index.m3u8
+#EXTINF:-1 tvg-id="voley10" tvg-logo="https://i.ytimg.com/vi/PbZ3BjWgZ5g/hq720.jpg" tvg-name="REPUBLICA CHECA vs ITALIA - Campeonato Europeo de Voley Masculino",REPUBLICA CHECA vs ITALIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/nPUkQYn9KM0N/2026/9/15/18_5_25/index.m3u8
+#EXTINF:-1 tvg-id="voley11" tvg-logo="https://i.imgur.com/lPjhYbT.png" tvg-name="ESTADOS UNIDOS vs REPUBLICA DOMINICANA - Semifinal Campeonato Norte y Centro Americano de Voley Masculino",ESTADOS UNIDOS vs REPUBLICA DOMINICANA - Semifinal Campeonato Norte y Centro Americano de Voley Masculino
 insertar.m3u8
