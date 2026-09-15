@@ -1,22 +1,8 @@
 #EXTM3U
-# Generato il 2026-09-15 03:57 UTC
+# Generato il 2026-09-15 11:20 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/5VpIN3KCALI/hq720.jpg" tvg-name="UCRANIA vs PORTUGAL - Campeonato Europeo de Voley Masculino",UCRANIA vs PORTUGAL - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/wKdGgf3yXnH6/2026/9/14/11_57_33/index.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/0LSnN0pcPWU/hq720.jpg" tvg-name="ESLOVAQUIA vs REPUBLICA CHECA - Campeonato Europeo de Voley Masculino",ESLOVAQUIA vs REPUBLICA CHECA - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/1huIF2vagr5y/2026/9/14/12_58_36/index.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/7eNzKgi_UdY/hq720.jpg" tvg-name="SERBIA vs HOLANDA - Campeonato Europeo de Voley Masculino",SERBIA vs HOLANDA - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/SZ1X5dFRBY1s/2026/9/14/12_58_32/index.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/X5huxJ4i9Ms/hq720.jpg" tvg-name="ALEMANIA vs SUIZA - Campeonato Europeo de Voley Masculino",ALEMANIA vs SUIZA - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/c5DHpM8edlwO/2026/9/14/12_58_29/index.m3u8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/uW9-MtctNuo/hq720.jpg" tvg-name="BULGARIA vs ISRAEL - Campeonato Europeo de Voley Masculino",BULGARIA vs ISRAEL - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/f3NHyDyHuVws/2026/9/14/15_1_40/index.m3u8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://i.ytimg.com/vi/c-mcXULtrWg/hq720.jpg" tvg-name="ESTONIA vs BELGICA - Campeonato Europeo de Voley Masculino",ESTONIA vs BELGICA - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/dxSFJ0UPMONm/2026/9/14/16_7_15/index.m3u8
-#EXTINF:-1 tvg-id="voley9" tvg-logo="https://i.ytimg.com/vi/5zqN2zM1aoM/hq720.jpg" tvg-name="RUMANIA vs TURQUIA - Campeonato Europeo de Voley Masculino",RUMANIA vs TURQUIA - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/xCMOQb0jfFih/2026/9/14/16_13_27/index.m3u8
-#EXTINF:-1 tvg-id="voley10" tvg-logo="https://i.ytimg.com/vi/SxseHxPtWeQ/hq720.jpg" tvg-name="ESLOVENIA vs GRECIA - Campeonato Europeo de Voley Masculino",ESLOVENIA vs GRECIA - Campeonato Europeo de Voley Masculino
-https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/98ZtGhmbRwj9/2026/9/14/18_7_32/index.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/L9rpCq9neB0/hq720.jpg" tvg-name="MACEDONIA vs PORTUGAL - Campeonato Europeo de Voley Masculino",MACEDONIA vs PORTUGAL - Campeonato Europeo de Voley Masculino
+insertar.m3u8
