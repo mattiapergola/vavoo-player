@@ -1,8 +1,16 @@
 #EXTM3U
-# Generato il 2026-09-15 11:20 UTC
+# Generato il 2026-09-15 15:38 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/L9rpCq9neB0/hq720.jpg" tvg-name="MACEDONIA vs PORTUGAL - Campeonato Europeo de Voley Masculino",MACEDONIA vs PORTUGAL - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/294pz7MGnj30/2026/9/15/11_54_14/index.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/1EjUW2DoAo0/hq720.jpg" tvg-name="GRECIA vs SUECIA - Campeonato Europeo de Voley Masculino",GRECIA vs SUECIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/XdQ2CttTHdxb/2026/9/15/13_2_21/index.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/qq_JJKGQm0Y/hq720.jpg" tvg-name="BELGICA vs DINAMARCA - Campeonato Europeo de Voley Masculino",BELGICA vs DINAMARCA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/f7KbaqenLVo9/2026/9/15/13_2_25/index.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/VJvr40t-NDE/hq720.jpg" tvg-name="LETONIA vs SUIZA - Campeonato Europeo de Voley Masculino",LETONIA vs SUIZA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/xPFJs539g77b/2026/9/15/13_2_18/index.m3u8
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.imgur.com/lPjhYbT.png" tvg-name="GUATEMALA vs PUERTO RICO - 5to a 8avo puesto Campeonato Norte y Centro Americano de Voley Masculino",GUATEMALA vs PUERTO RICO - 5to a 8avo puesto Campeonato Norte y Centro Americano de Voley Masculino
 insertar.m3u8
