@@ -1,12 +1,16 @@
 #EXTM3U
-# Generato il 2026-09-17 11:13 UTC
+# Generato il 2026-09-17 15:36 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/mvn8-9rjkvA/maxresdefault.jpg" tvg-name="COLOMBIA vs PARAGUAY - Juegos Suramericanos Santa Fe 2026",COLOMBIA vs PARAGUAY - Juegos Suramericanos Santa Fe 2026
-6iDvPpTuk5c
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/I-OhO9hRSQ0/hq720.jpg" tvg-name="ESLOVENIA vs GRECIA - Campeonato Europeo de Voley Masculino",ESLOVENIA vs GRECIA - Campeonato Europeo de Voley Masculino
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/I-OhO9hRSQ0/hq720.jpg" tvg-name="ESLOVENIA vs GRECIA - Campeonato Europeo de Voley Masculino",ESLOVENIA vs GRECIA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/Z8BQt36QWP4K/2026/9/17/13_9_37/index.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/TF2OBzfxwLU/hq720.jpg" tvg-name="SERBIA vs BELGICA - Campeonato Europeo de Voley Masculino",SERBIA vs BELGICA - Campeonato Europeo de Voley Masculino
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/bwIaB6ouBV3E/2026/9/17/13_9_33/index.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/PppcWSkaiZ0/hq720.jpg" tvg-name="FINLANDIA vs ESTONIA - Campeonato Europeo de Voley Masculino",FINLANDIA vs ESTONIA - Campeonato Europeo de Voley Masculino
 insertar.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.imgur.com/Ho8KKyz.jpeg" tvg-name="ARGENTINA vs CHILE - Campeonato Sudamericano de Voley Masculino",ARGENTINA vs CHILE - Campeonato Sudamericano de Voley Masculino
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.imgur.com/Ho8KKyz.jpeg" tvg-name="ARGENTINA vs CHILE - Campeonato Sudamericano de Voley Masculino",ARGENTINA vs CHILE - Campeonato Sudamericano de Voley Masculino
 nhK9sHHcYBo
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/mvn8-9rjkvA/maxresdefault.jpg" tvg-name="ARGENTINA vs VENEZUELA - Juegos Suramericanos Santa Fe 2026",ARGENTINA vs VENEZUELA - Juegos Suramericanos Santa Fe 2026
+6iDvPpTuk5c
