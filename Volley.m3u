@@ -1,14 +1,12 @@
 #EXTM3U
-# Generato il 2026-09-17 04:00 UTC
+# Generato il 2026-09-17 11:13 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://esportsbureau.com/wp-content/uploads/2025/02/Revelados-titulos-presentes-en-Juegos-Asiaticos-Nachi-Nagoya-2026.jpg" tvg-name="COREA DEL SUR vs QATAR - Juegos de Asia 2026",COREA DEL SUR vs QATAR - Juegos de Asia 2026
-https://rumble.com/live-hls-dvr/LgfOkF52NVI/playlist.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://esportsbureau.com/wp-content/uploads/2025/02/Revelados-titulos-presentes-en-Juegos-Asiaticos-Nachi-Nagoya-2026.jpg" tvg-name="KAZAJISTAN vs FILIPINAS - Juegos de Asia 2026",KAZAJISTAN vs FILIPINAS - Juegos de Asia 2026
-https://rumble.com/live-hls-dvr/k_De6ksCMb4/playlist.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://esportsbureau.com/wp-content/uploads/2025/02/Revelados-titulos-presentes-en-Juegos-Asiaticos-Nachi-Nagoya-2026.jpg" tvg-name="HONG KONG vs VIETNAM - Juegos de Asia 2026",HONG KONG vs VIETNAM - Juegos de Asia 2026
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/mvn8-9rjkvA/maxresdefault.jpg" tvg-name="COLOMBIA vs PARAGUAY - Juegos Suramericanos Santa Fe 2026",COLOMBIA vs PARAGUAY - Juegos Suramericanos Santa Fe 2026
+6iDvPpTuk5c
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/I-OhO9hRSQ0/hq720.jpg" tvg-name="ESLOVENIA vs GRECIA - Campeonato Europeo de Voley Masculino",ESLOVENIA vs GRECIA - Campeonato Europeo de Voley Masculino
 insertar.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://esportsbureau.com/wp-content/uploads/2025/02/Revelados-titulos-presentes-en-Juegos-Asiaticos-Nachi-Nagoya-2026.jpg" tvg-name="CHINA TAIPEI vs MONGOLIA - Juegos de Asia 2026",CHINA TAIPEI vs MONGOLIA - Juegos de Asia 2026
-https://rumble.com/live-hls-dvr/vgnaazU4x-I/playlist.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.imgur.com/Ho8KKyz.jpeg" tvg-name="ARGENTINA vs CHILE - Campeonato Sudamericano de Voley Masculino",ARGENTINA vs CHILE - Campeonato Sudamericano de Voley Masculino
+nhK9sHHcYBo
