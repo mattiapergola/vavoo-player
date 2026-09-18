@@ -1,14 +1,14 @@
 #EXTM3U
-# Generato il 2026-09-18 18:08 UTC
+# Generato il 2026-09-18 21:07 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.imgur.com/lPjhYbT.png" tvg-name="CANADA vs MEXICO - Clasificacion a  Olimpiada NORCECA de Voley Masculino",CANADA vs MEXICO - Clasificacion a  Olimpiada NORCECA de Voley Masculino
-insertar.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/3QKip72twJA/hq720.jpg" tvg-name="Spagna",Spagna
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/3QKip72twJA/hq720.jpg" tvg-name="Spagna",Spagna
 3QKip72twJA
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://www.shutterstock.com/shutterstock/videos/1070751553/thumb/1.jpg" tvg-name="EC PINHEIROS VS ENERGIS 8 SÃO CAETANO - Campeonato Paulista de Voley",EC PINHEIROS VS ENERGIS 8 SÃO CAETANO - Campeonato Paulista de Voley
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://www.shutterstock.com/shutterstock/videos/1070751553/thumb/1.jpg" tvg-name="EC PINHEIROS VS ENERGIS 8 SÃO CAETANO - Campeonato Paulista de Voley",EC PINHEIROS VS ENERGIS 8 SÃO CAETANO - Campeonato Paulista de Voley
 sportv
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.imgur.com/lPjhYbT.png" tvg-name="CANADA vs MEXICO - Clasificacion a  Olimpiada NORCECA de Voley Masculino",CANADA vs MEXICO - Clasificacion a  Olimpiada NORCECA de Voley Masculino
+insertar.m3u8
 #EXTINF:-1 tvg-id="voley6" tvg-logo="https://www.shutterstock.com/shutterstock/videos/1070751553/thumb/1.jpg" tvg-name="VÔLEI RENATA vs SESI BAURU - Campeonato Paulista de Voley Masculino",VÔLEI RENATA vs SESI BAURU - Campeonato Paulista de Voley Masculino
 sportv2
