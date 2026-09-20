@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-09-20 14:35 UTC
+# Generato il 2026-09-20 18:04 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -9,6 +9,8 @@ https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126fa
 #EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/knLApfLjV_g/hq720.jpg" tvg-name="FINLANDIA vs GRECIA - Campeonato Europeo de Voley Masculino",FINLANDIA vs GRECIA - Campeonato Europeo de Voley Masculino
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/nuWpuUms546j/2026/9/20/13_9_59/index.m3u8
 #EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/G59C6snBZCc/hq720.jpg" tvg-name="FRANCIA vs PORTUGAL - Campeonato Europeo de Voley Masculino",FRANCIA vs PORTUGAL - Campeonato Europeo de Voley Masculino
-insertar.m3u8
+https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/xzpTLqGPpc5D/2026/9/20/15_8_12/index.m3u8
 #EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/WgT4VM6lPW0/hq720.jpg" tvg-name="VENEZUELA vs COLOMBIA - Campeonato Sudamericano de Voley Masculino",VENEZUELA vs COLOMBIA - Campeonato Sudamericano de Voley Masculino
 WgT4VM6lPW0
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/LhhGJx-ikO8/hq720.jpg" tvg-name="ITALIA vs DINAMARCA - Campeonato Europeo de Voley Masculino",ITALIA vs DINAMARCA - Campeonato Europeo de Voley Masculino
+insertar.m3u8
