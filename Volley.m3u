@@ -1,6 +1,14 @@
 #EXTM3U
-# Generato il 2026-09-20 04:00 UTC
+# Generato il 2026-09-20 10:53 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.ytimg.com/vi/jUezkw7LnjM/hq720.jpg" tvg-name="UCRANIA vs RUMANIA - Campeonato Europeo de Voley Masculino",UCRANIA vs RUMANIA - Campeonato Europeo de Voley Masculino
+insertar.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/9ooiHKc8dmE/hq720.jpg" tvg-name="BRASIL vs ARGENTINA - Campeonato Sudamericano de Voley Masculino",BRASIL vs ARGENTINA - Campeonato Sudamericano de Voley Masculino
+9ooiHKc8dmE
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.ytimg.com/vi/Z_nHW5KFB-o/hq720.jpg" tvg-name="CHILE vs BOLIVIA - Campeonato Sudamericano de Voley Masculino",CHILE vs BOLIVIA - Campeonato Sudamericano de Voley Masculino
+Z_nHW5KFB-o
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/WgT4VM6lPW0/hq720.jpg" tvg-name="VENEZUELA vs COLOMBIA - Campeonato Sudamericano de Voley Masculino",VENEZUELA vs COLOMBIA - Campeonato Sudamericano de Voley Masculino
+WgT4VM6lPW0
