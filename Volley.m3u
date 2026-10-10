@@ -1,12 +1,10 @@
 #EXTM3U
-# Generato il 2026-10-09 23:05 UTC
+# Generato il 2026-10-10 02:34 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://img.magnific.com/foto-gratis/pelota-futbol-linea-blanca-estadio_1150-5285.jpg" tvg-name="PERU F vs FILIPINAS F - SOCCER",PERU F vs FILIPINAS F - SOCCER
-https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.ytimg.com/vi/6qWk7Bn1i-M/hq720.jpg" tvg-name="UNIVERSITARIO vs SANCOR SEGUROS VOLEI LONDRINA - Noche de las Pumas 2026",UNIVERSITARIO vs SANCOR SEGUROS VOLEI LONDRINA - Noche de las Pumas 2026
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.pinimg.com/736x/6c/9b/09/6c9b09e39eef36126b61d3dd2f13b50c.jpg" tvg-name="OSASCO vs SESI BAURU - Final Campeonato Paulista",OSASCO vs SESI BAURU - Final Campeonato Paulista
+https://rdcanais.org/sportv2
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.pinimg.com/736x/6c/9b/09/6c9b09e39eef36126b61d3dd2f13b50c.jpg" tvg-name="OSASCO vs SESI BAURU - Final Campeonato Paulista",OSASCO vs SESI BAURU - Final Campeonato Paulista
 https://rumble.com/live-hls-dvr/Ch21Hqr6I5U/playlist.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.pinimg.com/736x/6c/9b/09/6c9b09e39eef36126b61d3dd2f13b50c.jpg" tvg-name="OSASCO vs SESI BAURU - Final Campeonato Paulista",OSASCO vs SESI BAURU - Final Campeonato Paulista
-5eOn5248bG0
