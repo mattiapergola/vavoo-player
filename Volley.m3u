@@ -1,12 +1,8 @@
 #EXTM3U
-# Generato il 2026-10-10 12:05 UTC
+# Generato il 2026-10-10 17:25 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Y54I7qoq-480.jpg" tvg-name="HISAMITSU SPRINGS vs BODY QUEENSEIS - Liga Japonesa",HISAMITSU SPRINGS vs BODY QUEENSEIS - Liga Japonesa
-https://site04.superabbit77hd.hair/es/volleyball/sv-league-women-2240267/hisamitsu-springs-women-vs-body-queenseis-women.html
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://www.flagsonline.it/uploads/2016-6-6/1200-0/turkey.jpg" tvg-name="GAZIANTEP GENCLIK vs ONIKISUBAT - Copa Turquia",GAZIANTEP GENCLIK vs ONIKISUBAT - Copa Turquia
-https://site04.superabbit77hd.hair/es/volleyball/turkish-cup-2240268/gaziantep-genclik-vs-onikisubat.html?icg=UEU
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://campeonatopaulista.fpv.com.br/wp-content/uploads/2025/08/fpv_logo.png" tvg-name="VÔLEI RENATA vs VÔLEI MANIA ITAQUÁ - Semifinal Torneo Paulista Masculino",VÔLEI RENATA vs VÔLEI MANIA ITAQUÁ - Semifinal Torneo Paulista Masculino
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://campeonatopaulista.fpv.com.br/wp-content/uploads/2025/08/fpv_logo.png" tvg-name="VÔLEI RENATA vs VÔLEI MANIA ITAQUÁ - Semifinal Torneo Paulista Masculino",VÔLEI RENATA vs VÔLEI MANIA ITAQUÁ - Semifinal Torneo Paulista Masculino
 https://rdcanais.org/sportv2
