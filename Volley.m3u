@@ -1,8 +1,46 @@
 #EXTM3U
-# Generato il 2026-10-11 21:38 UTC
+# Generato il 2026-10-12 00:38 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://f.rpp-noticias.io/2026/10/05/521252_1914945.jpg" tvg-name="ATLETICO ATENEA vs REGATAS LIMA - Atenea Open",ATLETICO ATENEA vs REGATAS LIMA - Atenea Open
-QdAmn8w6xA4
+#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.postimg.cc/T3Lmyf0C/773188759-122325145616022638-4917261624384554767-n.jpg" tvg-name="Poland vs Italy | Memoriału Agaty Mróz-Olszewskiej",Poland vs Italy | Memoriału Agaty Mróz-Olszewskiej
+https://1a-1791.com/live/r31jzt5k/live-hls/x88z-ue6o/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.postimg.cc/T3Lmyf0C/773188759-122325145616022638-4917261624384554767-n.jpg" tvg-name="France vs Ukraine | Memoriału Agaty Mróz-Olszewskiej",France vs Ukraine | Memoriału Agaty Mróz-Olszewskiej
+https://1a-1791.com/live/4gf18j5s/live-hls/8w1g-y7ih/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="THY vs Galatasaray | Sultanlar ligi",THY vs Galatasaray | Sultanlar ligi
+https://rumble.com/hls-vod/C4xkoiRzrDU/playlist.m3u8
+#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/kVYb4OifcF8/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCR_uhR60gdKcCyTtwSLFBBWD8OCQ" tvg-name="Bergamo vs Macerata | Serie A1 Women",Bergamo vs Macerata | Serie A1 Women
+https://www.youtube.com/watch?v=kVYb4OifcF8
+#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/tH-yJ2VUEb8/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCgWTc2pRiRdBLgtXqMC5XN5bxmdA" tvg-name="Vallefoglia vs Consolini | Serie A1 Women",Vallefoglia vs Consolini | Serie A1 Women
+https://www.youtube.com/watch?v=tH-yJ2VUEb8
+#EXTINF:-1 tvg-id="voley8" tvg-logo="https://i.ytimg.com/vi/iDLFnKagvzc/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBn818Cwn3Mq34LtwyfjZMsoaknIQ" tvg-name="Brescia vs Talmassons | Serie A1 Women",Brescia vs Talmassons | Serie A1 Women
+https://www.youtube.com/watch?v=iDLFnKagvzc
+#EXTINF:-1 tvg-id="voley9" tvg-logo="https://i.ytimg.com/vi/zW1JhMVt4Jo/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBNnKNoG0HOE6gOOxenSf7XWoGSfQ" tvg-name="Aras Kargo vs Zeren | Sultanlar ligi",Aras Kargo vs Zeren | Sultanlar ligi
+https://www.youtube.com/watch?v=zW1JhMVt4Jo
+#EXTINF:-1 tvg-id="voley10" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="REPLAY: Fenerbahce vs Manisa | Sultanlar ligi",REPLAY: Fenerbahce vs Manisa | Sultanlar ligi
+https://rumble.com/hls-vod/mz6Ohx-E8ME/playlist.m3u8
+#EXTINF:-1 tvg-id="voley11" tvg-logo="https://i.postimg.cc/MZ0JT0KS/Captura-de-pantalla-2026-10-05-a-la(s)-10-50-42-a-m.png" tvg-name="REPLAY: Vakifbank vs Eczacibasi | Turkish Super Cup",REPLAY: Vakifbank vs Eczacibasi | Turkish Super Cup
+https://rumble.com/hls-vod/d1UcasRcQxk/playlist.m3u8
+#EXTINF:-1 tvg-id="voley12" tvg-logo="https://cdn.jwplayer.com/v2/media/0M2D5RVy/poster.jpg" tvg-name="PGE Budowlani Lodz - LKS Commercecon Lodz | Round 2",PGE Budowlani Lodz - LKS Commercecon Lodz | Round 2
+https://site04.superabbit77hd.hair/es/volleyball/tauron-liga-women-2240258/budowlani-lodz-women-vs-lks-lodz-women.html
+#EXTINF:-1 tvg-id="voley13" tvg-name="Sungurlu vs Sultanbeyli  | Turkish Cup",Sungurlu vs Sultanbeyli  | Turkish Cup
+https://site04.superabbit77hd.hair/es/volleyball/turkish-cup-2240239/sungurlu-vs-sultanbeyli.html
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.ytimg.com/vi/hqmBbBTWZA4/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBXSkVpnkIzdidxwyqQvAdRZ8K5RA" tvg-name="Macerata vs Vero Volley | Serie A1 Women",Macerata vs Vero Volley | Serie A1 Women
+https://www.youtube.com/watch?v=hqmBbBTWZA4&pp=0gcJCTcMAYcqIYzv
+#EXTINF:-1 tvg-id="voley15" tvg-logo="https://i.ytimg.com/vi/1FW239GD8kA/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDpjyi24qKpr6PlyqfUtZ93ygWcyQ" tvg-name="Chieri '76 vs Brescia | Serie A1 Women",Chieri '76 vs Brescia | Serie A1 Women
+https://www.youtube.com/watch?v=1FW239GD8kA
+#EXTINF:-1 tvg-id="voley16" tvg-logo="https://i.ytimg.com/vi/X5hCNmRpOYU/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBwiHlgAev3NgtZ7v74tpLtX4zRkw" tvg-name="Firenze vs Consolini | Serie A1 Women",Firenze vs Consolini | Serie A1 Women
+https://www.youtube.com/watch?v=X5hCNmRpOYU
+#EXTINF:-1 tvg-id="voley17" tvg-logo="https://i.ytimg.com/vi/Mef82zdmBSk/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBLVxCpUDbLLQphPgXjMjjTH9rklA" tvg-name="Talmassons vs Cuneo | Serie A1 Women",Talmassons vs Cuneo | Serie A1 Women
+https://www.youtube.com/watch?v=Mef82zdmBSk
+#EXTINF:-1 tvg-id="voley18" tvg-logo="https://i.ytimg.com/vi/QdAmn8w6xA4/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAkimeeL-c1QZoVW17ITVqZN9I4vg" tvg-name="Novara vs Bergamo | Serie A1 Women",Novara vs Bergamo | Serie A1 Women
+https://www.youtube.com/watch?v=QdAmn8w6xA4
+#EXTINF:-1 tvg-id="voley19" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="Eczacibasi vs Aras Kargo | Sultanlar ligi",Eczacibasi vs Aras Kargo | Sultanlar ligi
+https://hugh.cdn.rumble.cloud/live/d1x36we/live-hls/zgaf-n4fi/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="voley20" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="Besiktas vs Fenerbahce | Sultanlar ligi",Besiktas vs Fenerbahce | Sultanlar ligi
+https://hugh.cdn.rumble.cloud/live/gi29le7p/live-hls/3e5z-idkc/chunklist_i1_DVR.m3u8
+#EXTINF:-1 tvg-id="voley21" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="Goztepe vs Vakifbank | Sultanlar ligi",Goztepe vs Vakifbank | Sultanlar ligi
+https://www.youtube.com/watch?v=hVvqAlAviz8
+#EXTINF:-1 tvg-id="voley22" tvg-logo="https://f.rpp-noticias.io/2026/10/05/521252_1914945.jpg" tvg-name="ATLETICO ATENEA vs REGATAS LIMA - Atenea Open",ATLETICO ATENEA vs REGATAS LIMA - Atenea Open
+https://live-evg20.tv360.bitel.com.pe/pRjMS2ulKtG9QktGG_51bA/1791844254/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
