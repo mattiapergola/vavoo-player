@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-10-13 20:07 UTC
+# Generato il 2026-10-13 23:48 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -22,11 +22,7 @@ https://www.youtube.com/watch?v=zW1JhMVt4Jo
 https://rumble.com/hls-vod/mz6Ohx-E8ME/playlist.m3u8
 #EXTINF:-1 tvg-id="voley11" tvg-logo="https://i.postimg.cc/MZ0JT0KS/Captura-de-pantalla-2026-10-05-a-la(s)-10-50-42-a-m.png" tvg-name="REPLAY: Vakifbank vs Eczacibasi | Turkish Super Cup",REPLAY: Vakifbank vs Eczacibasi | Turkish Super Cup
 https://rumble.com/hls-vod/d1UcasRcQxk/playlist.m3u8
-#EXTINF:-1 tvg-id="voley12" tvg-logo="https://i.postimg.cc/Gprz08Sg/VCL.png" tvg-name="Namma Bengaluru Smashers vs Delhi Dynamites | VCL India",Namma Bengaluru Smashers vs Delhi Dynamites | VCL India
-https://site04.superabbit77hd.hair/volleyball/volleyball-champions-league-2244489/namma-bengaluru-smashers-vs-delhi-dynamites.html
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://cdn.jwplayer.com/v2/media/ywrcM4KW/poster.jpg" tvg-name="MOYA Radomka Radom - VolleyWroclaw | Round 2",MOYA Radomka Radom - VolleyWroclaw | Round 2
-https://site04.superabbit77hd.hair/volleyball/tauron-liga-women-2242840/radom-women-vs-wroclaw-women.html
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="RADOM vs WROCLAW - Liga de Polonia",RADOM vs WROCLAW - Liga de Polonia
-https://site04.superabbit77hd.hair/es/volleyball/tauron-liga-women-2242840/radom-women-vs-wroclaw-women.html?icg=UEU
-#EXTINF:-1 tvg-id="voley15" tvg-logo="https://img.magnific.com/fotos-premium/bandera-brasil_2227-512.jpg" tvg-name="FLUMINENSE vs SESC RJ FLAMENGO - Final Campeonato Carioca",FLUMINENSE vs SESC RJ FLAMENGO - Final Campeonato Carioca
+#EXTINF:-1 tvg-id="voley12" tvg-logo="https://i.postimg.cc/V6jMHyjb/cap.png" tvg-name="Fluminense vs Sesc Flamengo | Final | Campeonato Carioca",Fluminense vs Sesc Flamengo | Final | Campeonato Carioca
+https://www.youtube.com/watch?v=biES6WZjIRg
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://img.magnific.com/fotos-premium/bandera-brasil_2227-512.jpg" tvg-name="FLUMINENSE vs SESC RJ FLAMENGO - Final Campeonato Carioca",FLUMINENSE vs SESC RJ FLAMENGO - Final Campeonato Carioca
 https://rdcanais.org/sportv2
