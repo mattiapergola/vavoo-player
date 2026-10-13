@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-10-13 03:07 UTC
+# Generato il 2026-10-13 05:59 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -24,5 +24,17 @@ https://rumble.com/hls-vod/mz6Ohx-E8ME/playlist.m3u8
 https://rumble.com/hls-vod/d1UcasRcQxk/playlist.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://i.postimg.cc/jSFYJFh0/2241b812-9466-4995-81bb-60ca918c5bb0.png" tvg-name="Ziraat Bankasi vs Galatasaray | Final | Turkey Super Cup",Ziraat Bankasi vs Galatasaray | Final | Turkey Super Cup
 https://www.youtube.com/watch?v=WSfDwigOrqc
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="CHEMIK POLICE vs MKS KALISZ - Liga de Polonia",CHEMIK POLICE vs MKS KALISZ - Liga de Polonia
-https://site04.superabbit77hd.hair/es/volleyball/tauron-liga-women-2242834/chemik-police-women-vs-mks-kalisz-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="FARM FRESH FOXIES vs GALERIES TOWER HIGHRISERS - Liga de Filipinas",FARM FRESH FOXIES vs GALERIES TOWER HIGHRISERS - Liga de Filipinas
+https://live.eu-north-1b.cf.dmcdn.net/sec2(DjddAuOo4FUUnCti8F1eGc1FeGC4vMBD0H5UqXjDuegQeWtQsU0K_XwkXzmN5r2eeos7McKGZkcc1SN98SOhQREPkTrYr2Uh5CwTSOlk-w4ZbjhWUekdP_ibmja1fqmu4MCJMm-BCmEeT-IK4eNSLDLvdbaauFJRGPVBKvxJ8LQj5aeBxOJrgjXDOIl59c9o)/dm/4/xbm6dbu/live-h264-1080.m3u8
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="DAEJEON KGC vs AI PEPPERS - KOVO Cup de Corea del Sur",DAEJEON KGC vs AI PEPPERS - KOVO Cup de Corea del Sur
+https://site04.superabbit77hd.hair/es/volleyball/kovo-cup-women-2242836/daejeon-kgc-women-vs-ai-peppers-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley15" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="HUNGKUK vs IBK - KOVO Cup de Corea del Sur",HUNGKUK vs IBK - KOVO Cup de Corea del Sur
+https://site04.superabbit77hd.hair/es/volleyball/kovo-cup-women-2242837/incheon-heungkuk-pink-spiders-women-vs-ibk-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley16" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="GARVI GUJJUS vs RAJASTHAN SPIKERS - Liga de India",GARVI GUJJUS vs RAJASTHAN SPIKERS - Liga de India
+https://site04.superabbit77hd.hair/es/volleyball/volleyball-champions-league-2244488/garvi-gujjus-vs-rajasthan-spikers.html?icg=UEU
+#EXTINF:-1 tvg-id="voley17" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="NAMMA BENGALURU SMASHERS vs DELHI DYNAMITES - Liga de India",NAMMA BENGALURU SMASHERS vs DELHI DYNAMITES - Liga de India
+https://site04.superabbit77hd.hair/es/volleyball/volleyball-champions-league-2244489/namma-bengaluru-smashers-vs-delhi-dynamites.html?icg=UEU
+#EXTINF:-1 tvg-id="voley18" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="RADOM vs WROCLAW - Liga de Polonia",RADOM vs WROCLAW - Liga de Polonia
+https://site04.superabbit77hd.hair/es/volleyball/tauron-liga-women-2242840/radom-women-vs-wroclaw-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley19" tvg-logo="https://img.magnific.com/fotos-premium/bandera-brasil_2227-512.jpg" tvg-name="FLUMINENSE vs SESC RJ FLAMENGO - Final Campeonato Carioca",FLUMINENSE vs SESC RJ FLAMENGO - Final Campeonato Carioca
+https://rdcanais.org/sportv2
