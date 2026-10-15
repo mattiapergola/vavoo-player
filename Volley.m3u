@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-10-15 03:44 UTC
+# Generato il 2026-10-15 11:02 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -24,33 +24,25 @@ https://rumble.com/hls-vod/mz6Ohx-E8ME/playlist.m3u8
 https://rumble.com/hls-vod/d1UcasRcQxk/playlist.m3u8
 #EXTINF:-1 tvg-id="voley12" tvg-logo="https://i.ytimg.com/vi/BdUqmOl9m-s/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBj_0LfJbtGBBuRnXU_Kk3F36Y7xg" tvg-name="Macerata vs Scandicci | Serie A1",Macerata vs Scandicci | Serie A1
 https://www.youtube.com/watch?v=BdUqmOl9m-s
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://i.ytimg.com/vi/4ziqUj5BLXo/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDE4toPBPgp-k4tzLRA5FKOim7goQ" tvg-name="Chieri '76 vs Conegliano | Serie A1",Chieri '76 vs Conegliano | Serie A1
-https://www.youtube.com/watch?v=4ziqUj5BLXo
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="Vakifbank vs Zeren | Sultanlar Ligi",Vakifbank vs Zeren | Sultanlar Ligi
-https://hugh.cdn.rumble.cloud/live/tv3qa28c/live-hls/vghp-kwjs/chunklist_i1_DVR.m3u8
-#EXTINF:-1 tvg-id="voley15" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="REPLAY: Aras Kargo vs Galatasaray  | Sultanlar Ligi",REPLAY: Aras Kargo vs Galatasaray  | Sultanlar Ligi
-https://rumble.com/hls-vod/jAnoCI9vmvs/playlist.m3u8
-#EXTINF:-1 tvg-id="voley16" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="REPLAY: Ilbank vs Eczacibasi | Sultanlar Ligi",REPLAY: Ilbank vs Eczacibasi | Sultanlar Ligi
-https://rumble.com/hls-vod/LjMpaDFsDyA/playlist.m3u8
-#EXTINF:-1 tvg-id="voley17" tvg-logo="https://i.postimg.cc/KcdmmMr1/pvl.jpg" tvg-name="Akari Chargers vs Capital1 Solar Spikers | PVL Philipines",Akari Chargers vs Capital1 Solar Spikers | PVL Philipines
+#EXTINF:-1 tvg-id="voley13" tvg-logo="https://i.postimg.cc/KcdmmMr1/pvl.jpg" tvg-name="Akari Chargers vs Capital1 Solar Spikers | PVL Philipines",Akari Chargers vs Capital1 Solar Spikers | PVL Philipines
 https://site04.superabbit77hd.skin/es/volleyball/premier-volleyball-league-2244293/akari-chargers-vs-capital1-solar-spikers.html
-#EXTINF:-1 tvg-id="voley18" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="Hanoi Tasco Auto vs Duc Giang Chemicals - Lao Cai | National Volleyball Championship Vietnam",Hanoi Tasco Auto vs Duc Giang Chemicals - Lao Cai | National Volleyball Championship Vietnam
+#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="Hanoi Tasco Auto vs Duc Giang Chemicals - Lao Cai | National Volleyball Championship Vietnam",Hanoi Tasco Auto vs Duc Giang Chemicals - Lao Cai | National Volleyball Championship Vietnam
 https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2246382/hanoi-tasco-auto-vs-duc-giang-chemicals---lao-cai.html
-#EXTINF:-1 tvg-id="voley19" tvg-logo="https://i.postimg.cc/3R8vTCBq/kovo.avif" tvg-name="AI Peppers Women vs Hungkuk | KOVO Cup",AI Peppers Women vs Hungkuk | KOVO Cup
+#EXTINF:-1 tvg-id="voley15" tvg-logo="https://i.postimg.cc/3R8vTCBq/kovo.avif" tvg-name="AI Peppers Women vs Hungkuk | KOVO Cup",AI Peppers Women vs Hungkuk | KOVO Cup
 https://site04.superabbit77hd.skin/es/volleyball/kovo-cup-women-2244294/ai-peppers-women-vs-incheon-heungkuk-pink-spiders-women.html
-#EXTINF:-1 tvg-id="voley20" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="Information and Communications Newspaper - Bƒê19 vs Vietinbank  | National Volleyball Championship Vietnam",Information and Communications Newspaper - Bƒê19 vs Vietinbank  | National Volleyball Championship Vietnam
+#EXTINF:-1 tvg-id="voley16" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="Information and Communications Newspaper - Bƒê19 vs Vietinbank  | National Volleyball Championship Vietnam",Information and Communications Newspaper - Bƒê19 vs Vietinbank  | National Volleyball Championship Vietnam
 https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2246381/information-and-communications-newspaper---b19-vs-vietinbank.html
-#EXTINF:-1 tvg-id="voley21" tvg-logo="https://i.postimg.cc/3R8vTCBq/kovo.avif" tvg-name="IBK vs Daejeon KGC | KOVO Cup",IBK vs Daejeon KGC | KOVO Cup
+#EXTINF:-1 tvg-id="voley17" tvg-logo="https://i.postimg.cc/3R8vTCBq/kovo.avif" tvg-name="IBK vs Daejeon KGC | KOVO Cup",IBK vs Daejeon KGC | KOVO Cup
 https://site04.superabbit77hd.skin/es/volleyball/kovo-cup-women-2244295/ibk-women-vs-daejeon-kgc-women.html
-#EXTINF:-1 tvg-id="voley22" tvg-logo="https://i.postimg.cc/KcdmmMr1/pvl.jpg" tvg-name="Choco Mucho Flying Titans vs Zus Coffee Thunderbelles | PVL Philipines",Choco Mucho Flying Titans vs Zus Coffee Thunderbelles | PVL Philipines
+#EXTINF:-1 tvg-id="voley18" tvg-logo="https://i.postimg.cc/KcdmmMr1/pvl.jpg" tvg-name="Choco Mucho Flying Titans vs Zus Coffee Thunderbelles | PVL Philipines",Choco Mucho Flying Titans vs Zus Coffee Thunderbelles | PVL Philipines
 https://site04.superabbit77hd.skin/es/volleyball/premier-volleyball-league-2244296/choco-mucho-flying-titans-vs-zus-coffee-thunderbelles.html
-#EXTINF:-1 tvg-id="voley23" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="geleximco vs Ipbank | National Volleyball Championship Vietnam",geleximco vs Ipbank | National Volleyball Championship Vietnam
+#EXTINF:-1 tvg-id="voley19" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="geleximco vs Ipbank | National Volleyball Championship Vietnam",geleximco vs Ipbank | National Volleyball Championship Vietnam
 https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2246380/geleximco-hng-yn-vs-lpbank-ninh-bnh.html
-#EXTINF:-1 tvg-id="voley24" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="VTV Binh Dien Long An vs Long Son Cement - Thanh Hoa | National Volleyball Championship Vietnam",VTV Binh Dien Long An vs Long Son Cement - Thanh Hoa | National Volleyball Championship Vietnam
+#EXTINF:-1 tvg-id="voley20" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="VTV Binh Dien Long An vs Long Son Cement - Thanh Hoa | National Volleyball Championship Vietnam",VTV Binh Dien Long An vs Long Son Cement - Thanh Hoa | National Volleyball Championship Vietnam
 https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2246379/vtv-binh-dien-long-an-vs-long-son-cement---thanh-hoa.html
-#EXTINF:-1 tvg-id="voley25" tvg-logo="https://i.postimg.cc/Gprz08Sg/VCL.png" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers | VCL India",Rajasthan Spikers vs Punjab Aerostrikers | VCL India
+#EXTINF:-1 tvg-id="voley21" tvg-logo="https://i.postimg.cc/Gprz08Sg/VCL.png" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers | VCL India",Rajasthan Spikers vs Punjab Aerostrikers | VCL India
 https://site04.superabbit77hd.skin/es/volleyball/volleyball-champions-league-2246378/rajasthan-spikers-vs-punjab-aerostrikers.html
-#EXTINF:-1 tvg-id="voley26" tvg-logo="https://i.postimg.cc/Gprz08Sg/VCL.png" tvg-name="Delhi Dynamites vs Tamil Titans | VCL India",Delhi Dynamites vs Tamil Titans | VCL India
+#EXTINF:-1 tvg-id="voley22" tvg-logo="https://i.postimg.cc/Gprz08Sg/VCL.png" tvg-name="Delhi Dynamites vs Tamil Titans | VCL India",Delhi Dynamites vs Tamil Titans | VCL India
 https://site04.superabbit77hd.skin/es/volleyball/volleyball-champions-league-2246377/delhi-dynamites-vs-tamil-titans.html
-#EXTINF:-1 tvg-id="voley27" tvg-logo="https://cdn.jwplayer.com/v2/media/M3MmDVeo/poster.jpg" tvg-name="LKS Lodz vs Mielec | Tauron liga",LKS Lodz vs Mielec | Tauron liga
+#EXTINF:-1 tvg-id="voley23" tvg-logo="https://cdn.jwplayer.com/v2/media/M3MmDVeo/poster.jpg" tvg-name="LKS Lodz vs Mielec | Tauron liga",LKS Lodz vs Mielec | Tauron liga
 https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2244303/lks-lodz-women-vs-mielec-women.html
