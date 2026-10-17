@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-10-17 21:37 UTC
+# Generato il 2026-10-17 23:50 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -90,9 +90,7 @@ https://www.youtube.com/watch?v=tE9gOpnIePE
 https://site04.superabbit77hd.skin/es/volleyball/turkey-efeler-ligi-2245938/halkbank-vs-galatasaray.html
 #EXTINF:-1 tvg-id="voley45" tvg-logo="https://i.postimg.cc/prVC7Sn6/Efeler-Ligi-Logo-8.png" tvg-name="Fenerbahce vs Ziraat Bankkart",Fenerbahce vs Ziraat Bankkart
 https://site04.superabbit77hd.skin/es/volleyball/turkey-efeler-ligi-2247270/fenerbahce-vs-ziraat-bankasi.html
-#EXTINF:-1 tvg-id="voley46" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/u8NQKfgI-480.jpg" tvg-name="KS DevelopRes Rzeszow vs MOYA Radomka Radom - Liga de Polonia",KS DevelopRes Rzeszow vs MOYA Radomka Radom - Liga de Polonia
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2247352/rzeszow-women-vs-radom-women.html?icg=UEU
-#EXTINF:-1 tvg-id="voley47" tvg-logo="https://media.latinanoticias.pe/2026/03/MINIATURA-PARTIDOS-VOLEY-768x432.jpg" tvg-name="ATENEA vs OLVA LATINO - Liga Peruana",ATENEA vs OLVA LATINO - Liga Peruana
+#EXTINF:-1 tvg-id="voley46" tvg-logo="https://f.rpp-noticias.io/2026/10/16/120712_1919220.jpg" tvg-name="UNIVERSITARIO vs SOAN - Liga Peruana",UNIVERSITARIO vs SOAN - Liga Peruana
 https://live-evg20.tv360.bitel.com.pe/zySw4kNhD56XRmWH7shA-Q/1792349655/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="voley48" tvg-logo="https://f.rpp-noticias.io/2026/10/16/120712_1919220.jpg" tvg-name="UNIVERSITARIO vs SOAN - Liga Peruana",UNIVERSITARIO vs SOAN - Liga Peruana
+#EXTINF:-1 tvg-id="voley47" tvg-logo="https://media.latinanoticias.pe/2025/11/MINIATURA-PARTIDOS-VOLEY-17-1024x576.png" tvg-name="SAN MARTIN vs CIRCOLO SPORTIVO ITALIANO - Liga Peruana",SAN MARTIN vs CIRCOLO SPORTIVO ITALIANO - Liga Peruana
 hhttps://live-evg20.tv360.bitel.com.pe/zySw4kNhD56XRmWH7shA-Q/1792349655/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
