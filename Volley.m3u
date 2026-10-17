@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato il 2026-10-17 00:16 UTC
+# Generato il 2026-10-17 03:30 UTC
 #EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
 https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
 #EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
@@ -48,11 +48,31 @@ https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2245888/verva-warsz
 https://rdcanais.org/sportv2
 #EXTINF:-1 tvg-id="voley24" tvg-logo="https://i.ytimg.com/vi/9oK-8XjLWz4/hq720.jpg?sqp=-oaymwErCOgCEMoBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLC0nLQO5LD5Lf8dmXnl20ZXUTqFIA" tvg-name="Brescia vs Vallefoglia",Brescia vs Vallefoglia
 https://www.youtube.com/watch?v=9oK-8XjLWz4&pp=0gcJCTsMAYcqIYzv
-#EXTINF:-1 tvg-id="voley25" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="UNIJA VS STKIP - Liga Voli Mahasiswa",UNIJA VS STKIP - Liga Voli Mahasiswa
-https://site04.superabbit77hd.skin/es/volleyball/liga-voli-mahasiswa-2248334/putra-unija-vs-stkip.html?icg=UEU
-#EXTINF:-1 tvg-id="voley26" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/fPBNfb4v-480.jpg" tvg-name="GKS Katowice vs Aluron CMC Warta Zawiercie - Liga Masculina de Voley",GKS Katowice vs Aluron CMC Warta Zawiercie - Liga Masculina de Voley
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2244916/gks-katowice-vs-zawiercie.html?icg=UEU
-#EXTINF:-1 tvg-id="voley27" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/DmylO6qC-480.jpg" tvg-name="VolleyWroclaw vs LOTTO Chemik Police - Liga de Polonia",VolleyWroclaw vs LOTTO Chemik Police - Liga de Polonia
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2245878/wroclaw-women-vs-chemik-police-women.html?icg=UEU
-#EXTINF:-1 tvg-id="voley28" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/9BjXVaK9-480.jpg" tvg-name="PGE Projekt Warszawa vs Indykpol AZS Olsztyn - Liga Masculina de Polonia",PGE Projekt Warszawa vs Indykpol AZS Olsztyn - Liga Masculina de Polonia
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2245888/verva-warszawa-vs-olsztyn.html?icg=UEU
+#EXTINF:-1 tvg-id="voley25" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/c0k7tkCD-480.jpg" tvg-name="Saitama Ageo Medics vs Denso Airybees - Liga de Japon",Saitama Ageo Medics vs Denso Airybees - Liga de Japon
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245894/ageo-women-vs-denso-airybees-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley26" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/k8lwWCMF-480.jpg" tvg-name="Pfu Bluecats Ishikawa Kahoku vs Toray Arrows Shiga - Liga de Japon",Pfu Bluecats Ishikawa Kahoku vs Toray Arrows Shiga - Liga de Japon
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245895/pfu-blue-cats-women-vs-toray-arrows-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley27" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/S0NiJrGN-480.jpg" tvg-name="Tokyo Great Bears vs Hokkaido Yellow Stars - Liga Masculina de Japon",Tokyo Great Bears vs Hokkaido Yellow Stars - Liga Masculina de Japon
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-2245897/fc-tokyo-vs-hokkaido-yellow-stars.html?icg=UEU
+#EXTINF:-1 tvg-id="voley28" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/kSg9QwHj-480.jpg" tvg-name="Aranmare Akita Shonai vs Kurobe Aquafairies Toyama - Liga de Japon",Aranmare Akita Shonai vs Kurobe Aquafairies Toyama - Liga de Japon
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245898/prestige-aranmare-women-vs-m-tel-aviv.html?icg=UEU
+#EXTINF:-1 tvg-id="voley29" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/cUNSj8BZ-480.jpg" tvg-name="Astemo Rivale Ibaraki vs Gunma Greenwings - Liga de Japon",Astemo Rivale Ibaraki vs Gunma Greenwings - Liga de Japon
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245899/hitachi-women-vs-gunma-bank-green-wings-w.html?icg=UEU
+#EXTINF:-1 tvg-id="voley30" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/JWMSaunL-480.jpg" tvg-name="Osaka Marvelous vs Okayama Seagulls - Liga de Japon",Osaka Marvelous vs Okayama Seagulls - Liga de Japon
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245900/jt-marvelous-women-vs-okayama-seagulls-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley31" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="Expressway Co vs IBK - KOVO Cup de Corea del Sur",Expressway Co vs IBK - KOVO Cup de Corea del Sur
+https://site04.superabbit77hd.skin/es/volleyball/kovo-cup-women-2247842/expressway-co-women-vs-ibk-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley32" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="Duc Giang Chemicals Lao Cai vs lpbank ninh bình - National Volleyball Championship 2026",Duc Giang Chemicals Lao Cai vs lpbank ninh bình - National Volleyball Championship 2026
+https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2248527/duc-giang-chemicals---lao-cai-vs-lpbank-ninh-bnh.html?icg=UEU
+#EXTINF:-1 tvg-id="voley33" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/7vxjYwfW-480.jpg" tvg-name="Nec Red Rockets Kawasaki vs Victorina Himeji - Liga de Japon",Nec Red Rockets Kawasaki vs Victorina Himeji - Liga de Japon
+https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245908/nec-red-rockets-women-vs-himeji-victorina-w.html?icg=UEU
+#EXTINF:-1 tvg-id="voley34" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Pz3Gv3tw-480.jpg" tvg-name="Metalkas Palac Bydgoszcz vs NETLAND MKS Kalisz - Liga de Polonia",Metalkas Palac Bydgoszcz vs NETLAND MKS Kalisz - Liga de Polonia
+https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2245911/bydgoszcz-women-vs-mks-kalisz-women.html?icg=UEU
+#EXTINF:-1 tvg-id="voley35" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="Information and Communications Newspaper vs Long Son Cement Thanh Hoa - National Volleyball Championship 2026",Information and Communications Newspaper vs Long Son Cement Thanh Hoa - National Volleyball Championship 2026
+https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2248528/information-and-communications-newspaper---b19-vs-long-son-cement---thanh-hoa.html?icg=UEU
+#EXTINF:-1 tvg-id="voley36" tvg-logo="https://img1.wallspic.com/previews/0/5/0/6/3/136050/136050-voleibol-550x310.jpg" tvg-name="geleximco hưng yên vs VTV Binh Dien Long An - National Volleyball Championship 2026",geleximco hưng yên vs VTV Binh Dien Long An - National Volleyball Championship 2026
+https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2248529/geleximco-hng-yn-vs-vtv-binh-dien-long-an.html?icg=UEU
+#EXTINF:-1 tvg-id="voley37" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2pFvVagz-480.jpg" tvg-name="NEONET NORWID Czestochowa vs Asseco Resovia Rzeszow - Liga Masculina de Polonia",NEONET NORWID Czestochowa vs Asseco Resovia Rzeszow - Liga Masculina de Polonia
+https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2245935/norwid-czestochowa-vs-rzeszow.html?icg=UEU
+#EXTINF:-1 tvg-id="voley38" tvg-logo="https://www.shutterstock.com/image-vector/turkey-flag-vector-260nw-665010205.jpg" tvg-name="Halkbank - Galatasaray Mades Mobilya SMS Grup Efeler Ligi",Halkbank - Galatasaray Mades Mobilya SMS Grup Efeler Ligi
+1xlNLhLREtU
