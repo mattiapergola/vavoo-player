@@ -1,164 +1,58 @@
 #EXTM3U
-# Generato il 2026-10-18 10:34 UTC
-#EXTINF:-1 tvg-id="voley1" tvg-logo="https://cdn.jwplayer.com/v2/media/MeMYn3wh/poster.jpg?width=320" tvg-name="Live and Upcoming - Beach",Live and Upcoming - Beach
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/MeMYn3wh/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley2" tvg-logo="https://cdn.jwplayer.com/v2/media/BqFYBy9b/poster.jpg?width=320" tvg-name="Beach Pro Tour",Beach Pro Tour
-https://livecdn.euw1-0008.jwplive.com/live/sites/fM9jRrkn/media/BqFYBy9b/live.isml/.m3u8
-#EXTINF:-1 tvg-id="voley3" tvg-logo="https://i.postimg.cc/T3Lmyf0C/773188759-122325145616022638-4917261624384554767-n.jpg" tvg-name="Poland vs Italy | Memoriału Agaty Mróz-Olszewskiej",Poland vs Italy | Memoriału Agaty Mróz-Olszewskiej
-https://1a-1791.com/live/r31jzt5k/live-hls/x88z-ue6o/chunklist_i1_DVR.m3u8
-#EXTINF:-1 tvg-id="voley4" tvg-logo="https://i.postimg.cc/T3Lmyf0C/773188759-122325145616022638-4917261624384554767-n.jpg" tvg-name="France vs Ukraine | Memoriału Agaty Mróz-Olszewskiej",France vs Ukraine | Memoriału Agaty Mróz-Olszewskiej
-https://1a-1791.com/live/4gf18j5s/live-hls/8w1g-y7ih/chunklist_i1_DVR.m3u8
-#EXTINF:-1 tvg-id="voley5" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="THY vs Galatasaray | Sultanlar ligi",THY vs Galatasaray | Sultanlar ligi
-https://rumble.com/hls-vod/C4xkoiRzrDU/playlist.m3u8
-#EXTINF:-1 tvg-id="voley6" tvg-logo="https://i.ytimg.com/vi/kVYb4OifcF8/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCR_uhR60gdKcCyTtwSLFBBWD8OCQ" tvg-name="Bergamo vs Macerata | Serie A1 Women",Bergamo vs Macerata | Serie A1 Women
-https://www.youtube.com/watch?v=kVYb4OifcF8
-#EXTINF:-1 tvg-id="voley7" tvg-logo="https://i.ytimg.com/vi/tH-yJ2VUEb8/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCgWTc2pRiRdBLgtXqMC5XN5bxmdA" tvg-name="Vallefoglia vs Consolini | Serie A1 Women",Vallefoglia vs Consolini | Serie A1 Women
-https://www.youtube.com/watch?v=tH-yJ2VUEb8
-#EXTINF:-1 tvg-id="voley8" tvg-logo="https://i.ytimg.com/vi/iDLFnKagvzc/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBn818Cwn3Mq34LtwyfjZMsoaknIQ" tvg-name="Brescia vs Talmassons | Serie A1 Women",Brescia vs Talmassons | Serie A1 Women
-https://www.youtube.com/watch?v=iDLFnKagvzc
-#EXTINF:-1 tvg-id="voley9" tvg-logo="https://i.ytimg.com/vi/zW1JhMVt4Jo/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBNnKNoG0HOE6gOOxenSf7XWoGSfQ" tvg-name="Aras Kargo vs Zeren | Sultanlar ligi",Aras Kargo vs Zeren | Sultanlar ligi
-https://www.youtube.com/watch?v=zW1JhMVt4Jo
-#EXTINF:-1 tvg-id="voley10" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="REPLAY: Fenerbahce vs Manisa | Sultanlar ligi",REPLAY: Fenerbahce vs Manisa | Sultanlar ligi
-https://rumble.com/hls-vod/mz6Ohx-E8ME/playlist.m3u8
-#EXTINF:-1 tvg-id="voley11" tvg-logo="https://i.postimg.cc/MZ0JT0KS/Captura-de-pantalla-2026-10-05-a-la(s)-10-50-42-a-m.png" tvg-name="REPLAY: Vakifbank vs Eczacibasi | Turkish Super Cup",REPLAY: Vakifbank vs Eczacibasi | Turkish Super Cup
-https://rumble.com/hls-vod/d1UcasRcQxk/playlist.m3u8
-#EXTINF:-1 tvg-id="voley12" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="VTV Binh Dien Long An vs Long Son Cement - Thanh Hoa | National Volleyball Championship Vietnam",VTV Binh Dien Long An vs Long Son Cement - Thanh Hoa | National Volleyball Championship Vietnam
-https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2246379/vtv-binh-dien-long-an-vs-long-son-cement---thanh-hoa.html
-#EXTINF:-1 tvg-id="voley13" tvg-logo="https://i.postimg.cc/Gprz08Sg/VCL.png" tvg-name="Rajasthan Spikers vs Punjab Aerostrikers | VCL India",Rajasthan Spikers vs Punjab Aerostrikers | VCL India
-https://site04.superabbit77hd.skin/es/volleyball/volleyball-champions-league-2246378/rajasthan-spikers-vs-punjab-aerostrikers.html
-#EXTINF:-1 tvg-id="voley14" tvg-logo="https://i.postimg.cc/Gprz08Sg/VCL.png" tvg-name="Delhi Dynamites vs Tamil Titans | VCL India",Delhi Dynamites vs Tamil Titans | VCL India
-https://site04.superabbit77hd.skin/es/volleyball/volleyball-champions-league-2246377/delhi-dynamites-vs-tamil-titans.html
-#EXTINF:-1 tvg-id="voley15" tvg-logo="https://cdn.jwplayer.com/v2/media/M3MmDVeo/poster.jpg" tvg-name="LKS Lodz vs Mielec | Tauron liga",LKS Lodz vs Mielec | Tauron liga
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2244303/lks-lodz-women-vs-mielec-women.html
-#EXTINF:-1 tvg-id="voley16" tvg-logo="https://i.postimg.cc/sxSzthy8/indonesia.png" tvg-name="UM VS UPI - Liga Voli Mahasiswa",UM VS UPI - Liga Voli Mahasiswa
-https://site04.superabbit77hd.skin/es/volleyball/liga-voli-mahasiswa-2248332/putri-um-vs-upi.html
-#EXTINF:-1 tvg-id="voley17" tvg-logo="https://i.postimg.cc/sxSzthy8/indonesia.png" tvg-name="UNESA VS UM - Liga Voli Mahasiswa",UNESA VS UM - Liga Voli Mahasiswa
-https://site04.superabbit77hd.skin/es/volleyball/liga-voli-mahasiswa-2248333/putra-unesa-vs-um.html
-#EXTINF:-1 tvg-id="voley18" tvg-logo="https://i.postimg.cc/3R8vTCBq/kovo.avif" tvg-name="Hyundai E&C Hillstate F VS GS Caltex F - KOVO Cup",Hyundai E&C Hillstate F VS GS Caltex F - KOVO Cup
-https://site04.superabbit77hd.skin/es/volleyball/kovo-cup-women-2244901/hyundai-ec-hillstate-women-vs-gs-caltex-women.html
-#EXTINF:-1 tvg-id="voley19" tvg-logo="https://i.postimg.cc/sxSzthy8/indonesia.png" tvg-name="UNIJA VS STKIP - Liga Voli Mahasiswa",UNIJA VS STKIP - Liga Voli Mahasiswa
-https://site04.superabbit77hd.skin/es/volleyball/liga-voli-mahasiswa-2248334/putra-unija-vs-stkip.html
-#EXTINF:-1 tvg-id="voley20" tvg-logo="https://cdn.jwplayer.com/v2/media/cDjKrXi2/poster.jpg" tvg-name="GKS Katowice vs Aluron CMC Warta Zawiercie",GKS Katowice vs Aluron CMC Warta Zawiercie
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2244916/gks-katowice-vs-zawiercie.html
-#EXTINF:-1 tvg-id="voley21" tvg-logo="https://cdn.jwplayer.com/v2/media/yDilxrhy/poster.jpg" tvg-name="VolleyWroclaw vs LOTTO Chemik Police",VolleyWroclaw vs LOTTO Chemik Police
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2245878/wroclaw-women-vs-chemik-police-women.html
-#EXTINF:-1 tvg-id="voley22" tvg-logo="https://cdn.jwplayer.com/v2/media/kkBkjr48/poster.jpg" tvg-name="PGE Projekt Warszawa vs Indykpol AZS Olsztyn",PGE Projekt Warszawa vs Indykpol AZS Olsztyn
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2245888/verva-warszawa-vs-olsztyn.html
-#EXTINF:-1 tvg-id="voley23" tvg-logo="https://i.postimg.cc/rmGRYkxW/feef.png" tvg-name="PRAIA CLUBE vs OSASCO - Brazilian Super Cup",PRAIA CLUBE vs OSASCO - Brazilian Super Cup
-https://rdcanais.org/sportv2
-#EXTINF:-1 tvg-id="voley24" tvg-logo="https://i.ytimg.com/vi/9oK-8XjLWz4/hq720.jpg?sqp=-oaymwErCOgCEMoBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLC0nLQO5LD5Lf8dmXnl20ZXUTqFIA" tvg-name="Brescia vs Vallefoglia",Brescia vs Vallefoglia
-https://www.youtube.com/watch?v=9oK-8XjLWz4&pp=0gcJCTsMAYcqIYzv
-#EXTINF:-1 tvg-id="voley25" tvg-logo="https://cdn.jwplayer.com/v2/media/nIKzsu5y/poster.jpg" tvg-name="Saitama Ageo Medics - Denso Airybees | Round 1-A",Saitama Ageo Medics - Denso Airybees | Round 1-A
-https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245894/ageo-women-vs-denso-airybees-women.html
-#EXTINF:-1 tvg-id="voley26" tvg-logo="https://cdn.jwplayer.com/v2/media/n6uO3CAk/poster.jpg" tvg-name="Pfu Bluecats Ishikawa Kahoku - Toray Arrows Shiga | Round 1-A",Pfu Bluecats Ishikawa Kahoku - Toray Arrows Shiga | Round 1-A
-https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245895/pfu-blue-cats-women-vs-toray-arrows-women.html
-#EXTINF:-1 tvg-id="voley27" tvg-logo="https://cdn.jwplayer.com/v2/media/JFHChiBx/poster.jpg" tvg-name="Osaka Marvelous - Okayama Seagulls | Round 1-A",Osaka Marvelous - Okayama Seagulls | Round 1-A
-https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245900/jt-marvelous-women-vs-okayama-seagulls-women.html
-#EXTINF:-1 tvg-id="voley28" tvg-logo="https://cdn.jwplayer.com/v2/media/Hy7uQFbs/poster.jpg" tvg-name="Aranmare Akita Shonai - Kurobe Aquafairies Toyama | Round 1-A",Aranmare Akita Shonai - Kurobe Aquafairies Toyama | Round 1-A
-https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245898/prestige-aranmare-women-vs-kurobe-aqua-fairies-women.html
-#EXTINF:-1 tvg-id="voley29" tvg-logo="https://cdn.jwplayer.com/v2/media/xABFpLKy/poster.jpg" tvg-name="Astemo Rivale Ibaraki - Gunma Greenwings | Round 1-A",Astemo Rivale Ibaraki - Gunma Greenwings | Round 1-A
-https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245899/hitachi-women-vs-gunma-bank-green-wings-w.html?icg=TVg
-#EXTINF:-1 tvg-id="voley30" tvg-logo="https://cdn.jwplayer.com/v2/media/eelm6HxQ/poster.jpg" tvg-name="Nec Red Rockets Kawasaki - Victorina Himeji | Round 1-A",Nec Red Rockets Kawasaki - Victorina Himeji | Round 1-A
-https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2245908/nec-red-rockets-women-vs-himeji-victorina-w.html
-#EXTINF:-1 tvg-id="voley31" tvg-logo="https://cdn.jwplayer.com/v2/media/1Cq3gZcT/poster.jpg" tvg-name="Metalkas Palac Bydgoszcz - NETLAND MKS Kalisz | Round 3",Metalkas Palac Bydgoszcz - NETLAND MKS Kalisz | Round 3
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2245911/bydgoszcz-women-vs-mks-kalisz-women.html
-#EXTINF:-1 tvg-id="voley32" tvg-logo="https://cdn.jwplayer.com/v2/media/hy9FGJK6/poster.jpg" tvg-name="KS DevelopRes Rzeszow - MOYA Radomka Radom | Round 3",KS DevelopRes Rzeszow - MOYA Radomka Radom | Round 3
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-women-2247352/rzeszow-women-vs-radom-women.html?icg=TVg
-#EXTINF:-1 tvg-id="voley33" tvg-logo="https://cdn.jwplayer.com/v2/media/q9vgujGq/poster.jpg" tvg-name="Tokyo Great Bears - Hokkaido Yellow Stars | Round 3-A",Tokyo Great Bears - Hokkaido Yellow Stars | Round 3-A
-https://site04.superabbit77hd.skin/es/volleyball/sv-league-2245897/fc-tokyo-vs-hokkaido-yellow-stars.html
-#EXTINF:-1 tvg-id="voley34" tvg-logo="https://i.postimg.cc/3R8vTCBq/kovo.avif" tvg-name="Expressway Co vs IBK - KOVO Cup",Expressway Co vs IBK - KOVO Cup
-https://site04.superabbit77hd.skin/es/volleyball/kovo-cup-women-2247842/expressway-co-women-vs-ibk-women.html
-#EXTINF:-1 tvg-id="voley35" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="Duc Giang Chemicals Lao Cai vs lpbank ninh bình",Duc Giang Chemicals Lao Cai vs lpbank ninh bình
-https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2248527/duc-giang-chemicals---lao-cai-vs-lpbank-ninh-bnh.html
-#EXTINF:-1 tvg-id="voley36" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="Information and Communications Newspaper vs Long Son Cement Thanh Hoa",Information and Communications Newspaper vs Long Son Cement Thanh Hoa
-https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2248528/information-and-communications-newspaper---b19-vs-long-son-cement---thanh-hoa.html
-#EXTINF:-1 tvg-id="voley37" tvg-logo="https://i.ytimg.com/vi/yvpueuDhTYg/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBHb5Is9LjaMndH6Ylt0-U2pBmtGQ" tvg-name="SUNGURLU BELEDİYESİ SPOR - İBB SPOR KULÜBÜ SMS Grup Efeler Ligi",SUNGURLU BELEDİYESİ SPOR - İBB SPOR KULÜBÜ SMS Grup Efeler Ligi
-https://www.youtube.com/watch?v=yvpueuDhTYg
-#EXTINF:-1 tvg-id="voley38" tvg-logo="https://i.ytimg.com/vi/1xlNLhLREtU/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCProNKvKTwRtcT4CFrxCvz9yMxgA" tvg-name="ALTEKMA - SPOR TOTO SMS Grup Efeler Ligi",ALTEKMA - SPOR TOTO SMS Grup Efeler Ligi
-https://www.youtube.com/watch?v=1xlNLhLREtU
-#EXTINF:-1 tvg-id="voley39" tvg-logo="https://i.postimg.cc/Fzk8Y5BJ/vietnam.webp" tvg-name="geleximco hưng yên vs VTV Binh Dien Long An",geleximco hưng yên vs VTV Binh Dien Long An
-https://site04.superabbit77hd.skin/es/volleyball/national-volleyball-championship-2026-2248529/geleximco-hng-yn-vs-vtv-binh-dien-long-an.html
-#EXTINF:-1 tvg-id="voley40" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/2pFvVagz-480.jpg" tvg-name="NEONET NORWID Czestochowa vs Asseco Resovia Rzeszow - Tauron liga",NEONET NORWID Czestochowa vs Asseco Resovia Rzeszow - Tauron liga
-https://site04.superabbit77hd.skin/es/volleyball/tauron-liga-2245935/norwid-czestochowa-vs-rzeszow.html
-#EXTINF:-1 tvg-id="voley41" tvg-logo="https://cdn.jwplayer.com/v2/media/1XWsrO1H/poster.jpg" tvg-name="Verona vs Civitanova",Verona vs Civitanova
-https://site04.superabbit77hd.skin/es/volleyball/italy-super-lega-2247258/verona-vs-lube-civitanova.html
-#EXTINF:-1 tvg-id="voley42" tvg-logo="https://i.ytimg.com/vi/eHmZ47tpuyA/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQbsNixIhVCY7q-wXnlVT-5i-xGw" tvg-name="Cuneo vs Chieri",Cuneo vs Chieri
-https://www.youtube.com/watch?v=eHmZ47tpuyA
-#EXTINF:-1 tvg-id="voley43" tvg-logo="https://i.ytimg.com/vi/tE9gOpnIePE/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCxukzbCwRB6Iy_6g7pKNHDbJPnWg" tvg-name="Milano vs Novara",Milano vs Novara
-https://www.youtube.com/watch?v=tE9gOpnIePE
-#EXTINF:-1 tvg-id="voley44" tvg-logo="https://i.postimg.cc/prVC7Sn6/Efeler-Ligi-Logo-8.png" tvg-name="Halkbank - Galatasaray",Halkbank - Galatasaray
-https://site04.superabbit77hd.skin/es/volleyball/turkey-efeler-ligi-2245938/halkbank-vs-galatasaray.html
-#EXTINF:-1 tvg-id="voley45" tvg-logo="https://i.postimg.cc/prVC7Sn6/Efeler-Ligi-Logo-8.png" tvg-name="Fenerbahce vs Ziraat Bankkart",Fenerbahce vs Ziraat Bankkart
-https://site04.superabbit77hd.skin/es/volleyball/turkey-efeler-ligi-2247270/fenerbahce-vs-ziraat-bankasi.html
-#EXTINF:-1 tvg-id="voley46" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Ageo Women vs Denso Airybees Women | SV.League Women",Ageo Women vs Denso Airybees Women | SV.League Women
-https://site04.superabbit77hd.skin/volleyball/sv-league-women-2247360/ageo-women-vs-denso-airybees-women.html
-#EXTINF:-1 tvg-id="voley47" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="JT Marvelous Women vs Okayama Seagulls Women | SV.League Women",JT Marvelous Women vs Okayama Seagulls Women | SV.League Women
-https://site04.superabbit77hd.skin/volleyball/sv-league-women-2247361/jt-marvelous-women-vs-okayama-seagulls-women.html
-#EXTINF:-1 tvg-id="voley48" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="PFU Blue Cats Women vs Toray Arrows Women | SV.League Women",PFU Blue Cats Women vs Toray Arrows Women | SV.League Women
-https://site04.superabbit77hd.skin/volleyball/sv-league-women-2247362/pfu-blue-cats-women-vs-toray-arrows-women.html
-#EXTINF:-1 tvg-id="voley49" tvg-logo="https://i.postimg.cc/3R8vTCBq/kovo.avif" tvg-name="GS Caltex Women vs Expressway Co Women | KOVO Cup Women",GS Caltex Women vs Expressway Co Women | KOVO Cup Women
-https://site04.superabbit77hd.skin/volleyball/kovo-cup-women-2249182/gs-caltex-women-vs-expressway-co-women.html
-#EXTINF:-1 tvg-id="voley50" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="FC Tokyo vs Hokkaido Yellow Stars | SV.League",FC Tokyo vs Hokkaido Yellow Stars | SV.League
-https://site04.superabbit77hd.skin/volleyball/sv-league-2247363/fc-tokyo-vs-hokkaido-yellow-stars.html
-#EXTINF:-1 tvg-id="voley51" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Prestige Aranmare Women vs M. Tel Aviv | SV.League Women",Prestige Aranmare Women vs M. Tel Aviv | SV.League Women
-https://site04.superabbit77hd.skin/volleyball/sv-league-women-2247364/prestige-aranmare-women-vs-m-tel-aviv.html
-#EXTINF:-1 tvg-id="voley52" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Hitachi Women vs Gunma Bank Green Wings W | SV.League Women",Hitachi Women vs Gunma Bank Green Wings W | SV.League Women
-https://site04.superabbit77hd.skin/volleyball/sv-league-women-2247365/hitachi-women-vs-gunma-bank-green-wings-w.html
-#EXTINF:-1 tvg-id="voley53" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="NEC Red Rockets Women vs Himeji Victorina W | SV.League Women",NEC Red Rockets Women vs Himeji Victorina W | SV.League Women
-https://site04.superabbit77hd.skin/volleyball/sv-league-women-2247366/nec-red-rockets-women-vs-himeji-victorina-w.html
-#EXTINF:-1 tvg-id="voley54" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="Zeren Spor Women vs Fenerbahce Women | Sultanlar Ligi Women",Zeren Spor Women vs Fenerbahce Women | Sultanlar Ligi Women
-https://site04.superabbit77hd.skin/volleyball/sultanlar-ligi-women-2247393/zeren-spor-women-vs-fenerbahce-women.html
-#EXTINF:-1 tvg-id="voley55" tvg-logo="https://i.ytimg.com/vi/Rxw__RWXeg4/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAFnZNuEihRLrTLzo-i-K8Ne8Gd7w" tvg-name="Altino Women vs Sigel Marsala W | Serie A2 Femenina",Altino Women vs Sigel Marsala W | Serie A2 Femenina
-https://www.youtube.com/watch?v=Rxw__RWXeg4
-#EXTINF:-1 tvg-id="voley56" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Kedzierzyn-Kozle vs Politechnika Lublin | TAURON Liga",Kedzierzyn-Kozle vs Politechnika Lublin | TAURON Liga
-https://site04.superabbit77hd.skin/volleyball/tauron-liga-2247403/kedzierzyn-kozle-vs-politechnika-lublin.html
-#EXTINF:-1 tvg-id="voley57" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Brescia vs Lagonegro | Serie A2",Brescia vs Lagonegro | Serie A2
-https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2247428/brescia-vs-lagonegro.html
-#EXTINF:-1 tvg-id="voley58" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Pineto vs Reggio Calabria | Serie A2",Pineto vs Reggio Calabria | Serie A2
-https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2247429/pineto-vs-reggio-calabria.html
-#EXTINF:-1 tvg-id="voley59" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Padova vs Piacenza | SuperLega",Padova vs Piacenza | SuperLega
-https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2247448/padova-vs-piacenza.html
-#EXTINF:-1 tvg-id="voley60" tvg-logo="https://i.ytimg.com/vi/olzn47Ydb5g/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBpZKGbXABtZOc-zBM_VCxeg5o_Iw" tvg-name="San Giovanni Women vs Macerata Women | Serie A1 Femenina",San Giovanni Women vs Macerata Women | Serie A1 Femenina
-https://www.youtube.com/watch?v=olzn47Ydb5g
-#EXTINF:-1 tvg-id="voley61" tvg-logo="https://i.ytimg.com/vi/T_VbS39q7t8/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBQ3yZ7qmC75e-Mmtrr-37ztJpJPg" tvg-name="Scandicci Women vs Firenze Women | Serie A1 Femenina",Scandicci Women vs Firenze Women | Serie A1 Femenina
-https://www.youtube.com/watch?v=T_VbS39q7t8
-#EXTINF:-1 tvg-id="voley62" tvg-logo="https://i.ytimg.com/vi/xXrKRYKHkKU/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBa3wr3j2tHZz67zBFR-yryNix96Q" tvg-name="Fasano W vs Club Italia W | Serie A2 Femenina",Fasano W vs Club Italia W | Serie A2 Femenina
-https://www.youtube.com/watch?v=xXrKRYKHkKU
-#EXTINF:-1 tvg-id="voley63" tvg-logo="https://i.ytimg.com/vi/VHUabhb1grs/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCtE4Yu0WHeiPbr3u8akEz6l3h-lA" tvg-name="Futura Volley Giovani Women vs Costa Volpino Women | Serie A2 Femenina",Futura Volley Giovani Women vs Costa Volpino Women | Serie A2 Femenina
-https://www.youtube.com/watch?v=VHUabhb1grs
-#EXTINF:-1 tvg-id="voley64" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Leonessa Altamura W vs Roma Women | Serie A2 Femenina",Leonessa Altamura W vs Roma Women | Serie A2 Femenina
-https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-women-2247453/leonessa-altamura-w-vs-roma-women.html
-#EXTINF:-1 tvg-id="voley65" tvg-logo="https://i.ytimg.com/vi/57IL9xW-170/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAg2xW-wfPQcW6qMeb9rwa9YQ2_uw" tvg-name="Melendugno Women vs Imola Women | Serie A2 Femenina",Melendugno Women vs Imola Women | Serie A2 Femenina
-https://www.youtube.com/watch?v=57IL9xW-170&pp=0gcJCTsMAYcqIYzv
-#EXTINF:-1 tvg-id="voley66" tvg-logo="https://i.ytimg.com/vi/Jh974BZ53gE/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBWKiRidCylC-szGXqfdU-MK0jcmw" tvg-name="Pinerolo Women vs Offanengo Women | Serie A2 Femenina",Pinerolo Women vs Offanengo Women | Serie A2 Femenina
-https://www.youtube.com/watch?v=Jh974BZ53gE
-#EXTINF:-1 tvg-id="voley67" tvg-logo="https://i.ytimg.com/vi/RAg9_j8Muws/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDwhNnMae3KFLy0T5ZawA-gNqtFGQ" tvg-name="Perugia Women vs Padova Women | Serie A2 Femenina",Perugia Women vs Padova Women | Serie A2 Femenina
-https://www.youtube.com/watch?v=RAg9_j8Muws
-#EXTINF:-1 tvg-id="voley68" tvg-logo="https://i.ytimg.com/vi/snWRkTrFF0U/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDAZyy_3ubGJdX6g4h2AU19a4e_Pw" tvg-name="Trentino Women vs Messina Women | Serie A2 Femenina",Trentino Women vs Messina Women | Serie A2 Femenina
-https://www.youtube.com/watch?v=snWRkTrFF0U
-#EXTINF:-1 tvg-id="voley69" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="Eczacibasi Women vs Vakifbank Women | Sultanlar Ligi Women",Eczacibasi Women vs Vakifbank Women | Sultanlar Ligi Women
-https://site04.superabbit77hd.skin/volleyball/sultanlar-ligi-women-2247467/eczacibasi-women-vs-vakifbank-women.html
-#EXTINF:-1 tvg-id="voley70" tvg-logo="https://i.ytimg.com/vi/msIwrrC7VYI/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLB95Ej8TRvX8WGDggw_1jC7cXhLmQ" tvg-name="Talmassons Women vs Imoco Volley Conegliano Women | Serie A1 Femenina",Talmassons Women vs Imoco Volley Conegliano Women | Serie A1 Femenina
-https://www.youtube.com/watch?v=msIwrrC7VYI
-#EXTINF:-1 tvg-id="voley71" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Cisterna vs Milano | SuperLega",Cisterna vs Milano | SuperLega
-https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2248228/cisterna-vs-milano.html
-#EXTINF:-1 tvg-id="voley72" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Cuneo Volley vs Perugia | SuperLega",Cuneo Volley vs Perugia | SuperLega
-https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2248229/cuneo-volley-vs-perugia.html
-#EXTINF:-1 tvg-id="voley73" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Pordenone vs Monza | SuperLega",Pordenone vs Monza | SuperLega
-https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2248230/pordenone-vs-monza.html
-#EXTINF:-1 tvg-id="voley74" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Ravenna vs Grottazzolina | Serie A2",Ravenna vs Grottazzolina | Serie A2
-https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2248231/ravenna-vs-grottazzolina.html
-#EXTINF:-1 tvg-id="voley75" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Reggio Emilia vs Belluno | Serie A2",Reggio Emilia vs Belluno | Serie A2
-https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2248232/reggio-emilia-vs-belluno.html
-#EXTINF:-1 tvg-id="voley76" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Virtus Volley Fano vs Gioia del Colle | Serie A2",Virtus Volley Fano vs Gioia del Colle | Serie A2
-https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2248233/virtus-volley-fano-vs-gioia-del-colle.html
-#EXTINF:-1 tvg-id="voley77" tvg-logo="https://i.ytimg.com/vi/yuF6wLvXCx8/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDVW3Re0k4-nitjvSSMvO2Sr_GbUA" tvg-name="UYBA Busto Arsizio Women vs Bergamo Women | Serie A1 Femenina",UYBA Busto Arsizio Women vs Bergamo Women | Serie A1 Femenina
-https://www.youtube.com/watch?v=yuF6wLvXCx8
-#EXTINF:-1 tvg-id="voley78" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Slepsk Suwalki vs Barkom | TAURON Liga",Slepsk Suwalki vs Barkom | TAURON Liga
-https://site04.superabbit77hd.skin/volleyball/tauron-liga-2248235/slepsk-suwalki-vs-barkom.html
-#EXTINF:-1 tvg-id="voley79" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Modena vs Trentino | SuperLega",Modena vs Trentino | SuperLega
-https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2248240/modena-vs-trentino.html
-#EXTINF:-1 tvg-id="voley80" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Opole Women vs Budowlani Lodz Women | TAURON Liga Women",Opole Women vs Budowlani Lodz Women | TAURON Liga Women
-https://site04.superabbit77hd.skin/volleyball/tauron-liga-women-2248244/opole-women-vs-budowlani-lodz-women.html
-#EXTINF:-1 tvg-id="voley81" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/so7zfDPI-480.jpg" tvg-name="Nec Red Rockets Kawasaki vs Victorina Himeji - Liga Japonesa",Nec Red Rockets Kawasaki vs Victorina Himeji - Liga Japonesa
+# Partite di oggi e stream Gist - generato il 2026-10-18 12:57 CEST
+#EXTINF:-1 tvg-id="volley1" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/so7zfDPI-480.jpg" tvg-name="Nec Red Rockets Kawasaki vs Victorina Himeji - Liga Japonesa",Nec Red Rockets Kawasaki vs Victorina Himeji - Liga Japonesa
 https://site04.superabbit77hd.skin/es/volleyball/sv-league-women-2247366/nec-red-rockets-women-vs-himeji-victorina-w.html?icg=UEU
+#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="Zeren Spor Women vs Fenerbahce Women | Sultanlar Ligi Women",Zeren Spor Women vs Fenerbahce Women | Sultanlar Ligi Women
+https://site04.superabbit77hd.skin/volleyball/sultanlar-ligi-women-2247393/zeren-spor-women-vs-fenerbahce-women.html
+#EXTINF:-1 tvg-id="volley3" tvg-logo="https://i.ytimg.com/vi/Rxw__RWXeg4/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAFnZNuEihRLrTLzo-i-K8Ne8Gd7w" tvg-name="Altino Women vs Sigel Marsala W | Serie A2 Femenina",Altino Women vs Sigel Marsala W | Serie A2 Femenina
+https://www.youtube.com/watch?v=Rxw__RWXeg4
+#EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Kedzierzyn-Kozle vs Politechnika Lublin | TAURON Liga",Kedzierzyn-Kozle vs Politechnika Lublin | TAURON Liga
+https://site04.superabbit77hd.skin/volleyball/tauron-liga-2247403/kedzierzyn-kozle-vs-politechnika-lublin.html
+#EXTINF:-1 tvg-id="volley5" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Brescia vs Lagonegro | Serie A2",Brescia vs Lagonegro | Serie A2
+https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2247428/brescia-vs-lagonegro.html
+#EXTINF:-1 tvg-id="volley6" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Pineto vs Reggio Calabria | Serie A2",Pineto vs Reggio Calabria | Serie A2
+https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2247429/pineto-vs-reggio-calabria.html
+#EXTINF:-1 tvg-id="volley7" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Padova vs Piacenza | SuperLega",Padova vs Piacenza | SuperLega
+https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2247448/padova-vs-piacenza.html
+#EXTINF:-1 tvg-id="volley8" tvg-logo="https://i.ytimg.com/vi/olzn47Ydb5g/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBpZKGbXABtZOc-zBM_VCxeg5o_Iw" tvg-name="San Giovanni Women vs Macerata Women | Serie A1 Femenina",San Giovanni Women vs Macerata Women | Serie A1 Femenina
+https://www.youtube.com/watch?v=olzn47Ydb5g
+#EXTINF:-1 tvg-id="volley9" tvg-logo="https://i.ytimg.com/vi/T_VbS39q7t8/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBQ3yZ7qmC75e-Mmtrr-37ztJpJPg" tvg-name="Scandicci Women vs Firenze Women | Serie A1 Femenina",Scandicci Women vs Firenze Women | Serie A1 Femenina
+https://www.youtube.com/watch?v=T_VbS39q7t8
+#EXTINF:-1 tvg-id="volley10" tvg-logo="https://i.ytimg.com/vi/xXrKRYKHkKU/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBa3wr3j2tHZz67zBFR-yryNix96Q" tvg-name="Fasano W vs Club Italia W | Serie A2 Femenina",Fasano W vs Club Italia W | Serie A2 Femenina
+https://www.youtube.com/watch?v=xXrKRYKHkKU
+#EXTINF:-1 tvg-id="volley11" tvg-logo="https://i.ytimg.com/vi/VHUabhb1grs/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCtE4Yu0WHeiPbr3u8akEz6l3h-lA" tvg-name="Futura Volley Giovani Women vs Costa Volpino Women | Serie A2 Femenina",Futura Volley Giovani Women vs Costa Volpino Women | Serie A2 Femenina
+https://www.youtube.com/watch?v=VHUabhb1grs
+#EXTINF:-1 tvg-id="volley12" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Leonessa Altamura W vs Roma Women | Serie A2 Femenina",Leonessa Altamura W vs Roma Women | Serie A2 Femenina
+https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-women-2247453/leonessa-altamura-w-vs-roma-women.html
+#EXTINF:-1 tvg-id="volley13" tvg-logo="https://i.ytimg.com/vi/57IL9xW-170/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAg2xW-wfPQcW6qMeb9rwa9YQ2_uw" tvg-name="Melendugno Women vs Imola Women | Serie A2 Femenina",Melendugno Women vs Imola Women | Serie A2 Femenina
+https://www.youtube.com/watch?v=57IL9xW-170&pp=0gcJCTsMAYcqIYzv
+#EXTINF:-1 tvg-id="volley14" tvg-logo="https://i.ytimg.com/vi/Jh974BZ53gE/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBWKiRidCylC-szGXqfdU-MK0jcmw" tvg-name="Pinerolo Women vs Offanengo Women | Serie A2 Femenina",Pinerolo Women vs Offanengo Women | Serie A2 Femenina
+https://www.youtube.com/watch?v=Jh974BZ53gE
+#EXTINF:-1 tvg-id="volley15" tvg-logo="https://i.ytimg.com/vi/RAg9_j8Muws/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDwhNnMae3KFLy0T5ZawA-gNqtFGQ" tvg-name="Perugia Women vs Padova Women | Serie A2 Femenina",Perugia Women vs Padova Women | Serie A2 Femenina
+https://www.youtube.com/watch?v=RAg9_j8Muws
+#EXTINF:-1 tvg-id="volley16" tvg-logo="https://i.ytimg.com/vi/snWRkTrFF0U/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDAZyy_3ubGJdX6g4h2AU19a4e_Pw" tvg-name="Trentino Women vs Messina Women | Serie A2 Femenina",Trentino Women vs Messina Women | Serie A2 Femenina
+https://www.youtube.com/watch?v=snWRkTrFF0U
+#EXTINF:-1 tvg-id="volley17" tvg-logo="https://i.postimg.cc/k5YzJ8v3/sultan.png" tvg-name="Eczacibasi Women vs Vakifbank Women | Sultanlar Ligi Women",Eczacibasi Women vs Vakifbank Women | Sultanlar Ligi Women
+https://site04.superabbit77hd.skin/volleyball/sultanlar-ligi-women-2247467/eczacibasi-women-vs-vakifbank-women.html
+#EXTINF:-1 tvg-id="volley18" tvg-logo="https://i.ytimg.com/vi/msIwrrC7VYI/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLB95Ej8TRvX8WGDggw_1jC7cXhLmQ" tvg-name="Talmassons Women vs Imoco Volley Conegliano Women | Serie A1 Femenina",Talmassons Women vs Imoco Volley Conegliano Women | Serie A1 Femenina
+https://www.youtube.com/watch?v=msIwrrC7VYI
+#EXTINF:-1 tvg-id="volley19" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Cisterna vs Milano | SuperLega",Cisterna vs Milano | SuperLega
+https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2248228/cisterna-vs-milano.html
+#EXTINF:-1 tvg-id="volley20" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Cuneo Volley vs Perugia | SuperLega",Cuneo Volley vs Perugia | SuperLega
+https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2248229/cuneo-volley-vs-perugia.html
+#EXTINF:-1 tvg-id="volley21" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Pordenone vs Monza | SuperLega",Pordenone vs Monza | SuperLega
+https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2248230/pordenone-vs-monza.html
+#EXTINF:-1 tvg-id="volley22" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Ravenna vs Grottazzolina | Serie A2",Ravenna vs Grottazzolina | Serie A2
+https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2248231/ravenna-vs-grottazzolina.html
+#EXTINF:-1 tvg-id="volley23" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Reggio Emilia vs Belluno | Serie A2",Reggio Emilia vs Belluno | Serie A2
+https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2248232/reggio-emilia-vs-belluno.html
+#EXTINF:-1 tvg-id="volley24" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Virtus Volley Fano vs Gioia del Colle | Serie A2",Virtus Volley Fano vs Gioia del Colle | Serie A2
+https://site04.superabbit77hd.skin/volleyball/italy-serie-a2-2248233/virtus-volley-fano-vs-gioia-del-colle.html
+#EXTINF:-1 tvg-id="volley25" tvg-logo="https://i.ytimg.com/vi/yuF6wLvXCx8/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDVW3Re0k4-nitjvSSMvO2Sr_GbUA" tvg-name="UYBA Busto Arsizio Women vs Bergamo Women | Serie A1 Femenina",UYBA Busto Arsizio Women vs Bergamo Women | Serie A1 Femenina
+https://www.youtube.com/watch?v=yuF6wLvXCx8
+#EXTINF:-1 tvg-id="volley26" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Slepsk Suwalki vs Barkom | TAURON Liga",Slepsk Suwalki vs Barkom | TAURON Liga
+https://site04.superabbit77hd.skin/volleyball/tauron-liga-2248235/slepsk-suwalki-vs-barkom.html
+#EXTINF:-1 tvg-id="volley27" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Modena vs Trentino | SuperLega",Modena vs Trentino | SuperLega
+https://site04.superabbit77hd.skin/volleyball/italy-super-lega-2248240/modena-vs-trentino.html
+#EXTINF:-1 tvg-id="volley28" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Opole Women vs Budowlani Lodz Women | TAURON Liga Women",Opole Women vs Budowlani Lodz Women | TAURON Liga Women
+https://site04.superabbit77hd.skin/volleyball/tauron-liga-women-2248244/opole-women-vs-budowlani-lodz-women.html
