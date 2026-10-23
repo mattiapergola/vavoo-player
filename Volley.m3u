@@ -1,4 +1,18 @@
 #EXTM3U
-# Partite di oggi e stream Gist - generato il 2026-10-23 01:11 CEST
+# Partite di oggi e stream Gist - generato il 2026-10-23 03:46 CEST
 #EXTINF:-1 tvg-id="volley1" tvg-logo="https://i.ytimg.com/vi/qTkiCWI3Bok/hq720.jpg" tvg-name="FC PORTO vs. Fundación Cajasol ANDALUCÍA - CEV Champions League Volley 2027",FC PORTO vs. Fundación Cajasol ANDALUCÍA - CEV Champions League Volley 2027
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/684ad0046b24126facf6347e/58qFkZAxcK5c/2026/10/22/18_4_58/index.m3u8
+#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.postimg.cc/SxpJRKmy/Volleyball-Pro-Challenge-logo.png" tvg-name="M RMUTT vs Navy 2024 |  Volleyball Pro Challenge",M RMUTT vs Navy 2024 |  Volleyball Pro Challenge
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Fvolleyball-pro-challenge-2027-2253839%2Fm-rmutt-vs-navy-2024.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley3" tvg-logo="https://i.postimg.cc/SxpJRKmy/Volleyball-Pro-Challenge-logo.png" tvg-name="M Phitsanulok vs Sisaket  | Volleyball Pro Challenge",M Phitsanulok vs Sisaket  | Volleyball Pro Challenge
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Fvolleyball-pro-challenge-2027-2253840%2Fm-phitsanulok-vs-sisaket.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Body Queenseis F vs JT Marvelous F  |  SV.League Women",Body Queenseis F vs JT Marvelous F  |  SV.League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Fsv-league-women-2251029%2Fbody-queenseis-women-vs-jt-marvelous-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley5" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Denso Airybees F vs Hisamitsu Springs F  |  SV.League Women",Denso Airybees F vs Hisamitsu Springs F  |  SV.League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Fsv-league-women-2251030%2Fdenso-airybees-women-vs-hisamitsu-springs-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley6" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Slepsk Suwalki vs GKS Katowice  | TAURON Liga",Slepsk Suwalki vs GKS Katowice  | TAURON Liga
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Ftauron-liga-2251067%2Fslepsk-suwalki-vs-gks-katowice.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley7" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Cuprum vs Barkom  |  TAURON Liga",Cuprum vs Barkom  |  TAURON Liga
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Ftauron-liga-2252004%2Fcuprum-vs-barkom.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley8" tvg-logo="https://i.postimg.cc/QCgkn1qq/superliga.png" tvg-name="Minas vs Barueri | Superliga Brasileira Feminina",Minas vs Barueri | Superliga Brasileira Feminina
+https://rdcanais.org/sportv2
