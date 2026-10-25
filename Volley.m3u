@@ -1,4 +1,32 @@
 #EXTM3U
-# Partite di oggi e stream Gist - generato il 2026-10-25 02:54 CEST
-#EXTINF:-1 tvg-id="volley1" tvg-logo="https://i.ytimg.com/vi/ADASDASDA/hq720.jpg" tvg-name="PRAIA CLUBE vs BRUSQUE - Liga Brasileña de Voley",PRAIA CLUBE vs BRUSQUE - Liga Brasileña de Voley
+# Partite di oggi e stream Gist - generato il 2026-10-25 04:45 CET
+#EXTINF:-1 tvg-id="volley1" tvg-logo="https://i.ytimg.com/vi/ygq6lSetETc/hq720.jpg" tvg-name="PRAIA CLUBE vs BRUSQUE - Liga Brasileña de Voley",PRAIA CLUBE vs BRUSQUE - Liga Brasileña de Voley
 https://rdcanais.org/sportv2
+#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.ytimg.com/vi/sfYY3iahU0w/hq720.jpg" tvg-name="REGATAS vs ALIANZA LIMA - Liga Peruana de Voley",REGATAS vs ALIANZA LIMA - Liga Peruana de Voley
+https://live-evg20.tv360.bitel.com.pe/Yhkj0lKO8WjD1S8vptSiZg/1792976172/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="volley3" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/oZ4dQxKF-480.jpg" tvg-name="Victorina Himeji VS Pfu Bluecats Ishikawa Kahoku",Victorina Himeji VS Pfu Bluecats Ishikawa Kahoku
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Fsv-league-women-2253398%2Fhimeji-victorina-w-vs-pfu-blue-cats-women.html%3Ficg%3DUEU&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Himeji Victorina W vs PFU Blue Cats Women | SV.League Women",Himeji Victorina W vs PFU Blue Cats Women | SV.League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-women-2253398%2Fhimeji-victorina-w-vs-pfu-blue-cats-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley5" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Hokkaido Yellow Stars vs Panasonic Panthers | SV.League",Hokkaido Yellow Stars vs Panasonic Panthers | SV.League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-2253399%2Fhokkaido-yellow-stars-vs-panasonic-panthers.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley6" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Osaka Sakai vs Fragolad Kagoshima | SV.League",Osaka Sakai vs Fragolad Kagoshima | SV.League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-2253400%2Fosaka-sakai-vs-fragolad-kagoshima.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley7" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Suntory Sunbirds vs Voreas Hokkaido | SV.League",Suntory Sunbirds vs Voreas Hokkaido | SV.League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-2253401%2Fsuntory-sunbirds-vs-voreas-hokkaido.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley8" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Gunma Bank Green Wings W vs Prestige Aranmare Women | SV.League Women",Gunma Bank Green Wings W vs Prestige Aranmare Women | SV.League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-women-2253402%2Fgunma-bank-green-wings-w-vs-prestige-aranmare-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley9" tvg-logo="https://i.postimg.cc/3R8vTCBq/kovo.avif" tvg-name="KAL Jumbos vs Cheonan Hyundai Capital Skywalkers | KOVO Cup",KAL Jumbos vs Cheonan Hyundai Capital Skywalkers | KOVO Cup
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fkovo-cup-2255165%2Fkal-jumbos-vs-cheonan-hyundai-capital-skywalkers.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley10" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Shinshu Matsumoto Tridents vs JT Thunders  | SV.League",Shinshu Matsumoto Tridents vs JT Thunders  | SV.League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-2253403%2Fshinshu-matsumoto-tridents-vs-jt-thunders.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley11" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="JTEKT vs Toray Arrows  | SV.League",JTEKT vs Toray Arrows  | SV.League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-2253404%2Fjtekt-vs-toray-arrows.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley12" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Hitachi Women vs NEC Red Rockets Women | SV.League Women",Hitachi Women vs NEC Red Rockets Women | SV.League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-women-2253405%2Fhitachi-women-vs-nec-red-rockets-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley13" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="M. Tel Aviv vs Toray Arrows Women | SV.League Women",M. Tel Aviv vs Toray Arrows Women | SV.League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-women-2253406%2Fm-tel-aviv-vs-toray-arrows-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley14" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Okayama Seagulls Women vs Ageo Women  | SV.League Women",Okayama Seagulls Women vs Ageo Women  | SV.League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-women-2253407%2Fokayama-seagulls-women-vs-ageo-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley15" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Nagoya vs FC Tokyo  |  SV.League",Nagoya vs FC Tokyo  |  SV.League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-2253408%2Fnagoya-vs-fc-tokyo.html&redirect_stream=true&api_password=Milito22.
