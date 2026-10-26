@@ -1,4 +1,10 @@
 #EXTM3U
-# Partite di oggi e stream Gist - generato il 2026-10-26 02:33 CET
+# Partite di oggi e stream Gist - generato il 2026-10-26 04:49 CET
 #EXTINF:-1 tvg-id="volley1" tvg-logo="https://i.ytimg.com/vi/Uvo2uI2-7bA/hq720.jpg" tvg-name="UNIVERSITARIO vs DEPORTIVO WANKA - LIGA PERUANA DE VOLEY",UNIVERSITARIO vs DEPORTIVO WANKA - LIGA PERUANA DE VOLEY
 https://live-evg20.tv360.bitel.com.pe/cfs7zCj1EP_fP6aEyZRsFg/1793049258/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.postimg.cc/wj6zGrcx/peru.png" tvg-name="Universitario de Deportes vs Wanka | LNSV Women",Universitario de Deportes vs Wanka | LNSV Women
+https://www.facebook.com/watch/live/?ref=watch_permalink&v=1160745210233883
+#EXTINF:-1 tvg-id="volley3" tvg-logo="https://i.postimg.cc/QCgkn1qq/superliga.png" tvg-name="Sancor Seguros W vs Sesi Bauru W | Superliga Women",Sancor Seguros W vs Sesi Bauru W | Superliga Women
+https://rdcanais.org/sportv2
+#EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Bielsko-Biala W vs LKS Lodz W | TAURON Liga Women",Bielsko-Biala W vs LKS Lodz W | TAURON Liga Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Ftauron-liga-women-2254715%2Fbielsko-biala-women-vs-lks-lodz-women.html&redirect_stream=true&api_password=Milito22.
