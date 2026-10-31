@@ -1,40 +1,6 @@
 #EXTM3U
-# Partite di oggi e stream Gist - generato il 2026-10-31 21:25 CET
-#EXTINF:-1 tvg-id="volley1" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/UpQ2BYqx-480.jpg" tvg-name="VolleyWroclaw vs UNI Opole - Liga de Polonia",VolleyWroclaw vs UNI Opole - Liga de Polonia
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Ftauron-liga-women-2259305%2Fwroclaw-women-vs-opole-women.html%3Ficg%3DUEU&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley2" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/CEZ4PzHy-480.jpg" tvg-name="BOGDANKA LUK Lublin vs GKS Katowice - Liga Masculina de Polonia",BOGDANKA LUK Lublin vs GKS Katowice - Liga Masculina de Polonia
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Ftauron-liga-2259369%2Fpolitechnika-lublin-vs-gks-katowice.html%3Ficg%3DUEU&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley3" tvg-logo="https://i.ytimg.com/vi/l4ch1fJ8SG0/hq720.jpg" tvg-name="Deportivo Soan vs Deportivo Wanka - Liga de Peru",Deportivo Soan vs Deportivo Wanka - Liga de Peru
-https://live-evg20.tv360.bitel.com.pe/7ViFZWQS0pAwFwRR3CYcQA/1793562420/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Bydgoszcz Women vs Budowlani Lodz Women  | TAURON Liga Women",Bydgoszcz Women vs Budowlani Lodz Women  | TAURON Liga Women
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Ftauron-liga-women-2258087%2Fbydgoszcz-women-vs-budowlani-lodz-women.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley5" tvg-logo="https://i.postimg.cc/prVC7Sn6/Efeler-Ligi-Logo-8.png" tvg-name="Alanya Bld vs Ziraat Bankasi | Turkey Efeler Ligi",Alanya Bld vs Ziraat Bankasi | Turkey Efeler Ligi
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fturkey-efeler-ligi-2258117%2Falanya-bld-vs-ziraat-bankasi.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley6" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Cuprum vs Verva Warszawa | TAURON Liga",Cuprum vs Verva Warszawa | TAURON Liga
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Ftauron-liga-2258131%2Fcuprum-vs-verva-warszawa.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley7" tvg-logo="https://i.postimg.cc/W1rFzJbz/A2.jpg" tvg-name="Saturnia Acicastello vs Reggio Emilia | Italy Serie A2",Saturnia Acicastello vs Reggio Emilia | Italy Serie A2
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fitaly-serie-a2-2258160%2Fsaturnia-acicastello-vs-reggio-emilia.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley8" tvg-logo="https://i.postimg.cc/prVC7Sn6/Efeler-Ligi-Logo-8.png" tvg-name="Galatasaray vs Sultanbeyli | Turkey Efeler Ligi",Galatasaray vs Sultanbeyli | Turkey Efeler Ligi
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fturkey-efeler-ligi-2259226%2Fgalatasaray-vs-sultanbeyli.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley9" tvg-logo="https://i.postimg.cc/K8FkK8K0/superleaguemen.png" tvg-name="Monza vs Perugia | Italy Super Lega",Monza vs Perugia | Italy Super Lega
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fitaly-super-lega-2259258%2Fmonza-vs-perugia.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley10" tvg-logo="https://i.ytimg.com/vi/mJwT0EKKTMU/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBN-LEOqoGwtHw7zZXRNqr3cMI_ow" tvg-name="Macerata Women vs Cuneo Women | Serie A1 Women",Macerata Women vs Cuneo Women | Serie A1 Women
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmJwT0EKKTMU
-#EXTINF:-1 tvg-id="volley11" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Belchatow vs Zawiercie | TAURON Liga",Belchatow vs Zawiercie | TAURON Liga
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Ftauron-liga-2259260%2Fbelchatow-vs-zawiercie.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley12" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Wroclaw Women vs Opole Women | TAURON Liga Women",Wroclaw Women vs Opole Women | TAURON Liga Women
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Ftauron-liga-women-2259305%2Fwroclaw-women-vs-opole-women.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley13" tvg-logo="https://i.ytimg.com/vi/qwK74HZfAHc/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAbn4IRQnBhzKPJX0tY4spv3LTgsQ" tvg-name="Chieri '76 Women vs UYBA Busto Arsizio Women | Serie A1 Women",Chieri '76 Women vs UYBA Busto Arsizio Women | Serie A1 Women
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqwK74HZfAHc
-#EXTINF:-1 tvg-id="volley14" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Politechnika Lublin vs GKS Katowice | TAURON Liga",Politechnika Lublin vs GKS Katowice | TAURON Liga
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Ftauron-liga-2259369%2Fpolitechnika-lublin-vs-gks-katowice.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley15" tvg-logo="https://i.ytimg.com/vi/eJV0RMWMwxs/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCm8BCKILTcDWotDt85tI5GP6oXfQ" tvg-name="HALKBANK - AKEDAŞ ONİKİŞUBAT BELEDİYE SPOR SMS Grup Efeler Ligi",HALKBANK - AKEDAŞ ONİKİŞUBAT BELEDİYE SPOR SMS Grup Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeJV0RMWMwxs
-#EXTINF:-1 tvg-id="volley16" tvg-logo="https://i.ytimg.com/vi/AOLglsw8BGw/hq720.jpg?v=6adf1412&sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAX3fLDaLX8WYoGou4Qk9ooDjXqvQ" tvg-name="GEBZE BELEDİYESİ SPOR - İSTANBUL GENÇLİK SMS Grup Efeler Ligi",GEBZE BELEDİYESİ SPOR - İSTANBUL GENÇLİK SMS Grup Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAOLglsw8BGw%26pp%3D0gcJCSsMAYcqIYzv
-#EXTINF:-1 tvg-id="volley17" tvg-logo="https://i.ytimg.com/vi/_VkdPdqwkzU/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCzfWYz--_KW_xGel7TcChNtUp1vA" tvg-name="GAZİANTEP GENÇLİK SPOR - ALTEKMA SMS Grup Efeler Ligi",GAZİANTEP GENÇLİK SPOR - ALTEKMA SMS Grup Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_VkdPdqwkzU
-#EXTINF:-1 tvg-id="volley18" tvg-logo="https://i.ytimg.com/vi/tyiztICY86w/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLDyC_u33pqSvN0idhzLxh4FAqW3Yw" tvg-name="SPOR TOTO - SUNGURLU BELEDİYESİ SPOR SMS Grup Efeler Ligi",SPOR TOTO - SUNGURLU BELEDİYESİ SPOR SMS Grup Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtyiztICY86w
-#EXTINF:-1 tvg-id="volley19" tvg-logo="https://i.ytimg.com/vi/xAQQFvkjTsw/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLBnSakeyniyMDx--_9ZvyFf7WTcUg" tvg-name="İBB SPOR KULÜBÜ - FENERBAHÇE MEDICANA SMS Grup Efeler Ligi",İBB SPOR KULÜBÜ - FENERBAHÇE MEDICANA SMS Grup Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxAQQFvkjTsw
+# Partite di oggi e stream Gist - generato il 2026-11-01 00:33 CET
+#EXTINF:-1 tvg-id="volley1" tvg-logo="https://i.ytimg.com/vi/ev8a1VQExQs/hq720.jpg" tvg-name="Deportivo Geminis vs San Martin - Liga de Peru",Deportivo Geminis vs San Martin - Liga de Peru
+https://live-evg20.tv360.bitel.com.pe/-Pi4Bl2T4YPLFaDhn12-hA/1793572869/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.ytimg.com/vi/lItob15scDU/hq720.jpg" tvg-name="Osasco vs Londrina",Osasco vs Londrina
+https://rdcanais.org/sportv2
