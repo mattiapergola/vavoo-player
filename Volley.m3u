@@ -1,16 +1,12 @@
 #EXTM3U
-# Partite di oggi e stream Gist - generato il 2026-11-06 14:54 CET
-#EXTINF:-1 tvg-id="volley1" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/As5xz9M8-480.jpg" tvg-name="Voreas Hokkaido vs Fragolad Kagoshima",Voreas Hokkaido vs Fragolad Kagoshima
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Fsv-league-2263338%2Fvoreas-hokkaido-vs-fragolad-kagoshima.html%3Ficg%3DUEU&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.postimg.cc/s2hcV2bV/SVLEAGUE.jpg" tvg-name="Voreas Hokkaido vs Fragolad Kagoshima |  SV.League",Voreas Hokkaido vs Fragolad Kagoshima |  SV.League
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fsv-league-2263338%2Fvoreas-hokkaido-vs-fragolad-kagoshima.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley3" tvg-logo="https://i.postimg.cc/50BKmDPX/vleague.jpg" tvg-name="KAL Jumbos vs Suwon KEPCO Vixtorm |  Volleyball League",KAL Jumbos vs Suwon KEPCO Vixtorm |  Volleyball League
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fvolleyball-league-2263339%2Fkal-jumbos-vs-suwon-kepco-vixtorm.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.postimg.cc/50BKmDPX/vleague.jpg" tvg-name="IBK Women vs GS Caltex Women |  Volleyball League Women",IBK Women vs GS Caltex Women |  Volleyball League Women
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fvolleyball-league-women-2263340%2Fibk-women-vs-gs-caltex-women.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley5" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Chemik Police Women vs Rzeszow Women |  TAURON Liga Women",Chemik Police Women vs Rzeszow Women |  TAURON Liga Women
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Ftauron-liga-women-2264170%2Fchemik-police-women-vs-rzeszow-women.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley6" tvg-logo="https://i.postimg.cc/ZKtv0P98/serie-A1.png" tvg-name="Talmassons Women vs Firenze Women |  Serie A1 Women",Talmassons Women vs Firenze Women |  Serie A1 Women
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fserie-a1-women-2264210%2Ftalmassons-women-vs-firenze-women.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley7" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="MKS Kalisz Women vs LKS Lodz Women |  TAURON Liga Women",MKS Kalisz Women vs LKS Lodz Women |  TAURON Liga Women
+# Partite di oggi e stream Gist - generato il 2026-11-06 21:17 CET
+#EXTINF:-1 tvg-id="volley1" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/81rLD8lB-480.jpg" tvg-name="NETLAND MKS Kalisz vs LKS Commercecon Lodz",NETLAND MKS Kalisz vs LKS Commercecon Lodz
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Ftauron-liga-women-2264211%2Fmks-kalisz-women-vs-lks-lodz-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.ytimg.com/vi/jgMkea6Ka3c/hq720.jpg" tvg-name="Talmassons vs Firenze - Lega Volley Femminile",Talmassons vs Firenze - Lega Volley Femminile
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fes%2Fvolleyball%2Fserie-a1-women-2264210%2Ftalmassons-women-vs-firenze-women.html%3Ficg%3DUEU&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley3" tvg-logo="https://i.ytimg.com/vi/3H2AurB0h_Q/hq720.jpg" tvg-name="Talmassons vs Firenze - Lega Volley Femminile",Talmassons vs Firenze - Lega Volley Femminile
+https://rdcanais.org/sportv2
+#EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.ytimg.com/vi/jgMkea6Ka3c/hq720.jpg?sqp=-oaymwErCOgCEMoBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAJgXZQjUFnfOUIIyqbinY4zAQSPA" tvg-name="Talmassons Women vs Firenze Women |  Serie A1 Women",Talmassons Women vs Firenze Women |  Serie A1 Women
+https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjgMkea6Ka3c
+#EXTINF:-1 tvg-id="volley5" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="MKS Kalisz Women vs LKS Lodz Women |  TAURON Liga Women",MKS Kalisz Women vs LKS Lodz Women |  TAURON Liga Women
 https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Ftauron-liga-women-2264211%2Fmks-kalisz-women-vs-lks-lodz-women.html&redirect_stream=true&api_password=Milito22.
