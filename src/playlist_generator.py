@@ -420,8 +420,9 @@ class PlaylistGenerator:
         self._logos_cache = None  # Cache for logo file lookup
 
     def _get_auth_signature(self):
-        """Performs handshake to get the addon signature."""
-        url = f"{API_BASE}/app/ping"
+        """Ottiene la firma dal nuovo endpoint Vypn."""
+        url = "https://www.vypn.net/api/app/ping"
+
         headers = {
             "user-agent": USER_AGENT,
             "accept": "application/json",
@@ -429,48 +430,82 @@ class PlaylistGenerator:
             "accept-encoding": "gzip"
         }
 
+        now = int(time.time() * 1000)
+
         data = {
-            "token": "ldCvE092e7gER0rVIajfsXIvRhwlrAzP6_1oEJ4q6HH89QHt24v6NNL_jQJO219hiLOXF2hqEfsUuEWitEIGN4EaHHEHb7Cd7gojc5SQYRFzU3XWo_kMeryAUbcwWnQrnf0-",
-            "reason": "app-blur",
+            "token": "",
+            "reason": "app-focus",
             "locale": "de",
             "theme": "dark",
             "metadata": {
-                "device": {"type": "Handset", "brand": "google", "model": "Nexus", "name": "21081111RG", "uniqueId": "d10e5d99ab665233"},
-                "os": {"name": "android", "version": "7.1.2", "abis": ["arm64-v8a"], "host": "android"},
-                "app": {"platform": "android", "version": "1.1.0", "buildId": "97215000", "engine": "hbc85", "signatures": ["6e8a975e3cbf07d5de823a760d4c2547f86c1403105020adee5de67ac510999e"], "installer": "com.android.vending"},
-                "version": {"package": "app.lokke.main", "binary": "1.1.0", "js": "1.1.0"},
-                "platform": {"isAndroid": True, "isIOS": False, "isTV": False, "isWeb": False, "isMobile": True, "isWebTV": False, "isElectron": False}
+                "device": {
+                    "type": "phone",
+                    "uniqueId": "vypn-test"
+                },
+                "os": {
+                "name": "android",
+                "version": "14",
+                "abis": ["arm64-v8a"],
+                "host": "android"
+                },
+                "app": {
+                    "platform": "android"
+                },
+                "version": {
+                    "package": "net.vypn.app",
+                    "binary": "1.4.1",
+                    "js": "1.4.1"
+                    }
             },
             "appFocusTime": 0,
             "playerActive": False,
             "playDuration": 0,
-            "devMode": True,
+            "devMode": False,
             "hasAddon": True,
             "castConnected": False,
-            "package": "app.lokke.main",
-            "version": "1.1.0",
+            "package": "net.vypn.app",
+            "version": "1.4.1",
             "process": "app",
-            "firstAppStart": 1772388338206,
-            "lastAppStart": 1772388338206,
+            "firstAppStart": now,
+            "lastAppStart": now,
             "ipLocation": None,
-            "adblockEnabled": False,
-            "proxy": {"supported": ["ss", "openvpn"], "engine": "openvpn", "ssVersion": 1, "enabled": False, "autoServer": True, "id": "fi-hel"},
-            "iap": {"supported": True}
+            "adblockEnabled": True,
+            "migrationApplied": False,
+            "migrationTargetInstalled": False,
+            "proxy": {
+                "supported": ["ss"],
+                "engine": "Mu",
+                "ssVersion": "2022",
+                "enabled": False,
+                "autoServer": True,
+                "id": ""
+            },
+            "iap": {
+                "supported": False,
+                "error": ""
+            }
         }
+        
 
         try:
-            logging.info("Requesting authentication signature...")
-            # Disable SSL verification
-            response = _http_session.post(url, json=data, headers=headers, timeout=10, verify=False)
+            logging.info("Richiesta firma a Vypn...")
+            response = _http_session.post(url, json=data, headers=headers, timeout=10)
             response.raise_for_status()
-            sig = response.json().get("addonSig")
+
+            payload = response.json()
+            sig = payload.get("addonSig") or payload.get("mhub")
+
             if sig:
                 self._auth_cache["sig"] = sig
                 self._auth_cache["timestamp"] = time.time()
-                logging.info("Signature received successfully.")
+                logging.info(f"Firma ricevuta: lunghezza {len(sig)}")
+            else:
+                logging.error(f"Firma non presente nella risposta: {payload}")
+
             return sig
+
         except Exception as e:
-            logging.error(f"Error getting auth signature: {e}")
+            logging.error(f"Errore durante l'handshake Vypn: {e}")
             return None
 
     def get_signature(self, max_age_seconds=600):
@@ -507,8 +542,8 @@ class PlaylistGenerator:
 
             while True:
                 data = {
-                    "language": "en",
-                    "region": "US",
+                    "language": "de",
+                    "region": "AT",
                     "catalogId": "iptv",
                     "id": "iptv",
                     "adult": False,
@@ -527,12 +562,21 @@ class PlaylistGenerator:
                 }
 
                 try:
-                    # Disable SSL verification
-                    r = _http_session.post(VAOO_URL, json=data, headers=headers, timeout=15, verify=False)
+                    r = _http_session.post(
+                        VAOO_URL,
+                        json=data,
+                        headers=headers,
+                        timeout=15,
+                        verify=False
+                    )
 
-                    r.raise_for_status()
+                    if r.status_code != 200:
+                        logging.error(
+                            f"Errore Vavoo per {group}: HTTP {r.status_code} - {r.text[:300]}"
+                        )
+                        break
+
                     res = r.json()
-
                     items = res.get("items", [])
                     if not items:
                         break
@@ -541,6 +585,7 @@ class PlaylistGenerator:
                         url = item.get("url")
                         name = item.get("name")
                         seen_key = (name, url)
+
                         if url and seen_key not in seen_urls:
                             clean_item = {
                                 "name": name,
@@ -556,6 +601,12 @@ class PlaylistGenerator:
                     if cursor is None:
                         break
 
+                except requests.exceptions.RequestException as e:
+                    logging.error(f"Errore di rete per {group}: {e}")
+                    break
+                except ValueError:
+                    logging.error(f"Risposta non JSON per {group}")
+                    break
                 except Exception as e:
                     logging.error(f"Error fetching {group}: {e}")
                     break
@@ -588,8 +639,8 @@ class PlaylistGenerator:
                 cursor = 0
                 while True:
                     data = {
-                        "language": "en",
-                        "region": "US",
+                        "language": "de",
+                        "region": "AT",
                         "catalogId": "iptv",
                         "id": "iptv",
                         "adult": False,
