@@ -1,5 +1,5 @@
 #EXTM3U
-# Partite di oggi e stream Gist - generato il 2026-11-11 02:23 CET
+# Partite di oggi e stream Gist - generato il 2026-11-11 06:15 CET
 #EXTINF:-1 tvg-id="volley1" tvg-logo="https://i.ytimg.com/vi/pOzB0tweMzo/hq720.jpg" tvg-name="Turan TOVUZ vs Maritza PLOVDIV - CEV Champions League Volley 2027",Turan TOVUZ vs Maritza PLOVDIV - CEV Champions League Volley 2027
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/689878fa86603c8064b82367/ULCdX19KTm8F/2026/11/10/13_12_3/index.m3u8
 #EXTINF:-1 tvg-id="volley2" tvg-logo="https://assets-jpcust.jwpsrv.com/thumbnails/Yc7fr7Jc-480.jpg" tvg-name="GKS Katowice VS InPost ChKS Chelm - Liga Masculina de Polonia",GKS Katowice VS InPost ChKS Chelm - Liga Masculina de Polonia
@@ -8,3 +8,31 @@ https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fs
 https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/689878fa86603c8064b82367/DR2BBgrFE0ho/2026/11/10/17_1_34/index.m3u8
 #EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.postimg.cc/hGPdWcyd/superligabrazil.png" tvg-name="Norde Volei vs Sada Cruzeiro | Brazilian Super liga",Norde Volei vs Sada Cruzeiro | Brazilian Super liga
 https://rdcanais.org/sportv2
+#EXTINF:-1 tvg-id="volley5" tvg-logo="https://i.postimg.cc/50BKmDPX/vleague.jpg" tvg-name="Woori vs KAL Jumbos |  Volleyball League",Woori vs KAL Jumbos |  Volleyball League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fvolleyball-league-2267723%2Fwoori-vs-kal-jumbos.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley6" tvg-logo="https://i.postimg.cc/50BKmDPX/vleague.jpg" tvg-name="Hyundai E&C Hillstate Women vs GS Caltex Women |  Volleyball League Women",Hyundai E&C Hillstate Women vs GS Caltex Women |  Volleyball League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fvolleyball-league-women-2267724%2Fhyundai-ec-hillstate-women-vs-gs-caltex-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley7" tvg-logo="https://i.postimg.cc/vmTD9xSr/axa.jpg" tvg-name="Galatasaray vs Gebze |  Turkish Cup",Galatasaray vs Gebze |  Turkish Cup
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fturkish-cup-2266892%2Fgalatasaray-vs-gebze.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley8" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Norwid Czestochowa vs Barkom |  Poland Plus Liga",Norwid Czestochowa vs Barkom |  Poland Plus Liga
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fpoland-plus-liga-2268567%2Fnorwid-czestochowa-vs-barkom.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley9" tvg-logo="https://i.postimg.cc/hvNfY0rP/cev.png" tvg-name="Asterix Avo Women vs AJM/FC Porto Women |  CEV Champions League Women",Asterix Avo Women vs AJM/FC Porto Women |  CEV Champions League Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fcev-champions-league-women-2268582%2Fasterix-avo-women-vs-ajm-fc-porto-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley10" tvg-logo="https://i.postimg.cc/hvNfY0rP/cev.png" tvg-name="Levski Sofia vs HAOK Mladost |  CEV Champions League",Levski Sofia vs HAOK Mladost |  CEV Champions League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fcev-champions-league-2268594%2Flevski-sofia-vs-haok-mladost.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley11" tvg-logo="https://i.postimg.cc/ZKtv0P98/serie-A1.png" tvg-name="Macerata Women vs Talmassons Women |  Serie A1 Women",Macerata Women vs Talmassons Women |  Serie A1 Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fserie-a1-women-2268598%2Fmacerata-women-vs-talmassons-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley12" tvg-logo="https://i.postimg.cc/ZKtv0P98/serie-A1.png" tvg-name="Firenze Women vs Chieri '76 Women |  Serie A1 Women",Firenze Women vs Chieri '76 Women |  Serie A1 Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fserie-a1-women-2268603%2Ffirenze-women-vs-chieri-76-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley13" tvg-logo="https://i.postimg.cc/ZKtv0P98/serie-A1.png" tvg-name="Novara Women vs Imoco Volley Conegliano Women |  Serie A1 Women",Novara Women vs Imoco Volley Conegliano Women |  Serie A1 Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fserie-a1-women-2268604%2Fnovara-women-vs-imoco-volley-conegliano-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley14" tvg-logo="https://i.postimg.cc/ZKtv0P98/serie-A1.png" tvg-name="San Giovanni Women vs Scandicci Women |  Serie A1 Women",San Giovanni Women vs Scandicci Women |  Serie A1 Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fserie-a1-women-2268605%2Fsan-giovanni-women-vs-scandicci-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley15" tvg-logo="https://i.postimg.cc/ZKtv0P98/serie-A1.png" tvg-name="UYBA Busto Arsizio Women vs Vallefoglia Women |  Serie A1 Women",UYBA Busto Arsizio Women vs Vallefoglia Women |  Serie A1 Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fserie-a1-women-2268606%2Fuyba-busto-arsizio-women-vs-vallefoglia-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley16" tvg-logo="https://i.postimg.cc/ZKtv0P98/serie-A1.png" tvg-name="Saugella Team Monza Women vs Brescia Women |  Serie A1 Women",Saugella Team Monza Women vs Brescia Women |  Serie A1 Women
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fserie-a1-women-2268607%2Fsaugella-team-monza-women-vs-brescia-women.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley17" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Kedzierzyn-Kozle vs Rzeszow |  Poland Plus Liga",Kedzierzyn-Kozle vs Rzeszow |  Poland Plus Liga
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fpoland-plus-liga-2268608%2Fkedzierzyn-kozle-vs-rzeszow.html&redirect_stream=true&api_password=Milito22.
+#EXTINF:-1 tvg-id="volley18" tvg-logo="https://i.postimg.cc/hvNfY0rP/cev.png" tvg-name="Sporting CP vs Khilasedichi Baku |  CEV Champions League",Sporting CP vs Khilasedichi Baku |  CEV Champions League
+https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fcev-champions-league-2268609%2Fsporting-cp-vs-khilasedichi-baku.html&redirect_stream=true&api_password=Milito22.
