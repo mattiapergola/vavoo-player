@@ -1,30 +1,8 @@
 #EXTM3U
-# Partite di oggi e stream Gist - generato il 2026-11-14 23:53 CET
+# Partite di oggi e stream Gist - generato il 2026-11-15 03:26 CET
 #EXTINF:-1 tvg-id="volley1" tvg-logo="https://i.ytimg.com/vi/6NnMLCmcY3M/hq720.jpg" tvg-name="MONTES CLAROS X SESI BAURU - SUPERLIGA MASCULINA DE VÔLEI",MONTES CLAROS X SESI BAURU - SUPERLIGA MASCULINA DE VÔLEI
 https://rdcanais.org/sportv2
-#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.ytimg.com/vi/m-6gUiw-d6M/hq720.jpg" tvg-name="DEPORTIVO WANKA VS OLVA LATINO - Liga Peruana de Voley",DEPORTIVO WANKA VS OLVA LATINO - Liga Peruana de Voley
+#EXTINF:-1 tvg-id="volley2" tvg-logo="https://i.ytimg.com/vi/MTPMS6ViTd0/hq720.jpg" tvg-name="SAN MARTIN VS ALIANZA LIMA - Liga Peruana de Voley",SAN MARTIN VS ALIANZA LIMA - Liga Peruana de Voley
 https://live-evg20.tv360.bitel.com.pe/sKZkrZ1E116uYBkkEW2AXA/1794771285/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="volley3" tvg-logo="https://i.ytimg.com/vi/MTPMS6ViTd0/hq720.jpg" tvg-name="SAN MARTIN VS ALIANZA LIMA - Liga Peruana de Voley",SAN MARTIN VS ALIANZA LIMA - Liga Peruana de Voley
-https://live-evg20.tv360.bitel.com.pe/sKZkrZ1E116uYBkkEW2AXA/1794771285/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u7
-#EXTINF:-1 tvg-id="volley4" tvg-logo="https://i.ytimg.com/vi/aNDyNxGBAGs/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCn4mOtZ5K2gCkQ-AXa0wu3rMywNQ" tvg-name="Altino Women vs Leonessa Altamura W |   Italy Serie A2 Women",Altino Women vs Leonessa Altamura W |   Italy Serie A2 Women
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaNDyNxGBAGs
-#EXTINF:-1 tvg-id="volley5" tvg-logo="https://i.ytimg.com/vi/ImtWsLJNUzg/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAXcPyrfYGq5DXHL5dpUhmGJbxRWw" tvg-name="Offanengo Women vs Roma Women |   Italy Serie A2 Women",Offanengo Women vs Roma Women |   Italy Serie A2 Women
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DImtWsLJNUzg%26pp%3D0gcJCccHAYcqIYzv
-#EXTINF:-1 tvg-id="volley6" tvg-logo="https://i.postimg.cc/YSdpCpgC/TAURON-Liga-landscape.png" tvg-name="Zawiercie vs Cuprum |   Poland Plus Liga",Zawiercie vs Cuprum |   Poland Plus Liga
-https://proxyfacilissimo.dpdns.org/extractor/video?host=fctv33&d=https%3A%2F%2Fsite04.superabbit77hd.skin%2Fvolleyball%2Fpoland-plus-liga-2271915%2Fzawiercie-vs-cuprum.html&redirect_stream=true&api_password=Milito22.
-#EXTINF:-1 tvg-id="volley7" tvg-logo="https://i.ytimg.com/vi/sUAaQYsvP4g/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCIYQhoNx0jCNmyNSFYHCNUvn-Y9A" tvg-name="Vallefoglia Women vs Firenze Women |   Serie A1 Women",Vallefoglia Women vs Firenze Women |   Serie A1 Women
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsUAaQYsvP4g
-#EXTINF:-1 tvg-id="volley8" tvg-logo="https://i.postimg.cc/wj6zGrcx/peru.png" tvg-name="Circolo W vs Peru W | LNSV Women",Circolo W vs Peru W | LNSV Women
-https://www.facebook.com/LigaPeruanadeVoleybetsson/videos/2673963929714555
-#EXTINF:-1 tvg-id="volley9" tvg-logo="https://i.postimg.cc/wj6zGrcx/peru.png" tvg-name="Wanka W vs Latino Amisa W | LNSV Women",Wanka W vs Latino Amisa W | LNSV Women
-https://www.facebook.com/100044935040872/videos/1454234680019149?locale=es_LA
-#EXTINF:-1 tvg-id="volley10" tvg-logo="https://i.ytimg.com/vi/P6hd9jRQhQs/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAdb3BIbuycEdzSK-B-QpKKrdKBRw" tvg-name="Alanya Bld vs Altekma | Efeler Ligi",Alanya Bld vs Altekma | Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DP6hd9jRQhQs
-#EXTINF:-1 tvg-id="volley11" tvg-logo="https://i.ytimg.com/vi/BcNZF4uFStM/hqdefault.jpg?v=6af16d8d&sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLB-XgQEbKiyZ6DFfgfLovKDuGEe0A" tvg-name="Onikisubat vs Sungurlu | Efeler Ligi",Onikisubat vs Sungurlu | Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBcNZF4uFStM
-#EXTINF:-1 tvg-id="volley12" tvg-logo="https://i.ytimg.com/vi/B1pLIv-7-yQ/hqdefault.jpg?v=6af16d4e&sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLAkXx4JM6KYANgNfyPGGbYNTGuYIg" tvg-name="Spor Toto vs Istanbul GSK | Efeler Ligi",Spor Toto vs Istanbul GSK | Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB1pLIv-7-yQ
-#EXTINF:-1 tvg-id="volley13" tvg-logo="https://i.ytimg.com/vi/Klu7Z6QkI1w/hqdefault.jpg?v=6af16dc7&sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLCVY_MI5bscSUm9PSTI_lViets37A" tvg-name="Istanbul BB vs Gaziantep Genclik | Efeler Ligi",Istanbul BB vs Gaziantep Genclik | Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKlu7Z6QkI1w
-#EXTINF:-1 tvg-id="volley14" tvg-logo="https://i.ytimg.com/vi/HA-fJKgf7_s/hq720.jpg?sqp=-oaymwErCNAFEJQDSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuAL3GA==&rs=AOn4CLA3tJ9dmNPWYPGPCzl1T1AEPOgqLg" tvg-name="Halkbank vs Sultanbeyli | Efeler Ligi",Halkbank vs Sultanbeyli | Efeler Ligi
-https://omgtvreal.dpdns.org/yt-play?token=MattiaPergola00&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHA-fJKgf7_s
+#EXTINF:-1 tvg-id="volley3" tvg-logo="https://i.postimg.cc/wj6zGrcx/peru.png" tvg-name="San Martin de Porres W vs Alianza Lima W | LNSV Women",San Martin de Porres W vs Alianza Lima W | LNSV Women
+https://www.facebook.com/100044935040872/videos/1836135584305352
