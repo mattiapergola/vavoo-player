@@ -20,39 +20,61 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 1
+
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.10'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
+
       - name: Check generator syntax
         run: python -m py_compile src/playlist_generator.py generate_playlist.py
-      - name: Generate Playlist and EPG
+
+      - name: Generate playlist and EPG
         run: python generate_playlist.py --output playlist.m3u8 --epg-output epg.xml
-      - name: Validate generated playlist
+
+      - name: Validate playlist
         run: |
           test -s playlist.m3u8
           grep -q '^#EXTM3U' playlist.m3u8
           grep -q '^#EXTINF' playlist.m3u8
-      - name: Commit and push playlist and EPG
+
+      # The EPG is kept as a downloadable Actions artifact, not committed to Git.
+      - name: Archive generated EPG
+        run: |
+          test -s epg.xml
+          gzip -9 -c epg.xml > epg.xml.gz
+
+      - name: Upload EPG artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-epg
+          path: epg.xml.gz
+          retention-days: 7
+          if-no-files-found: error
+
+      - name: Commit and push playlist.m3u8 only
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-          git add playlist.m3u8 epg.xml
+          git add playlist.m3u8
           if ! git diff --cached --quiet; then
-            git commit -m "Auto-update playlist and EPG [skip ci]"
+            git commit -m "Auto-update playlist.m3u8 [skip ci]"
             git pull --rebase --autostash origin master
             git push
           fi
+
       - name: Generate playlist.m3u via proxy
         run: |
           RAW_URL="https://raw.githubusercontent.com/${{ github.repository }}/master/playlist.m3u8"
           curl --retry 3 --retry-delay 2 -fsSL "https://vavooproxy.dpdns.org/playlist?url=${RAW_URL}" -o playlist.m3u
           test -s playlist.m3u
           grep -q '^#EXTM3U' playlist.m3u
+
       - name: Commit and push playlist.m3u
         run: |
           git add playlist.m3u
@@ -60,3 +82,4 @@ jobs:
             git commit -m "Auto-update playlist.m3u [skip ci]"
             git pull --rebase --autostash origin master
             git push
+          fi
