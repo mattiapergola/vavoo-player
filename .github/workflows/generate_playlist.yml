@@ -2,70 +2,61 @@ name: Generate Playlist
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Daily at midnight
-  workflow_dispatch: # Allow manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: generate-playlist
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
         with:
           fetch-depth: 1
-          token: ${{ github.token }}
-
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
           python-version: '3.10'
-
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
-
+          python -m pip install -r requirements.txt
+      - name: Check generator syntax
+        run: python -m py_compile src/playlist_generator.py generate_playlist.py
       - name: Generate Playlist and EPG
+        run: python generate_playlist.py --output playlist.m3u8 --epg-output epg.xml
+      - name: Validate generated playlist
         run: |
-          python generate_playlist.py --output playlist.m3u8 --epg-output epg.xml
-
-      - name: Generate Playlist
-        run: |
-          python generate_playlist.py --output playlist.m3u8
-
-      - name: Commit and Push playlist.m3u8
+          test -s playlist.m3u8
+          grep -q '^#EXTM3U' playlist.m3u8
+          grep -q '^#EXTINF' playlist.m3u8
+      - name: Commit and push playlist and EPG
         run: |
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git config user.name "github-actions[bot]"
-
-          git add playlist.m3u8
-
-          if git diff --cached --quiet; then
-            echo "No changes to playlist.m3u8"
-          else
-            git commit -m "Auto-update playlist.m3u8 [skip ci]"
+          git add playlist.m3u8 epg.xml
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update playlist and EPG [skip ci]"
             git pull --rebase --autostash origin master
             git push
           fi
-
       - name: Generate playlist.m3u via proxy
         run: |
           RAW_URL="https://raw.githubusercontent.com/${{ github.repository }}/master/playlist.m3u8"
-          curl -fsSL "https://vavooproxy.dpdns.org/playlist?url=${RAW_URL}" -o playlist.m3u
-
-      - name: Commit and Push playlist.m3u
+          curl --retry 3 --retry-delay 2 -fsSL "https://vavooproxy.dpdns.org/playlist?url=${RAW_URL}" -o playlist.m3u
+          test -s playlist.m3u
+          grep -q '^#EXTM3U' playlist.m3u
+      - name: Commit and push playlist.m3u
         run: |
           git add playlist.m3u
-
-          if git diff --cached --quiet; then
-            echo "No changes to playlist.m3u"
-            exit 0
-          fi
-
-          git commit -m "Auto-update playlist.m3u [skip ci]"
-          git pull --rebase --autostash origin master
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update playlist.m3u [skip ci]"
+            git pull --rebase --autostash origin master
+            git push
