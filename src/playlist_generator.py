@@ -8,6 +8,7 @@ import time
 import os
 import sys
 import logging
+import re
 import urllib3
 # Add parent dir to sys.path to resolve data_manager if needed
 sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
@@ -515,113 +516,69 @@ class PlaylistGenerator:
         return self._get_auth_signature()
 
     def fetch_all_channels(self, target_groups=None):
-        """
-        Fetches channels from the API.
-
-        Args:
-            target_groups (list): List of groups to fetch. If None, uses default GROUPS.
-
-        Returns:
-            list: List of channel dictionaries.
-        """
+        """Recupera il catalogo aggiornato, mantenendo il formato del progetto."""
         if target_groups is None:
             target_groups = GROUPS
 
-        sig = self.get_signature()
-        if not sig:
-            logging.error("Could not obtain signature. Aborting fetch.")
-            return []
-
-        all_channels = []
+        endpoint = "https://geil.to/live/catalog/live/channels.json"
+        channels = []
         seen_urls = set()
+        seen_names = set()
 
         for group in target_groups:
-            logging.info(f"Fetching group: {group}...")
-            cursor = 0
-            group_items = 0
+            cursor = None
+            visited_cursors = set()
+            group_count = 0
+            for page in range(100):
+                params = {"region": "DE", "language": "it", "filter[group]": group}
+                if cursor:
+                    params["cursor"] = cursor
 
-            while True:
-                data = {
-                    "language": "de",
-                    "region": "AT",
-                    "catalogId": "iptv",
-                    "id": "iptv",
-                    "adult": False,
-                    "search": "",
-                    "sort": "name",
-                    "filter": {"group": group},
-                    "cursor": cursor,
-                    "clientVersion": "3.0.2"
-                }
-
-                headers = {
-                    "user-agent": USER_AGENT,
-                    "accept": "application/json",
-                    "content-type": "application/json; charset=utf-8",
-                    "mediahubmx-signature": sig
-                }
-
-                try:
-                    r = _http_session.post(
-                        VAOO_URL,
-                        json=data,
-                        headers=headers,
-                        timeout=15,
-                        verify=False
-                    )
-
-                    if r.status_code != 200:
-                        logging.error(
-                            f"Errore Vavoo per {group}: HTTP {r.status_code} - {r.text[:300]}"
-                        )
+                result = None
+                for attempt in range(3):
+                    try:
+                        response = _http_session.get(endpoint, params=params, timeout=15)
+                        response.raise_for_status()
+                        result = response.json()
+                        if not isinstance(result, dict):
+                            raise ValueError("Formato JSON del catalogo non valido")
                         break
-
-                    res = r.json()
-                    items = res.get("items", [])
-                    if not items:
-                        break
-
-                    for item in items:
-                        url = item.get("url")
-                        name = item.get("name")
-                        seen_key = (name, url)
-
-                        if url and seen_key not in seen_urls:
-                            clean_item = {
-                                "name": name,
-                                "url": url,
-                                "group": group,
-                                "logo": item.get("logo")
-                            }
-                            all_channels.append(clean_item)
-                            seen_urls.add(seen_key)
-                            group_items += 1
-
-                    cursor = res.get("nextCursor")
-                    if cursor is None:
-                        break
-
-                except requests.exceptions.RequestException as e:
-                    logging.error(f"Errore di rete per {group}: {e}")
-                    break
-                except ValueError:
-                    logging.error(f"Risposta non JSON per {group}")
-                    break
-                except Exception as e:
-                    logging.error(f"Error fetching {group}: {e}")
+                    except (requests.RequestException, ValueError) as exc:
+                        logging.warning("Catalogo %s, pagina %s, tentativo %s: %s", group, page + 1, attempt + 1, exc)
+                        if attempt < 2:
+                            time.sleep(attempt + 1)
+                if result is None:
                     break
 
-            logging.info(f" > Found {group_items} channels in {group}")
+                for item in result.get("items", []):
+                    if not isinstance(item, dict):
+                        continue
+                    url = item.get("url")
+                    name = re.sub(r"\s*\(\d+\)\s*$", "", str(item.get("name") or "")).strip()
+                    if not url or not name:
+                        continue
+                    tags = item.get("tags") or []
+                    channel_group = tags[0] if tags else group
+                    key = (str(channel_group).casefold(), name.casefold())
+                    if url in seen_urls or key in seen_names:
+                        continue
+                    seen_urls.add(url)
+                    seen_names.add(key)
+                    channels.append({"name": name, "url": url, "group": channel_group,
+                                     "logo": item.get("logo")})
+                    group_count += 1
 
-        # Always search for RSI specifically to ensure we catch all variants and groups
-        rsi_channels = self.brute_force_search_rsi(sig)
-        for rsi_ch in rsi_channels:
-            seen_key = (rsi_ch['name'], rsi_ch['url'])
-            if seen_key not in seen_urls:
-                all_channels.append(rsi_ch)
-                seen_urls.add(seen_key)
+                next_cursor = result.get("nextCursor")
+                if not next_cursor or next_cursor == cursor or next_cursor in visited_cursors:
+                    break
+                if cursor:
+                    visited_cursors.add(cursor)
+                cursor = next_cursor
+            logging.info("Catalogo %s: %d canali", group, group_count)
 
-        return all_channels
+        if not channels:
+            logging.error("Nessun canale disponibile: la playlist esistente non verrà sostituita.")
+        return channels
 
     def brute_force_search_rsi(self, sig):
         """Searches specifically for RSI channels in likely groups."""
@@ -748,14 +705,6 @@ class PlaylistGenerator:
             groups (list): Groups to include.
             is_xc (bool): If True, generates XCIPTV/Ottrun compatible format.
         """
-        # 1. Delete existing playlist if it exists
-        if os.path.exists(output_path):
-            try:
-                os.remove(output_path)
-                logging.info(f"Deleted existing playlist: {output_path}")
-            except OSError as e:
-                logging.warning(f"Error deleting existing playlist: {e}")
-
         channels = self.fetch_all_channels(groups)
         logging.info(f"DEBUG: fetch_all_channels returned {len(channels)} items.")
 
