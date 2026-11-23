@@ -1,41 +1,168 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mich-de/vavoo-player/master/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/epg.xml"
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Rai1.it.png" channel="Rai1.it" group-title="TV Sat",RAI 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="RAI 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai1.it.png" channel="Rai1.it" group-title="TV Sat",RAI 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F875922788
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Rai2.it.png" channel="Rai2.it" group-title="TV Sat",RAI 2
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="RAI 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai2.it.png" channel="Rai2.it" group-title="TV Sat",RAI 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1939210164
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Rai3.it.png" channel="Rai3.it" group-title="TV Sat",RAI 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="RAI 3" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai3.it.png" channel="Rai3.it" group-title="TV Sat",RAI 3
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1324733956
-##EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rete4.it.png" channel="Rete4.it" group-title="Intrattenimento",RETE 4
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4198218214
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="RETE 4" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rete4.it.png" channel="Rete4.it" group-title="TV Sat",RETE 4
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4198218214
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Canale5.it.png" channel="Canale5.it" group-title="Intrattenimento",CANALE 5
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1534161807
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="CANALE 5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Canale5.it.png" channel="Canale5.it" group-title="TV Sat",CANALE 5
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1534161807
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Italia1.it.png" channel="Italia1.it" group-title="Intrattenimento",ITALIA 1
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F663536394
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="ITALIA 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Italia1.it.png" channel="Italia1.it" group-title="TV Sat",ITALIA 1
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F663536394
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La7.it.png" channel="La7.it" group-title="Intrattenimento",LA7
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2143522071
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="La7D.it" tvg-name="LA7D" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La7D.it.png" channel="La7D.it" group-title="Intrattenimento",LA7D
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F881846038
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La7.it.png" channel="La7.it" group-title="TV Sat",LA7
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2143522071
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="La7D.it" tvg-name="LA7D" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La7D.it.png" channel="La7D.it" group-title="TV Sat",LA7D
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F881846038
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV8.it" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV8.it.png" channel="TV8.it" group-title="TV Sat",TV8
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4038365720
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="Intrattenimento",NOVE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1574591400
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="Intrattenimento",NOVE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F626836488
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="Intrattenimento",NOVE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F867216452
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="TV Sat",NOVE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1574591400
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="TV Sat",NOVE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F626836488
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NOVE.it.png" channel="Nove.it" group-title="TV Sat",NOVE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F867216452
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="RAI 4" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4.it.png" channel="Rai4.it" group-title="TV Sat",RAI 4
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4241820180
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3582607806
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2049087681
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F374675593
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="Cinema",IRIS
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F576490047
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="Cinema",IRIS
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F23919988
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="TV Sat",IRIS
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F576490047
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="TV Sat",IRIS
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F23919988
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La5.it.png" channel="La5.it" group-title="Cinema",LA5
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F84139639
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="La5.it" tvg-name="LA5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/La5.it.png" channel="La5.it" group-title="TV Sat",LA5
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F84139639
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="RAI 5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai5.it.png" channel="Rai5.it" group-title="TV Sat",RAI 5
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3249873828
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiMovie.it.png" channel="RaiMovie.it" group-title="Cinema",RAI MOVIE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2835672487
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RAI MOVIE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiMovie.it.png" channel="RaiMovie.it" group-title="TV Sat",RAI MOVIE
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2835672487
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiPremium.it.png" channel="RaiPremium.it" group-title="Cinema",RAI PREMIUM
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2861734300
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RAI PREMIUM" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiPremium.it.png" channel="RaiPremium.it" group-title="TV Sat",RAI PREMIUM
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2861734300
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MediasetExtra.it.png" channel="MediasetExtra.it" group-title="Intrattenimento",MEDIASET EXTRA
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F477466531
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MEDIASET EXTRA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MediasetExtra.it.png" channel="MediasetExtra.it" group-title="TV Sat",MEDIASET EXTRA
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F477466531
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV2000.it.png" channel="TV2000.it" group-title="Intrattenimento",TV2000
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1949044924
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV2000.it.png" channel="TV2000.it" group-title="Intrattenimento",TV2000
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1133734972
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV2000.it.png" channel="TV2000.it" group-title="TV Sat",TV2000
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1949044924
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TV2000.it.png" channel="TV2000.it" group-title="TV Sat",TV2000
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1133734972
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="CIELO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/cielo.it.png" channel="cielo.it" group-title="TV Sat",CIELO
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2719953688
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset20.it.png" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1230338185
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset20.it.png" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F633342961
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-name="20 MEDIASET" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset20.it.png" channel="Mediaset20.it" group-title="TV Sat",20 MEDIASET
+https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3134481201
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2924135092
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F551730224
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
+#EXTINF:-1 tvg-id="RAISport.it" tvg-name="RAI SPORT" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/rai-sport-hd-it.svg" channel="RAISport.it" group-title="TV Sat",RAI SPORT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F843891896
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RaiStoria.it.png" channel="RaiStoria.it" group-title="TV Sat",RAI STORIA
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RAI STORIA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiStoria.it.png" channel="RaiStoria.it" group-title="TV Sat",RAI STORIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F78838793
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RaiNews.it.png" channel="RaiNews.it" group-title="News",RAI NEWS 24
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiNews.it.png" channel="RaiNews.it" group-title="News",RAI NEWS 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2272923972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RaiNews.it.png" channel="RaiNews.it" group-title="TV Sat",RAI NEWS 24
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiNews.it.png" channel="RaiNews.it" group-title="TV Sat",RAI NEWS 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2272923972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="News",TGCOM24
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="News",TGCOM24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1785098768
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="News",TGCOM24
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="News",TGCOM24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2418148449
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="TV Sat",TGCOM24
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="TV Sat",TGCOM24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1785098768
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="TV Sat",TGCOM24
+#EXTINF:-1 tvg-id="TgCom24.it" tvg-name="TGCOM24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TgCom24.it.png" channel="TgCom24.it" group-title="TV Sat",TGCOM24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2418148449
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" channel="DISCOVERY DMAX" group-title="Documentary",DISCOVERY DMAX
@@ -44,46 +171,46 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" channel="DISCOVERY DMAX" group-title="Intrattenimento",DISCOVERY DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F519469620
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/DMAX.it.png" channel="DMAX.it" group-title="Intrattenimento",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DMAX.it.png" channel="DMAX.it" group-title="Intrattenimento",DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3008151733
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DISCOVERY DMAX" tvg-name="DISCOVERY DMAX" channel="DISCOVERY DMAX" group-title="TV Sat",DISCOVERY DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F519469620
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/DMAX.it.png" channel="DMAX.it" group-title="TV Sat",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DMAX.it.png" channel="DMAX.it" group-title="TV Sat",DMAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3008151733
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Real.Time.it.png" channel="Real.Time.it" group-title="Intrattenimento",REAL TIME
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Real.Time.it.png" channel="Real.Time.it" group-title="Intrattenimento",REAL TIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1574975196
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Real.Time.it.png" channel="Real.Time.it" group-title="TV Sat",REAL TIME
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="REAL TIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Real.Time.it.png" channel="Real.Time.it" group-title="TV Sat",REAL TIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1574975196
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="Cinema",CINE34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="Cinema",CINE34
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F62558606
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="Cinema",CINE34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="Cinema",CINE34
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1768670187
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="TV Sat",CINE34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="TV Sat",CINE34
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F62558606
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="TV Sat",CINE34
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="CINE34" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Cine34.it.png" channel="Cine34.it" group-title="TV Sat",CINE34
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1768670187
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="Documentary",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="Documentary",FOCUS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2113273064
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="Documentary",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="Documentary",FOCUS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3439223610
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="TV Sat",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="TV Sat",FOCUS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2113273064
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="TV Sat",FOCUS
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Focus.it.png" channel="Focus.it" group-title="TV Sat",FOCUS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3439223610
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RTL1025.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RTL1025.it.png" channel="RTL1025.it" group-title="Music",RTL 102.5
+#EXTINF:-1 tvg-id="RTL1025.it" tvg-name="RTL 102.5" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RTL1025.it.png" channel="RTL1025.it" group-title="Music",RTL 102.5
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3168132911
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DISCOVERY GIALLO" tvg-name="DISCOVERY GIALLO" channel="DISCOVERY GIALLO" group-title="Documentary",DISCOVERY GIALLO
@@ -101,67 +228,67 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="GIALLO" channel="Giallo.TV.it" group-title="TV Sat",GIALLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2373936189
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F444768053
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F354961873
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
+#EXTINF:-1 tvg-id="TOPcrime.it" tvg-name="TOP CRIME" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/TOPcrime.it.png" channel="TOPcrime.it" group-title="TV Sat",TOP CRIME
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F269503091
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="Kids",BOING
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="Kids",BOING
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3373510242
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="Kids",BOING
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="Kids",BOING
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3841982646
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="TV Sat",BOING
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="TV Sat",BOING
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3373510242
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="TV Sat",BOING
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="BOING" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boing.it.png" channel="Boing.it" group-title="TV Sat",BOING
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3841982646
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="Kids",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="Kids",K2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3037871903
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="Kids",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="Kids",K2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2255724318
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="TV Sat",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="TV Sat",K2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3037871903
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="TV Sat",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/K2.it.png" channel="K2.it" group-title="TV Sat",K2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2255724318
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RaiGulp.it.png" channel="RaiGulp.it" group-title="Kids",RAI GULP
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiGulp.it.png" channel="RaiGulp.it" group-title="Kids",RAI GULP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1901652742
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RaiGulp.it.png" channel="RaiGulp.it" group-title="TV Sat",RAI GULP
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RAI GULP" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiGulp.it.png" channel="RaiGulp.it" group-title="TV Sat",RAI GULP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1901652742
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RaiYoyo.it.png" channel="RaiYoyo.it" group-title="Kids",RAI YOYO
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiYoyo.it.png" channel="RaiYoyo.it" group-title="Kids",RAI YOYO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1785501924
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RaiYoyo.it.png" channel="RaiYoyo.it" group-title="TV Sat",RAI YOYO
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RAI YOYO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiYoyo.it.png" channel="RaiYoyo.it" group-title="TV Sat",RAI YOYO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1785501924
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/-frisbee-.it.png" channel="-frisbee-.it" group-title="Kids",FRISBEE
+#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/-frisbee-.it.png" channel="-frisbee-.it" group-title="Kids",FRISBEE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1995860185
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/-frisbee-.it.png" channel="-frisbee-.it" group-title="TV Sat",FRISBEE
+#EXTINF:-1 tvg-id="-frisbee-.it" tvg-name="FRISBEE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/-frisbee-.it.png" channel="-frisbee-.it" group-title="TV Sat",FRISBEE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1995860185
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1987220436
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
+#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="Kids",CARTOONITO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2178717282
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
+#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1987220436
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
+#EXTINF:-1 tvg-id="CARTOONITO.it" tvg-name="CARTOONITO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CARTOONITO.it.png" channel="CARTOONITO.it" group-title="TV Sat",CARTOONITO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2178717282
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" channel="Super!.it" group-title="Kids",SUPER!
@@ -170,115 +297,115 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="Super!.it" tvg-name="SUPER!" channel="Super!.it" group-title="TV Sat",SUPER!
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3550030443
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyTG24.it.png" channel="SkyTG24.it" group-title="News",SKY TG24
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyTG24.it.png" channel="SkyTG24.it" group-title="News",SKY TG24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3376031355
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyTG24.it.png" channel="SkyTG24.it" group-title="TV Sat",SKY TG24
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyTG24.it.png" channel="SkyTG24.it" group-title="TV Sat",SKY TG24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3376031355
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Italia2.it.png" channel="Italia2.it" group-title="TV Sat",ITALIA 2
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Italia2.it.png" channel="Italia2.it" group-title="TV Sat",ITALIA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1613543898
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Italia2.it.png" channel="Italia2.it" group-title="TV Sat",ITALIA 2
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="ITALIA 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Italia2.it.png" channel="Italia2.it" group-title="TV Sat",ITALIA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3538009430
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ITALIA 2 NEWS" tvg-name="ITALIA 2 NEWS" channel="ITALIA 2 NEWS" group-title="TV Sat",ITALIA 2 NEWS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3924446857
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="RADIO ITALIA TV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RadioItaliaTV.it.png" channel="RadioItaliaTV.it" group-title="Music",RADIO ITALIA TV
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-name="RADIO ITALIA TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RadioItaliaTV.it.png" channel="RadioItaliaTV.it" group-title="Music",RADIO ITALIA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3965701937
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RSILA1.it.png" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
+#EXTINF:-1 tvg-id="RSILA1.it" tvg-name="RSI LA 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RSILA1.it.png" channel="RSILA1.it" group-title="TV Sat",RSI LA 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2455610203
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RSILA2.it.png" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
+#EXTINF:-1 tvg-id="RSILA2.it" tvg-name="RSI LA 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RSILA2.it.png" channel="RSILA2.it" group-title="TV Sat",RSI LA 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3590183307
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/DAZN1.it.png" channel="DAZN1.it" group-title="Sport",DAZN 1
+#EXTINF:-1 tvg-id="DAZN1.it" tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DAZN1.it.png" channel="DAZN1.it" group-title="Sport",DAZN 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1376440573
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportUno.it.png" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportUno.it.png" channel="SkySportUno.it" group-title="Sport",SKY SPORT UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F210669162
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportArena.it.png" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
+#EXTINF:-1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportArena.it.png" channel="SkySportArena.it" group-title="Sport",SKY SPORT ARENA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3007400791
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Eurosport1.it" tvg-name="EUROSPORT 1" channel="Eurosport1.it" group-title="Sport",EUROSPORT 1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3481346857
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Eurosport2.it.png" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Eurosport2.it.png" channel="Eurosport2.it" group-title="Sport",EUROSPORT 2
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2283887097
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportCalcio.it.png" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
+#EXTINF:-1 tvg-id="SkySportCalcio.it" tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportCalcio.it.png" channel="SkySportCalcio.it" group-title="Sport",SKY SPORT CALCIO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1665920101
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportF1.it.png" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportF1.it.png" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F4246774056
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportF1.it.png" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
+#EXTINF:-1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportF1.it.png" channel="SkySportF1.it" group-title="Sport",SKY SPORT F1
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2289038972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportTennis.it.png" channel="SkySportTennis.it" group-title="Sport",SKY SPORT TENNIS
+#EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportTennis.it.png" channel="SkySportTennis.it" group-title="Sport",SKY SPORT TENNIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2100771782
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportGolf.it.png" channel="SkySportGolf.it" group-title="Sport",SKY SPORT GOLF
+#EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportGolf.it.png" channel="SkySportGolf.it" group-title="Sport",SKY SPORT GOLF
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F729945219
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportNBA.it.png" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
+#EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportNBA.it.png" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2711959620
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaAction.it.png" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaAction.it.png" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3812796171
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaAction.it.png" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
+#EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaAction.it.png" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2242741766
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaCollection.it.png" channel="SkyCinemaCollection.it" group-title="Cinema",SKY CINEMA COLLECTION
+#EXTINF:-1 tvg-id="SkyCinemaCollection.it" tvg-name="SKY CINEMA COLLECTION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaCollection.it.png" channel="SkyCinemaCollection.it" group-title="Cinema",SKY CINEMA COLLECTION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1759653413
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaComedy.it.png" channel="SkyCinemaComedy.it" group-title="Cinema",SKY CINEMA COMEDY
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="SKY CINEMA COMEDY" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaComedy.it.png" channel="SkyCinemaComedy.it" group-title="Cinema",SKY CINEMA COMEDY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F500203271
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaDrama.it.png" channel="SkyCinemaDrama.it" group-title="Cinema",SKY CINEMA DRAMA
+#EXTINF:-1 tvg-id="SkyCinemaDrama.it" tvg-name="SKY CINEMA DRAMA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaDrama.it.png" channel="SkyCinemaDrama.it" group-title="Cinema",SKY CINEMA DRAMA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1235530177
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaDue.it.png" channel="SkyCinemaDue.it" group-title="Cinema",SKY CINEMA DUE
+#EXTINF:-1 tvg-id="SkyCinemaDue.it" tvg-name="SKY CINEMA DUE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaDue.it.png" channel="SkyCinemaDue.it" group-title="Cinema",SKY CINEMA DUE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1228534500
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaFamily.it.png" channel="SkyCinemaFamily.it" group-title="Cinema",SKY CINEMA FAMILY
+#EXTINF:-1 tvg-id="SkyCinemaFamily.it" tvg-name="SKY CINEMA FAMILY" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaFamily.it.png" channel="SkyCinemaFamily.it" group-title="Cinema",SKY CINEMA FAMILY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F415795144
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaRomance.it.png" channel="SkyCinemaRomance.it" group-title="Cinema",SKY CINEMA ROMANCE
+#EXTINF:-1 tvg-id="SkyCinemaRomance.it" tvg-name="SKY CINEMA ROMANCE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaRomance.it.png" channel="SkyCinemaRomance.it" group-title="Cinema",SKY CINEMA ROMANCE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2890008905
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY CINEMA STORIES" tvg-name="SKY CINEMA STORIES" channel="SKY CINEMA STORIES" group-title="Cinema",SKY CINEMA STORIES
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2451443049
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaSuspense.it.png" channel="SkyCinemaSuspense.it" group-title="Cinema",SKY CINEMA SUSPENSE
+#EXTINF:-1 tvg-id="SkyCinemaSuspense.it" tvg-name="SKY CINEMA SUSPENSE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaSuspense.it.png" channel="SkyCinemaSuspense.it" group-title="Cinema",SKY CINEMA SUSPENSE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1820997555
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaUno.it.png" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaUno.it.png" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2872151911
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyCinemaUno.it.png" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
+#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="SKY CINEMA UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaUno.it.png" channel="SkyCinemaUno.it" group-title="Cinema",SKY CINEMA UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2236517134
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyDocumentaries.it.png" channel="SkyDocumentaries.it" group-title="Documentary",SKY DOCUMENTARIES
+#EXTINF:-1 tvg-id="SkyDocumentaries.it" tvg-name="SKY DOCUMENTARIES" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyDocumentaries.it.png" channel="SkyDocumentaries.it" group-title="Documentary",SKY DOCUMENTARIES
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F464281981
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyArte.it.png" channel="SkyArte.it" group-title="Intrattenimento",SKY ARTE
+#EXTINF:-1 tvg-id="SkyArte.it" tvg-name="SKY ARTE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyArte.it.png" channel="SkyArte.it" group-title="Intrattenimento",SKY ARTE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1806815496
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyAtlantic.it.png" channel="SkyAtlantic.it" group-title="Intrattenimento",SKY ATLANTIC
+#EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyAtlantic.it.png" channel="SkyAtlantic.it" group-title="Intrattenimento",SKY ATLANTIC
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1421393119
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2130523218
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
+#EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2083332887
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="SKY INVESTIGATION" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkyInvestigation.it.png" channel="SkyInvestigation.it" group-title="Other",SKY INVESTIGATION
+#EXTINF:-1 tvg-id="SkyInvestigation.it" tvg-name="SKY INVESTIGATION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyInvestigation.it.png" channel="SkyInvestigation.it" group-title="Other",SKY INVESTIGATION
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1968640789
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 1" tvg-name="SKY PRIMAFILA 1" channel="SKY PRIMAFILA 1" group-title="Primafila / PPV",SKY PRIMAFILA 1
@@ -332,19 +459,19 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 9" tvg-name="SKY PRIMAFILA 9" channel="SKY PRIMAFILA 9" group-title="Primafila / PPV",SKY PRIMAFILA 9
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1134113883
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySport24.it.png" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySport24.it.png" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2775802255
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySport24.it.png" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
+#EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySport24.it.png" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3445562519
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportMax.it.png" channel="SkySportMax.it" group-title="Sport",SKY SPORT MAX
+#EXTINF:-1 tvg-id="SkySportMax.it" tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportMax.it.png" channel="SkySportMax.it" group-title="Sport",SKY SPORT MAX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2066326916
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportMotoGP.it.png" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportMotoGP.it.png" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3036316886
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SkySportMotoGP.it.png" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
+#EXTINF:-1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTO GP" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportMotoGP.it.png" channel="SkySportMotoGP.it" group-title="Sport",SKY SPORT MOTO GP
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2090703806
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SKY SPORT SERIE A" tvg-name="SKY SPORT SERIE A" channel="SKY SPORT SERIE A" group-title="Sport",SKY SPORT SERIE A
@@ -359,10 +486,10 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="PRIMA TV" tvg-name="PRIMA TV" channel="PRIMA TV" group-title="Other",PRIMA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F530658045
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F608774683
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F80896559
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" channel="ANIMAL PLANET" group-title="Documentary",ANIMAL PLANET
@@ -383,13 +510,13 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="DISCOVERY SCIENCE" channel="DiscoveryScience.it" group-title="Documentary",DISCOVERY SCIENCE
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3088028964
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/History.it.png" channel="History.it" group-title="Documentary",HISTORY
+#EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/History.it.png" channel="History.it" group-title="Documentary",HISTORY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F317837654
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" channel="NAT GEO" group-title="Documentary",NAT GEO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1735702308
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/NatGeoWild.it.png" channel="NatGeoWild.it" group-title="Documentary",NAT GEO WILD
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="NAT GEO WILD" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/NatGeoWild.it.png" channel="NatGeoWild.it" group-title="Documentary",NAT GEO WILD
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3229664409
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" channel="PESCA" group-title="Documentary",PESCA
@@ -398,22 +525,22 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="PescaCaccia.it" tvg-name="PESCA E CACCIA" channel="PescaCaccia.it" group-title="Documentary",PESCA E CACCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3124512993
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/ComedyCentral.it.png" channel="ComedyCentral.it" group-title="Intrattenimento",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/ComedyCentral.it.png" channel="ComedyCentral.it" group-title="Intrattenimento",COMEDY CENTRAL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F433893159
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Fox.it.png" channel="Fox.it" group-title="Intrattenimento",FOX
+#EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Fox.it.png" channel="Fox.it" group-title="Intrattenimento",FOX
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F563160609
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="BABY TV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/BabyTV.it.png" channel="BabyTV.it" group-title="Kids",BABY TV
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="BABY TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/BabyTV.it.png" channel="BabyTV.it" group-title="Kids",BABY TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2265727942
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="BOOMERANG" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Boomerang.it.png" channel="Boomerang.it" group-title="Kids",BOOMERANG
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="BOOMERANG" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Boomerang.it.png" channel="Boomerang.it" group-title="Kids",BOOMERANG
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2705627802
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/CartoonNetwork.it.png" channel="CartoonNetwork.it" group-title="Kids",CARTOON NETWORK
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="CARTOON NETWORK" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/CartoonNetwork.it.png" channel="CartoonNetwork.it" group-title="Kids",CARTOON NETWORK
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1744435623
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DEAKIDS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/DeAKids.it.png" channel="DeAKids.it" group-title="Kids",DEAKIDS
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DEAKIDS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DeAKids.it.png" channel="DeAKids.it" group-title="Kids",DEAKIDS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3650430578
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="IUNIOR TV" tvg-name="IUNIOR TV" channel="IUNIOR TV" group-title="Kids",IUNIOR TV
@@ -422,7 +549,7 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR" channel="NICK JR" group-title="Kids",NICK JR
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F380958472
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Nickelodeon.it.png" channel="Nickelodeon.it" group-title="Kids",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Nickelodeon.it.png" channel="Nickelodeon.it" group-title="Kids",NICKELODEON
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3039389215
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CANALE 21 EXTRA" tvg-name="CANALE 21 EXTRA" channel="CANALE 21 EXTRA" group-title="Locali",CANALE 21 EXTRA
@@ -473,7 +600,7 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="CLASSICA" tvg-name="CLASSICA" channel="CLASSICA" group-title="Music",CLASSICA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F64060922
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/DeejayTV.it.png" channel="DeejayTV.it" group-title="Music",DEEJAY TV
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-name="DEEJAY TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DeejayTV.it.png" channel="DeejayTV.it" group-title="Music",DEEJAY TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F963607327
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="KISS KISS" tvg-name="KISS KISS" channel="KISS KISS" group-title="Music",KISS KISS
@@ -494,16 +621,16 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="RADIO CAPITAL" tvg-name="RADIO CAPITAL" channel="RADIO CAPITAL" group-title="Music",RADIO CAPITAL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F421441745
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIOFRECCIA.it" tvg-name="RADIO FRECCIA" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RADIOFRECCIA.it.png" channel="RADIOFRECCIA.it" group-title="Music",RADIO FRECCIA
+#EXTINF:-1 tvg-id="RADIOFRECCIA.it" tvg-name="RADIO FRECCIA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RADIOFRECCIA.it.png" channel="RADIOFRECCIA.it" group-title="Music",RADIO FRECCIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1711134994
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RADIO ITALIA TREND TV" tvg-name="RADIO ITALIA TREND TV" channel="RADIO ITALIA TREND TV" group-title="Music",RADIO ITALIA TREND TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1569413917
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RadioMonteCarlo.it" tvg-name="RADIO MONTE CARLO" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RadioMonteCarlo.it.png" channel="RadioMonteCarlo.it" group-title="Music",RADIO MONTE CARLO
+#EXTINF:-1 tvg-id="RadioMonteCarlo.it" tvg-name="RADIO MONTE CARLO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RadioMonteCarlo.it.png" channel="RadioMonteCarlo.it" group-title="Music",RADIO MONTE CARLO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3650422887
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RADIONORBATV.it" tvg-name="RADIONORBA TV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RADIONORBATV.it.png" channel="RADIONORBATV.it" group-title="Music",RADIONORBA TV
+#EXTINF:-1 tvg-id="RADIONORBATV.it" tvg-name="RADIONORBA TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RADIONORBATV.it.png" channel="RADIONORBATV.it" group-title="Music",RADIONORBA TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2627662768
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RDS SOCIAL" tvg-name="RDS SOCIAL" channel="RDS SOCIAL" group-title="Music",RDS SOCIAL
@@ -524,7 +651,7 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="BLOOMBERG TV EMEA LIVE EVENT" tvg-name="BLOOMBERG TV EMEA LIVE EVENT" channel="BLOOMBERG TV EMEA LIVE EVENT" group-title="News",BLOOMBERG TV EMEA LIVE EVENT
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2530106969
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Euronews.it" tvg-name="EURONEWS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Euronews.it.png" channel="Euronews.it" group-title="News",EURONEWS
+#EXTINF:-1 tvg-id="Euronews.it" tvg-name="EURONEWS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Euronews.it.png" channel="Euronews.it" group-title="News",EURONEWS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F490955579
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TG NORBA 24" tvg-name="TG NORBA 24" channel="TG NORBA 24" group-title="News",TG NORBA 24
@@ -731,7 +858,7 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="LAC NEWS 24" tvg-name="LAC NEWS 24" channel="LAC NEWS 24" group-title="Other",LAC NEWS 24
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F372287300
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="LazioStyleCh.it" tvg-name="LAZIO STYLE CHANNEL" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/LazioStyleCh.it.png" channel="LazioStyleCh.it" group-title="Other",LAZIO STYLE CHANNEL
+#EXTINF:-1 tvg-id="LazioStyleCh.it" tvg-name="LAZIO STYLE CHANNEL" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/LazioStyleCh.it.png" channel="LazioStyleCh.it" group-title="Other",LAZIO STYLE CHANNEL
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F205734525
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="LAZIO TV 13" tvg-name="LAZIO TV 13" channel="LAZIO TV 13" group-title="Other",LAZIO TV 13
@@ -1031,7 +1158,7 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="YUGIOH ITALY" tvg-name="YUGIOH ITALY" channel="YUGIOH ITALY" group-title="Other",YUGIOH ITALY
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2849811027
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ACISportTv.it" tvg-name="ACI SPORT TV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/ACISportTv.it.png" channel="ACISportTv.it" group-title="Sport",ACI SPORT TV
+#EXTINF:-1 tvg-id="ACISportTv.it" tvg-name="ACI SPORT TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/ACISportTv.it.png" channel="ACISportTv.it" group-title="Sport",ACI SPORT TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1351631603
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" channel="CACCIA" group-title="Sport",CACCIA
@@ -1049,16 +1176,16 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="EUROSPORT 6" tvg-name="EUROSPORT 6" channel="EUROSPORT 6" group-title="Sport",EUROSPORT 6
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3421031748
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="InterTV.it" tvg-name="INTER TV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/InterTV.it.png" channel="InterTV.it" group-title="Sport",INTER TV
+#EXTINF:-1 tvg-id="InterTV.it" tvg-name="INTER TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/InterTV.it.png" channel="InterTV.it" group-title="Sport",INTER TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2973773076
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/MilanTV.it.png" channel="MilanTV.it" group-title="Sport",MILAN TV
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="MILAN TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MilanTV.it.png" channel="MilanTV.it" group-title="Sport",MILAN TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3657217948
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3445330307
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3758728323
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" channel="PESCA" group-title="Sport",PESCA
@@ -1070,16 +1197,16 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="SPORT ITALIA SOLO CALCIO" tvg-name="SPORT ITALIA SOLO CALCIO" channel="SPORT ITALIA SOLO CALCIO" group-title="Sport",SPORT ITALIA SOLO CALCIO
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F830949486
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Sportitalia.it.png" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Sportitalia.it.png" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3342849313
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Sportitalia.it.png" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="SPORTITALIA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Sportitalia.it.png" channel="Sportitalia.it" group-title="Sport",SPORTITALIA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2198410339
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SuperTennis.it.png" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SuperTennis.it.png" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F558282118
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/SuperTennis.it.png" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SUPER TENNIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SuperTennis.it.png" channel="SuperTennis.it" group-title="Sport",SUPER TENNIS
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3213195143
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TopCalcio24.it" tvg-name="TOP CALCIO 24" channel="TopCalcio24.it" group-title="Sport",TOP CALCIO 24
@@ -1091,32 +1218,32 @@ https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fpl
 #EXTINF:-1 tvg-id="DISCOVERY MOTOR TREND" tvg-name="DISCOVERY MOTOR TREND" channel="DISCOVERY MOTOR TREND" group-title="TV Sat",DISCOVERY MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F97773955
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/FoodNetwork.it.png" channel="FoodNetwork.it" group-title="TV Sat",FOOD NETWORK
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="FOOD NETWORK" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/FoodNetwork.it.png" channel="FoodNetwork.it" group-title="TV Sat",FOOD NETWORK
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2820683351
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/HGTV.it.png" channel="HGTV.it" group-title="TV Sat",HGTV
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/HGTV.it.png" channel="HGTV.it" group-title="TV Sat",HGTV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2897782781
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3445330307
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3758728323
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/QVC.it.png" channel="QVC.it" group-title="TV Sat",QVC
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/QVC.it.png" channel="QVC.it" group-title="TV Sat",QVC
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2952884641
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/QVC.it.png" channel="QVC.it" group-title="TV Sat",QVC
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/QVC.it.png" channel="QVC.it" group-title="TV Sat",QVC
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F1232565681
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/RaiScuola.it.png" channel="RaiScuola.it" group-title="TV Sat",RAI SCUOLA
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RAI SCUOLA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/RaiScuola.it.png" channel="RaiScuola.it" group-title="TV Sat",RAI SCUOLA
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2007798511
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SENATO TV" tvg-name="SENATO TV" channel="SENATO TV" group-title="TV Sat",SENATO TV
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F2002360508
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F608774683
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="TV Sat",TWENTYSEVEN
 https://vavooproxy.dpdns.org/manifest.m3u8?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F80896559
