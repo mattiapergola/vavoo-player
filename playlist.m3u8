@@ -69,9 +69,6 @@ https://geil.to/live/play/3582607806
 #EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
 https://geil.to/live/play/2049087681
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Rai4k.it.png" channel="" group-title="TV Sat",RAI 4K
-https://geil.to/live/play/374675593
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="IRIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Iris.it.png" channel="Iris.it" group-title="Cinema",IRIS
 https://geil.to/live/play/576490047
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -346,13 +343,13 @@ https://geil.to/live/play/4246774056
 https://geil.to/live/play/2289038972
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportTennis.it" tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportTennis.it.png" channel="SkySportTennis.it" group-title="Sport",SKY SPORT TENNIS
-https://geil.to/live/play/2100771782
+https://geil.to/live/play/78546677
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportGolf.it.png" channel="SkySportGolf.it" group-title="Sport",SKY SPORT GOLF
 https://geil.to/live/play/729945219
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySportNBA.it.png" channel="SkySportNBA.it" group-title="Sport",SKY SPORT NBA
-https://geil.to/live/play/2711959620
+https://geil.to/live/play/326825326
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyCinemaAction.it" tvg-name="SKY CINEMA ACTION" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyCinemaAction.it.png" channel="SkyCinemaAction.it" group-title="Cinema",SKY CINEMA ACTION
 https://geil.to/live/play/3812796171
@@ -398,6 +395,9 @@ https://geil.to/live/play/1806815496
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyAtlantic.it" tvg-name="SKY ATLANTIC" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyAtlantic.it.png" channel="SkyAtlantic.it" group-title="Intrattenimento",SKY ATLANTIC
 https://geil.to/live/play/1421393119
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SkySerie.it" tvg-name="SKY SERIE" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySerie.it.png" channel="SkySerie.it" group-title="Intrattenimento",SKY SERIE
+https://geil.to/live/play/836680112
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkyUno.it" tvg-name="SKY UNO" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkyUno.it.png" channel="SkyUno.it" group-title="Intrattenimento",SKY UNO
 https://geil.to/live/play/2130523218
@@ -459,6 +459,12 @@ https://geil.to/live/play/2130255339
 #EXTINF:-1 tvg-id="SKY PRIMAFILA 9" tvg-name="SKY PRIMAFILA 9" channel="SKY PRIMAFILA 9" group-title="Primafila / PPV",SKY PRIMAFILA 9
 https://geil.to/live/play/1134113883
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY PRIMAFILA PREMIERE 01" tvg-name="SKY PRIMAFILA PREMIERE 01" channel="SKY PRIMAFILA PREMIERE 01" group-title="Primafila / PPV",SKY PRIMAFILA PREMIERE 01
+https://geil.to/live/play/2092474700
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="SKY SPORT" tvg-name="SKY SPORT" channel="SKY SPORT" group-title="Sport",SKY SPORT
+https://geil.to/live/play/924661659
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/SkySport24.it.png" channel="SkySport24.it" group-title="Sport",SKY SPORT 24
 https://geil.to/live/play/2775802255
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -486,6 +492,9 @@ https://geil.to/live/play/2717740015
 #EXTINF:-1 tvg-id="PRIMA TV" tvg-name="PRIMA TV" channel="PRIMA TV" group-title="Other",PRIMA TV
 https://geil.to/live/play/530658045
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISNEY FILM" tvg-name="DISNEY FILM" channel="DISNEY FILM" group-title="Cinema",DISNEY FILM
+https://geil.to/live/play/1264775727
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-name="TWENTYSEVEN" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Mediaset27Twentyseven.it.png" channel="Mediaset27Twentyseven.it" group-title="Cinema",TWENTYSEVEN
 https://geil.to/live/play/608774683
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -508,10 +517,10 @@ https://geil.to/live/play/1955739367
 https://geil.to/live/play/97773955
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="DISCOVERY SCIENCE" channel="DiscoveryScience.it" group-title="Documentary",DISCOVERY SCIENCE
-https://geil.to/live/play/3088028964
+https://geil.to/live/play/528430841
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="History.it" tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/History.it.png" channel="History.it" group-title="Documentary",HISTORY
-https://geil.to/live/play/317837654
+https://geil.to/live/play/2134724757
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="NAT GEO" tvg-name="NAT GEO" channel="NAT GEO" group-title="Documentary",NAT GEO
 https://geil.to/live/play/1735702308
@@ -526,7 +535,7 @@ https://geil.to/live/play/714472867
 https://geil.to/live/play/3124512993
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ComedyCentral.it" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/ComedyCentral.it.png" channel="ComedyCentral.it" group-title="Intrattenimento",COMEDY CENTRAL
-https://geil.to/live/play/433893159
+https://geil.to/live/play/3658277450
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Fox.it" tvg-name="FOX" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/Fox.it.png" channel="Fox.it" group-title="Intrattenimento",FOX
 https://geil.to/live/play/563160609
@@ -542,6 +551,9 @@ https://geil.to/live/play/1744435623
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DEAKIDS" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/DeAKids.it.png" channel="DeAKids.it" group-title="Kids",DEAKIDS
 https://geil.to/live/play/3650430578
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="DISNEY FILM" tvg-name="DISNEY FILM" channel="DISNEY FILM" group-title="Kids",DISNEY FILM
+https://geil.to/live/play/1264775727
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="IUNIOR TV" tvg-name="IUNIOR TV" channel="IUNIOR TV" group-title="Kids",IUNIOR TV
 https://geil.to/live/play/803540254
@@ -614,6 +626,9 @@ https://geil.to/live/play/3027903278
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="M2O" tvg-name="M2O" channel="M2O" group-title="Music",M2O
 https://geil.to/live/play/215827632
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="M2O TV" tvg-name="M2O TV" channel="M2O TV" group-title="Music",M2O TV
+https://geil.to/live/play/1278984600
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="Radio105.it" tvg-name="RADIO 105" channel="Radio105.it" group-title="Music",RADIO 105
 https://geil.to/live/play/679401461
@@ -786,9 +801,6 @@ https://geil.to/live/play/3525104604
 #EXTINF:-1 tvg-id="ESPERIA TV 18" tvg-name="ESPERIA TV 18" channel="ESPERIA TV 18" group-title="Other",ESPERIA TV 18
 https://geil.to/live/play/1812508372
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="ETV RETE 7" tvg-name="ETV RETE 7" channel="ETV RETE 7" group-title="Other",ETV RETE 7
-https://geil.to/live/play/1493820217
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="EURO INDIE MUSIC CHART TV" tvg-name="EURO INDIE MUSIC CHART TV" channel="EURO INDIE MUSIC CHART TV" group-title="Other",EURO INDIE MUSIC CHART TV
 https://geil.to/live/play/3569731325
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -814,10 +826,10 @@ https://geil.to/live/play/651388134
 https://geil.to/live/play/32417864
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="GAMBERO ROSSO" tvg-name="GAMBERO ROSSO" channel="GAMBERO ROSSO" group-title="Other",GAMBERO ROSSO
-https://geil.to/live/play/2373121667
+https://geil.to/live/play/2481284739
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="GIOVANNI PAOLO" tvg-name="GIOVANNI PAOLO" channel="GIOVANNI PAOLO" group-title="Other",GIOVANNI PAOLO
-https://geil.to/live/play/2470759321
+#EXTINF:-1 tvg-id="GAMBERO ROSSO" tvg-name="GAMBERO ROSSO" channel="GAMBERO ROSSO" group-title="Other",GAMBERO ROSSO
+https://geil.to/live/play/2373121667
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="GLOBUS TELEVISION" tvg-name="GLOBUS TELEVISION" channel="GLOBUS TELEVISION" group-title="Other",GLOBUS TELEVISION
 https://geil.to/live/play/2116902817
@@ -942,9 +954,6 @@ https://geil.to/live/play/2094391406
 #EXTINF:-1 tvg-id="RADIO STUDIO DELTA TV" tvg-name="RADIO STUDIO DELTA TV" channel="RADIO STUDIO DELTA TV" group-title="Other",RADIO STUDIO DELTA TV
 https://geil.to/live/play/3921927915
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN COMEDY MOVIES" tvg-name="RAKUTEN COMEDY MOVIES" channel="RAKUTEN COMEDY MOVIES" group-title="Other",RAKUTEN COMEDY MOVIES
-https://geil.to/live/play/1109372778
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RAKUTEN TV ACTION MOVIES ITALY" tvg-name="RAKUTEN TV ACTION MOVIES ITALY" channel="RAKUTEN TV ACTION MOVIES ITALY" group-title="Other",RAKUTEN TV ACTION MOVIES ITALY
 https://geil.to/live/play/605745046
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -957,9 +966,6 @@ https://geil.to/live/play/1810817472
 #EXTINF:-1 tvg-id="RAKUTEN TV CRIME SERIES ITALY" tvg-name="RAKUTEN TV CRIME SERIES ITALY" channel="RAKUTEN TV CRIME SERIES ITALY" group-title="Other",RAKUTEN TV CRIME SERIES ITALY
 https://geil.to/live/play/2528607377
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RAKUTEN TV DRAMA MOVIES ITALY" tvg-name="RAKUTEN TV DRAMA MOVIES ITALY" channel="RAKUTEN TV DRAMA MOVIES ITALY" group-title="Other",RAKUTEN TV DRAMA MOVIES ITALY
-https://geil.to/live/play/3709565277
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RAKUTEN TV FAMILY MOVIES ITALY" tvg-name="RAKUTEN TV FAMILY MOVIES ITALY" channel="RAKUTEN TV FAMILY MOVIES ITALY" group-title="Other",RAKUTEN TV FAMILY MOVIES ITALY
 https://geil.to/live/play/3789878889
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -968,6 +974,9 @@ https://geil.to/live/play/3147240888
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RAKUTEN TV SCIFI ITALY" tvg-name="RAKUTEN TV SCIFI ITALY" channel="RAKUTEN TV SCIFI ITALY" group-title="Other",RAKUTEN TV SCIFI ITALY
 https://geil.to/live/play/93275560
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="RAKUTEN TV TOP MOVIES ITALY" tvg-name="RAKUTEN TV TOP MOVIES ITALY" channel="RAKUTEN TV TOP MOVIES ITALY" group-title="Other",RAKUTEN TV TOP MOVIES ITALY
+https://geil.to/live/play/2181370916
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="REGGIO TV" tvg-name="REGGIO TV" channel="REGGIO TV" group-title="Other",REGGIO TV
 https://geil.to/live/play/2165549789
@@ -985,10 +994,7 @@ https://geil.to/live/play/3692927513
 https://geil.to/live/play/4131055018
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RETE VENETA" tvg-name="RETE VENETA" channel="RETE VENETA" group-title="Other",RETE VENETA
-https://geil.to/live/play/1085172353
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="RETE VENETA" tvg-name="RETE VENETA" channel="RETE VENETA" group-title="Other",RETE VENETA
-https://geil.to/live/play/3999322464
+https://geil.to/live/play/1118453149
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="RETEBIELLA TV" tvg-name="RETEBIELLA TV" channel="RETEBIELLA TV" group-title="Other",RETEBIELLA TV
 https://geil.to/live/play/109447913
@@ -1027,7 +1033,7 @@ https://geil.to/live/play/2061826034
 https://geil.to/live/play/849124464
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELE ABRUZZO" tvg-name="TELE ABRUZZO" channel="TELE ABRUZZO" group-title="Other",TELE ABRUZZO
-https://geil.to/live/play/1668393582
+https://geil.to/live/play/1873520896
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELE CHIARA" tvg-name="TELE CHIARA" channel="TELE CHIARA" group-title="Other",TELE CHIARA
 https://geil.to/live/play/2487986216
@@ -1040,15 +1046,6 @@ https://geil.to/live/play/874797181
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELE MANTOVA" tvg-name="TELE MANTOVA" channel="TELE MANTOVA" group-title="Other",TELE MANTOVA
 https://geil.to/live/play/4123851852
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE MIA" tvg-name="TELE MIA" channel="TELE MIA" group-title="Other",TELE MIA
-https://geil.to/live/play/1206543036
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE PAVIA" tvg-name="TELE PAVIA" channel="TELE PAVIA" group-title="Other",TELE PAVIA
-https://geil.to/live/play/593944289
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TELE PAVIA" tvg-name="TELE PAVIA" channel="TELE PAVIA" group-title="Other",TELE PAVIA
-https://geil.to/live/play/2588652431
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TELE TRICOLORE" tvg-name="TELE TRICOLORE" channel="TELE TRICOLORE" group-title="Other",TELE TRICOLORE
 https://geil.to/live/play/2314613216
@@ -1110,8 +1107,8 @@ https://geil.to/live/play/386765643
 #EXTINF:-1 tvg-id="TELETRICOLORE" tvg-name="TELETRICOLORE" channel="TELETRICOLORE" group-title="Other",TELETRICOLORE
 https://geil.to/live/play/2521763009
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="TRSPORT" tvg-name="TRSPORT" channel="TRSPORT" group-title="Other",TRSPORT
-https://geil.to/live/play/361314062
+#EXTINF:-1 tvg-id="TRG MEDIA" tvg-name="TRG MEDIA" channel="TRG MEDIA" group-title="Other",TRG MEDIA
+https://geil.to/live/play/3020951967
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="TV EUROPE" tvg-name="TV EUROPE" channel="TV EUROPE" group-title="Other",TV EUROPE
 https://geil.to/live/play/2428507022
@@ -1146,6 +1143,9 @@ https://geil.to/live/play/797328723
 #EXTINF:-1 tvg-id="UNINETTUNO UNIVERSITY TV" tvg-name="UNINETTUNO UNIVERSITY TV" channel="UNINETTUNO UNIVERSITY TV" group-title="Other",UNINETTUNO UNIVERSITY TV
 https://geil.to/live/play/376550441
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="UNIRE SAT" tvg-name="UNIRE SAT" channel="UNIRE SAT" group-title="Other",UNIRE SAT
+https://geil.to/live/play/3731369487
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="UNIRESAT" tvg-name="UNIRESAT" channel="UNIRESAT" group-title="Other",UNIRESAT
 https://geil.to/live/play/979345080
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1155,11 +1155,20 @@ https://geil.to/live/play/2070070755
 #EXTINF:-1 tvg-id="VIDEO NOVARA" tvg-name="VIDEO NOVARA" channel="VIDEO NOVARA" group-title="Other",VIDEO NOVARA
 https://geil.to/live/play/2791781421
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="VIDEOSTAR TV" tvg-name="VIDEOSTAR TV" channel="VIDEOSTAR TV" group-title="Other",VIDEOSTAR TV
+https://geil.to/live/play/2499488584
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="VIDEOTOLENTINO" tvg-name="VIDEOTOLENTINO" channel="VIDEOTOLENTINO" group-title="Other",VIDEOTOLENTINO
+https://geil.to/live/play/2015312510
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="YUGIOH ITALY" tvg-name="YUGIOH ITALY" channel="YUGIOH ITALY" group-title="Other",YUGIOH ITALY
 https://geil.to/live/play/2849811027
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="ACISportTv.it" tvg-name="ACI SPORT TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/ACISportTv.it.png" channel="ACISportTv.it" group-title="Sport",ACI SPORT TV
 https://geil.to/live/play/1351631603
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="BIANCONERA JUVENTUS TV" tvg-name="BIANCONERA JUVENTUS TV" channel="BIANCONERA JUVENTUS TV" group-title="Sport",BIANCONERA JUVENTUS TV
+https://geil.to/live/play/829225574
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CACCIA" tvg-name="CACCIA" channel="CACCIA" group-title="Sport",CACCIA
 https://geil.to/live/play/1692155417
@@ -1170,12 +1179,6 @@ https://geil.to/live/play/3639213638
 #EXTINF:-1 tvg-id="DISCOVERY MOTOR TREND" tvg-name="DISCOVERY MOTOR TREND" channel="DISCOVERY MOTOR TREND" group-title="Sport",DISCOVERY MOTOR TREND
 https://geil.to/live/play/97773955
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EUROSPORT 4" tvg-name="EUROSPORT 4" channel="EUROSPORT 4" group-title="Sport",EUROSPORT 4
-https://geil.to/live/play/1668185301
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="EUROSPORT 6" tvg-name="EUROSPORT 6" channel="EUROSPORT 6" group-title="Sport",EUROSPORT 6
-https://geil.to/live/play/3421031748
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="INTER TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/InterTV.it.png" channel="InterTV.it" group-title="Sport",INTER TV
 https://geil.to/live/play/2973773076
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1184,9 +1187,6 @@ https://geil.to/live/play/3657217948
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
 https://geil.to/live/play/3445330307
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="Sport",MOTOR TREND
-https://geil.to/live/play/3758728323
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="PESCA" tvg-name="PESCA" channel="PESCA" group-title="Sport",PESCA
 https://geil.to/live/play/714472867
@@ -1212,6 +1212,12 @@ https://geil.to/live/play/3213195143
 #EXTINF:-1 tvg-id="TopCalcio24.it" tvg-name="TOP CALCIO 24" channel="TopCalcio24.it" group-title="Sport",TOP CALCIO 24
 https://geil.to/live/play/3835549326
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="51 CUSANO ITALIA TV" tvg-name="51 CUSANO ITALIA TV" channel="51 CUSANO ITALIA TV" group-title="TV Sat",51 CUSANO ITALIA TV
+https://geil.to/live/play/4124613557
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="ALMA TV" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/AlmaTV.it.png" channel="AlmaTV.it" group-title="TV Sat",ALMA TV
+https://geil.to/live/play/4131113723
+#EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="CAMERA DEI DEPUTATI" tvg-name="CAMERA DEI DEPUTATI" channel="CAMERA DEI DEPUTATI" group-title="TV Sat",CAMERA DEI DEPUTATI
 https://geil.to/live/play/4253692893
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
@@ -1226,9 +1232,6 @@ https://geil.to/live/play/2897782781
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
 https://geil.to/live/play/3445330307
-#EXTVLCOPT:http-user-agent=okhttp/4.11.0
-#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="MOTOR TREND" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/MotorTrend.it.png" channel="MotorTrend.it" group-title="TV Sat",MOTOR TREND
-https://geil.to/live/play/3758728323
 #EXTVLCOPT:http-user-agent=okhttp/4.11.0
 #EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/QVC.it.png" channel="QVC.it" group-title="TV Sat",QVC
 https://geil.to/live/play/2952884641
