@@ -840,7 +840,7 @@ class PlaylistGenerator:
             # Check local logo (using cached lookup)
             logo_path = ch.get('logo') or ''  # Never write the literal None
             if ch.get('final_logo_override'):
-                logo_path = ch['final_logo_override'].replace("logos/", "https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/")
+                logo_path = ch['final_logo_override'].replace("logos/", "https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/")
             elif epg_id:
                 # Build logos cache on first use
                 if self._logos_cache is None:
@@ -850,7 +850,7 @@ class PlaylistGenerator:
                 matched_file = self._logos_cache.get(target_fname)
 
                 if matched_file:
-                    logo_path = f"https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/{matched_file}"
+                    logo_path = f"https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/logos/{matched_file}"
 
             # Prefer EPG-provided logo when the catalog has no usable URL.
             if not logo_path or str(logo_path).strip().lower() in ("none", "null"):
@@ -879,7 +879,7 @@ class PlaylistGenerator:
         try:
             logging.info(f"Writing {len(processed_channels)} channels to {output_path}...")
             with open(output_path, "w", encoding="utf-8") as f:
-                epg_url = "https://raw.githubusercontent.com/mich-de/vavoo-player/master/epg.xml"
+                epg_url = "https://raw.githubusercontent.com/mattiapergola/vavoo-player/master/epg.xml"
                 f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n')
 
                 for ch in processed_channels:
