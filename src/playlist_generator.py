@@ -714,7 +714,7 @@ class PlaylistGenerator:
 
         # Process channels
         processed_channels = []
-        logos_dir = os.path.join(os.path.dirname(__file__), "..", "..", "logos")  # Assuming script is in python_iptv/src
+        logos_dir = os.path.join(os.path.dirname(__file__), "..", "logos")  # repository root /logos
 
         # Verify logos dir path, fallback to current dir/logos if not found
         if not os.path.exists(logos_dir):
@@ -838,7 +838,7 @@ class PlaylistGenerator:
                 tvg_id = ""
 
             # Check local logo (using cached lookup)
-            logo_path = ch['logo']  # Default to remote
+            logo_path = ch.get('logo') or ''  # Never write the literal None
             if ch.get('final_logo_override'):
                 logo_path = ch['final_logo_override'].replace("logos/", "https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/")
             elif epg_id:
@@ -851,6 +851,11 @@ class PlaylistGenerator:
 
                 if matched_file:
                     logo_path = f"https://raw.githubusercontent.com/mich-de/vavoo-player/master/logos/{matched_file}"
+
+            # Prefer EPG-provided logo when the catalog has no usable URL.
+            if not logo_path or str(logo_path).strip().lower() in ("none", "null"):
+                epg_logo = getattr(self.dm, "epg_icons", {}).get(epg_id, "") if epg_id else ""
+                logo_path = epg_logo if isinstance(epg_logo, str) and epg_logo.startswith(("https://", "http://")) else ""
 
             # Duplicate channel into each matching group
             for category in categories:
@@ -879,7 +884,8 @@ class PlaylistGenerator:
 
                 for ch in processed_channels:
                     f.write(f'#EXTVLCOPT:http-user-agent={USER_AGENT}\n')
-                    header = f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-name="{ch["clean_name"]}" tvg-logo="{ch["final_logo"]}" channel="{ch["tvg_id"]}" group-title="{ch["group"]}",{ch["clean_name"]}'
+                    logo_attr = f' tvg-logo="{ch["final_logo"]}"' if ch["final_logo"] else ""
+                    header = f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-name="{ch["clean_name"]}"{logo_attr} channel="{ch["tvg_id"]}" group-title="{ch["group"]}",{ch["clean_name"]}'
                     f.write(f"{header}\n")
                     f.write(f"{ch['url']}\n")
 
